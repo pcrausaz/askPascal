@@ -1,0 +1,70 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<rss version="2.0">
+    <channel>
+      <title>askPascal</title>
+      <link>https://test.aslkpascal.com</link>
+      <description>Last 10 notes on askPascal</description>
+      <generator>Quartz -- quartz.jzhao.xyz</generator>
+      <item>
+    <title>home</title>
+    <link>https://test.aslkpascal.com/home</link>
+    <guid>https://test.aslkpascal.com/home</guid>
+    <description><![CDATA[ Home All Recipes by Categories Here is a compendium of the recipes I like: appetizer dessert drink meal side sous-vide All recipes by name. ]]></description>
+    <pubDate>Fri, 10 Oct 2025 20:36:19 GMT</pubDate>
+  </item><item>
+    <title>amazing-crypto-framework-for-macos-x</title>
+    <link>https://test.aslkpascal.com/home/amazing-crypto-framework-for-macos-x</link>
+    <guid>https://test.aslkpascal.com/home/amazing-crypto-framework-for-macos-x</guid>
+    <description><![CDATA[ Amazing Crypto Framework for MacOS X More info at: septicus.com/products/opensource/ To download, open terminal and type cd ~/Desktop svn co [www.septicus.com/SSCrypto/trunk/](www.septicus.com/SSCrypto/trunk/) ./SSCrypto . ]]></description>
+    <pubDate>Fri, 10 Oct 2025 20:36:19 GMT</pubDate>
+  </item><item>
+    <title>begleri-stuff</title>
+    <link>https://test.aslkpascal.com/home/begleri-stuff</link>
+    <guid>https://test.aslkpascal.com/home/begleri-stuff</guid>
+    <description><![CDATA[ Begleri stuff Designers AroundSquare: www.aroundsquare.com/ TGP Begleri: www.tgpbegleri.com/ and www.instagram.com/tgpbegleri/ MonkeyFingeR: monkeyfinger-yoyo.myshopify.com/collections/all-begleri Jimpy Design: www.jimpydesigns.com/shop Butterfield Machine: www.butterfield-machine.com/collections/be... ]]></description>
+    <pubDate>Fri, 10 Oct 2025 20:36:19 GMT</pubDate>
+  </item><item>
+    <title>btsleep</title>
+    <link>https://test.aslkpascal.com/home/btsleep</link>
+    <guid>https://test.aslkpascal.com/home/btsleep</guid>
+    <description><![CDATA[ BTSleep Nan’s MacBook Bluetooth disappears from time to time, it seems to be a problem that can be solved by setting the safe sleep options again in terminal as follows: sudo pmset -a hibernatemode 0 For the default factory setting, use sudo pmset -a hibernatemode 3 It may not be a complete fix, as ... ]]></description>
+    <pubDate>Fri, 10 Oct 2025 20:36:19 GMT</pubDate>
+  </item><item>
+    <title>cirque-ephemere</title>
+    <link>https://test.aslkpascal.com/home/cirque-ephemere</link>
+    <guid>https://test.aslkpascal.com/home/cirque-ephemere</guid>
+    <description><![CDATA[ Cirque Ephémère Contacts Salsifis, Kendy &amp; Pierre-René Massard166 rte de Songy-Grossaz74160 FeigèresTel: +33 (0)4 50 35 15 52Mobile: +33 (0)6 80 25 82 63sals.massard@wanadoo.frass. ]]></description>
+    <pubDate>Fri, 10 Oct 2025 20:36:19 GMT</pubDate>
+  </item><item>
+    <title>cirque-ephemere</title>
+    <link>https://test.aslkpascal.com/home/cirque-ephemere/cirque-ephemere</link>
+    <guid>https://test.aslkpascal.com/home/cirque-ephemere/cirque-ephemere</guid>
+    <description><![CDATA[ Cirque Ephemere Contacts Salsifis, Kendy &amp; Pierre-René Massard166 rte de Songy-Grossaz74160 FeigèresTel: +33 (0)4 50 35 15 52Mobile: +33 (0)6 80 25 82 63sals.massard@wanadoo.frass. ]]></description>
+    <pubDate>Fri, 10 Oct 2025 20:36:19 GMT</pubDate>
+  </item><item>
+    <title>collapse-side-bar-in-confluence</title>
+    <link>https://test.aslkpascal.com/home/collapse-side-bar-in-confluence</link>
+    <guid>https://test.aslkpascal.com/home/collapse-side-bar-in-confluence</guid>
+    <description><![CDATA[ Collapse Side Bar in Confluence Place the following into the body of the Custom HTML config (requires admin rights) &lt;script type=&quot;text/javascript&quot;&gt; AJS.toInit(function () { if(AJS.$(&#039;.ia-fixed-sidebar.collapsed&#039;).length == 0) { AJS.$(&#039;.ia-fixed-sidebar .space-tools-sec... ]]></description>
+    <pubDate>Fri, 10 Oct 2025 20:36:19 GMT</pubDate>
+  </item><item>
+    <title>conference-rooms-sunnyvale</title>
+    <link>https://test.aslkpascal.com/home/conference-rooms-sunnyvale</link>
+    <guid>https://test.aslkpascal.com/home/conference-rooms-sunnyvale</guid>
+    <description><![CDATA[ Conference Rooms Sunnyvale Conference%20Room%20List%20-%20Updated%204.22.2019.xlsx Sunnyvale%202nd%20Floor%20Bookable-Unbookable%20Conference%20Rooms.pdf Sunnyvale%201st%20Floor%20Bookable-Unbookable%20Conference%20Rooms.pdf. ]]></description>
+    <pubDate>Fri, 10 Oct 2025 20:36:19 GMT</pubDate>
+  </item><item>
+    <title>cool-applications-for-macosx</title>
+    <link>https://test.aslkpascal.com/home/cool-applications-for-macosx</link>
+    <guid>https://test.aslkpascal.com/home/cool-applications-for-macosx</guid>
+    <description><![CDATA[ Cool Applications for MacOSX iPhone Applications Check [iPhone Applications] Leopard Tricks Got their own page [Leopard, Snow Leopard, Lion and other Cats Tricks] XCode Check [XCode] Communications Tools Adium The best IM aggregator around…if only it did skype as well… www.adiumx.com/ Better GMail F... ]]></description>
+    <pubDate>Fri, 10 Oct 2025 20:36:19 GMT</pubDate>
+  </item><item>
+    <title>demo-vea-systems</title>
+    <link>https://test.aslkpascal.com/home/demo-vea-systems</link>
+    <guid>https://test.aslkpascal.com/home/demo-vea-systems</guid>
+    <description><![CDATA[ Demo Vea Systems Veasystems / veasystems.com/ Edmond Vea Focus is mostly on Non emergencies call handling… or redirected from 911 or 311, they then handle these calls. ]]></description>
+    <pubDate>Fri, 10 Oct 2025 20:36:19 GMT</pubDate>
+  </item>
+    </channel>
+  </rss>
