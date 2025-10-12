@@ -1,5 +1,7 @@
 import { QuartzConfig } from "./quartz/cfg"
 import * as Plugin from "./quartz/plugins"
+// Import the custom plugin we just created
+import { CustomDirectives } from "./quartz/plugins/transformers/custom-directives" 
 
 /**
  * Quartz 4 Configuration
@@ -12,11 +14,13 @@ const config: QuartzConfig = {
     pageTitleSuffix: "",
     enableSPA: true,
     enablePopovers: true,
-    analytics: {
-      provider: "",
+/*    analytics: {
+      provider: "plausible",
     },
+*/
+    analytics: null,
     locale: "en-US",
-    baseUrl: "test.aslkpascal.com",
+    baseUrl: "test.askpascal.com",
     ignorePatterns: ["private", "templates", ".obsidian"],
     defaultDateType: "modified",
     theme: {
@@ -72,6 +76,8 @@ const config: QuartzConfig = {
       Plugin.CrawlLinks({ markdownLinkResolution: "shortest" }),
       Plugin.Description(),
       Plugin.Latex({ renderEngine: "katex" }),
+       // Add the custom directive handler here
+      CustomDirectives(), 
     ],
     filters: [Plugin.RemoveDrafts()],
     emitters: [

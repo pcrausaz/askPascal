@@ -2,69 +2,69 @@
 <rss version="2.0">
     <channel>
       <title>askPascal</title>
-      <link>https://test.aslkpascal.com</link>
+      <link>https://test.askpascal.com</link>
       <description>Last 10 notes on askPascal</description>
       <generator>Quartz -- quartz.jzhao.xyz</generator>
       <item>
-    <title>home</title>
-    <link>https://test.aslkpascal.com/home</link>
-    <guid>https://test.aslkpascal.com/home</guid>
-    <description><![CDATA[ Home All Recipes by Categories Here is a compendium of the recipes I like: appetizer dessert drink meal side sous-vide All recipes by name. ]]></description>
-    <pubDate>Fri, 10 Oct 2025 20:36:19 GMT</pubDate>
+    <title>Appetizers</title>
+    <link>https://test.askpascal.com/Appetizers</link>
+    <guid>https://test.askpascal.com/Appetizers</guid>
+    <description><![CDATA[ LIST FROM #appetizer WHERE file.name != &quot;Sous-Vide Recipe&quot; WHERE file.name != &quot;Traditional Recipe&quot; SORT file.name DESC appetizer. ]]></description>
+    <pubDate>Sat, 11 Oct 2025 21:04:36 GMT</pubDate>
   </item><item>
-    <title>amazing-crypto-framework-for-macos-x</title>
-    <link>https://test.aslkpascal.com/home/amazing-crypto-framework-for-macos-x</link>
-    <guid>https://test.aslkpascal.com/home/amazing-crypto-framework-for-macos-x</guid>
-    <description><![CDATA[ Amazing Crypto Framework for MacOS X More info at: septicus.com/products/opensource/ To download, open terminal and type cd ~/Desktop svn co [www.septicus.com/SSCrypto/trunk/](www.septicus.com/SSCrypto/trunk/) ./SSCrypto . ]]></description>
-    <pubDate>Fri, 10 Oct 2025 20:36:19 GMT</pubDate>
+    <title>al-pastor-tacos</title>
+    <link>https://test.askpascal.com/Recipes/al-pastor-tacos</link>
+    <guid>https://test.askpascal.com/Recipes/al-pastor-tacos</guid>
+    <description><![CDATA[ Al Pastor Tacos appetizer meal recipe traditional INFO Full of flavors, next time I’ll try not to forget to take a picture of the trompo coming out of the oven Ingredients 2-3 lb of Pork Butt (shoulder) 1 Fresh pineapple Corn Tortillas Cilantro Onion Lime Ingredients Marinade 4 garlic cloves 1/2 Oni... ]]></description>
+    <pubDate>Sat, 11 Oct 2025 20:30:31 GMT</pubDate>
   </item><item>
-    <title>begleri-stuff</title>
-    <link>https://test.aslkpascal.com/home/begleri-stuff</link>
-    <guid>https://test.aslkpascal.com/home/begleri-stuff</guid>
-    <description><![CDATA[ Begleri stuff Designers AroundSquare: www.aroundsquare.com/ TGP Begleri: www.tgpbegleri.com/ and www.instagram.com/tgpbegleri/ MonkeyFingeR: monkeyfinger-yoyo.myshopify.com/collections/all-begleri Jimpy Design: www.jimpydesigns.com/shop Butterfield Machine: www.butterfield-machine.com/collections/be... ]]></description>
-    <pubDate>Fri, 10 Oct 2025 20:36:19 GMT</pubDate>
+    <title>avocado-crab-appetizer</title>
+    <link>https://test.askpascal.com/Recipes/avocado-crab-appetizer</link>
+    <guid>https://test.askpascal.com/Recipes/avocado-crab-appetizer</guid>
+    <description><![CDATA[ Avocado Crab Appetizer appetizer recipe traditional INFO Delicious little marvel by Jean-Pierre Vigato Ingredients 1-2 Tbsp of Mayo 1 Tbsp of Heavy Cream 1 Avocado 1 can of crab or fresh crab 2-3 tomatoes Scallions 1 Lemon Ginger Cilantro Basil or leeks (3-4 leaves or so, for the leeks use the yello... ]]></description>
+    <pubDate>Sat, 11 Oct 2025 20:30:15 GMT</pubDate>
   </item><item>
-    <title>btsleep</title>
-    <link>https://test.aslkpascal.com/home/btsleep</link>
-    <guid>https://test.aslkpascal.com/home/btsleep</guid>
-    <description><![CDATA[ BTSleep Nan’s MacBook Bluetooth disappears from time to time, it seems to be a problem that can be solved by setting the safe sleep options again in terminal as follows: sudo pmset -a hibernatemode 0 For the default factory setting, use sudo pmset -a hibernatemode 3 It may not be a complete fix, as ... ]]></description>
-    <pubDate>Fri, 10 Oct 2025 20:36:19 GMT</pubDate>
+    <title>Recipes Index</title>
+    <link>https://test.askpascal.com/Recipes-Index</link>
+    <guid>https://test.askpascal.com/Recipes-Index</guid>
+    <description><![CDATA[ LIST FROM #recipe WHERE file.name != &quot;Sous-Vide Recipe&quot; WHERE file.name != &quot;Traditional Recipe&quot; SORT file.name DESC. ]]></description>
+    <pubDate>Sat, 11 Oct 2025 20:29:53 GMT</pubDate>
   </item><item>
-    <title>cirque-ephemere</title>
-    <link>https://test.aslkpascal.com/home/cirque-ephemere</link>
-    <guid>https://test.aslkpascal.com/home/cirque-ephemere</guid>
-    <description><![CDATA[ Cirque Ephémère Contacts Salsifis, Kendy &amp; Pierre-René Massard166 rte de Songy-Grossaz74160 FeigèresTel: +33 (0)4 50 35 15 52Mobile: +33 (0)6 80 25 82 63sals.massard@wanadoo.frass. ]]></description>
-    <pubDate>Fri, 10 Oct 2025 20:36:19 GMT</pubDate>
+    <title>Traditional</title>
+    <link>https://test.askpascal.com/Traditional</link>
+    <guid>https://test.askpascal.com/Traditional</guid>
+    <description><![CDATA[ LIST FROM #traditional WHERE file.name != &quot;Sous-Vide Recipe&quot; WHERE file.name != &quot;Traditional Recipe&quot; SORT file.name DESC. ]]></description>
+    <pubDate>Sat, 11 Oct 2025 20:29:41 GMT</pubDate>
   </item><item>
-    <title>cirque-ephemere</title>
-    <link>https://test.aslkpascal.com/home/cirque-ephemere/cirque-ephemere</link>
-    <guid>https://test.aslkpascal.com/home/cirque-ephemere/cirque-ephemere</guid>
-    <description><![CDATA[ Cirque Ephemere Contacts Salsifis, Kendy &amp; Pierre-René Massard166 rte de Songy-Grossaz74160 FeigèresTel: +33 (0)4 50 35 15 52Mobile: +33 (0)6 80 25 82 63sals.massard@wanadoo.frass. ]]></description>
-    <pubDate>Fri, 10 Oct 2025 20:36:19 GMT</pubDate>
+    <title>Sous-Vide</title>
+    <link>https://test.askpascal.com/Sous-Vide</link>
+    <guid>https://test.askpascal.com/Sous-Vide</guid>
+    <description><![CDATA[ LIST FROM #sous-vide WHERE file.name != &quot;Sous-Vide Recipe&quot; WHERE file.name != &quot;Traditional Recipe&quot; SORT file.name DESC. ]]></description>
+    <pubDate>Sat, 11 Oct 2025 20:29:33 GMT</pubDate>
   </item><item>
-    <title>collapse-side-bar-in-confluence</title>
-    <link>https://test.aslkpascal.com/home/collapse-side-bar-in-confluence</link>
-    <guid>https://test.aslkpascal.com/home/collapse-side-bar-in-confluence</guid>
-    <description><![CDATA[ Collapse Side Bar in Confluence Place the following into the body of the Custom HTML config (requires admin rights) &lt;script type=&quot;text/javascript&quot;&gt; AJS.toInit(function () { if(AJS.$(&#039;.ia-fixed-sidebar.collapsed&#039;).length == 0) { AJS.$(&#039;.ia-fixed-sidebar .space-tools-sec... ]]></description>
-    <pubDate>Fri, 10 Oct 2025 20:36:19 GMT</pubDate>
+    <title>Drinks</title>
+    <link>https://test.askpascal.com/Drinks</link>
+    <guid>https://test.askpascal.com/Drinks</guid>
+    <description><![CDATA[ LIST FROM #drink WHERE file.name != &quot;Sous-Vide Recipe&quot; WHERE file.name != &quot;Traditional Recipe&quot; SORT file.name DESC. ]]></description>
+    <pubDate>Sat, 11 Oct 2025 20:29:23 GMT</pubDate>
   </item><item>
-    <title>conference-rooms-sunnyvale</title>
-    <link>https://test.aslkpascal.com/home/conference-rooms-sunnyvale</link>
-    <guid>https://test.aslkpascal.com/home/conference-rooms-sunnyvale</guid>
-    <description><![CDATA[ Conference Rooms Sunnyvale Conference%20Room%20List%20-%20Updated%204.22.2019.xlsx Sunnyvale%202nd%20Floor%20Bookable-Unbookable%20Conference%20Rooms.pdf Sunnyvale%201st%20Floor%20Bookable-Unbookable%20Conference%20Rooms.pdf. ]]></description>
-    <pubDate>Fri, 10 Oct 2025 20:36:19 GMT</pubDate>
+    <title>Sides</title>
+    <link>https://test.askpascal.com/Sides</link>
+    <guid>https://test.askpascal.com/Sides</guid>
+    <description><![CDATA[ LIST FROM #side WHERE file.name != &quot;Sous-Vide Recipe&quot; WHERE file.name != &quot;Traditional Recipe&quot; SORT file.name DESC. ]]></description>
+    <pubDate>Sat, 11 Oct 2025 20:29:14 GMT</pubDate>
   </item><item>
-    <title>cool-applications-for-macosx</title>
-    <link>https://test.aslkpascal.com/home/cool-applications-for-macosx</link>
-    <guid>https://test.aslkpascal.com/home/cool-applications-for-macosx</guid>
-    <description><![CDATA[ Cool Applications for MacOSX iPhone Applications Check [iPhone Applications] Leopard Tricks Got their own page [Leopard, Snow Leopard, Lion and other Cats Tricks] XCode Check [XCode] Communications Tools Adium The best IM aggregator around…if only it did skype as well… www.adiumx.com/ Better GMail F... ]]></description>
-    <pubDate>Fri, 10 Oct 2025 20:36:19 GMT</pubDate>
+    <title>Meals</title>
+    <link>https://test.askpascal.com/Meals</link>
+    <guid>https://test.askpascal.com/Meals</guid>
+    <description><![CDATA[ LIST FROM #meal WHERE file.name != &quot;Sous-Vide Recipe&quot; WHERE file.name != &quot;Traditional Recipe&quot; SORT file.name DESC. ]]></description>
+    <pubDate>Sat, 11 Oct 2025 20:29:01 GMT</pubDate>
   </item><item>
-    <title>demo-vea-systems</title>
-    <link>https://test.aslkpascal.com/home/demo-vea-systems</link>
-    <guid>https://test.aslkpascal.com/home/demo-vea-systems</guid>
-    <description><![CDATA[ Demo Vea Systems Veasystems / veasystems.com/ Edmond Vea Focus is mostly on Non emergencies call handling… or redirected from 911 or 311, they then handle these calls. ]]></description>
-    <pubDate>Fri, 10 Oct 2025 20:36:19 GMT</pubDate>
+    <title>Desserts</title>
+    <link>https://test.askpascal.com/Desserts</link>
+    <guid>https://test.askpascal.com/Desserts</guid>
+    <description><![CDATA[ LIST FROM #dessert WHERE file.name != &quot;Sous-Vide Recipe&quot; WHERE file.name != &quot;Traditional Recipe&quot; SORT file.name DESC. ]]></description>
+    <pubDate>Sat, 11 Oct 2025 20:28:52 GMT</pubDate>
   </item>
     </channel>
   </rss>

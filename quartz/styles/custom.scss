@@ -1,3 +1,31 @@
 @use "./base.scss";
 
 // put your custom CSS here!
+
+
+.three-columns-page {
+  display: grid;
+  grid-template-columns: 1fr 1fr 1fr;
+  gap: 2rem;
+}
+
+@media (max-width: 768px) {
+  .three-columns-page {
+    grid-template-columns: 1fr;
+  }
+}
+
+
+
+.three-columns {
+  display: grid;
+  grid-template-columns: 1fr 1fr 1fr; /* Creates three equal-width columns */
+  gap: 2rem; /* Adjust gap as needed */
+}
+
+/* Optional: Make it responsive by stacking on smaller screens */
+@media (max-width: 768px) {
+  .three-columns {
+    grid-template-columns: 1fr;
+  }
+}
