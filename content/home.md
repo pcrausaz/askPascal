@@ -2,20 +2,21 @@
 title: Home
 aliases:
   - index
+  - home
 ---
-
-# Home
 :::three-columns-plain
+
 
 ## All Recipes by Categories
 Here is a compendium of the recipes I like:
-- [[tags/Appetizer|Appetizer]]
-- [[tags/Dessert|Dessert]]
-- [[tags/Meal|Meal]]
-- [[tags/Side|Side]]
-- [[tags/Drink|Drink]]
-- [[tags/Sous-Vide|Sous-Vide]]
-- [[tags/Traditional|Traditional]]
+- [[tags/appetizer|Appetizers]]
+- [[tags/meal|Main Courses]]
+- [[tags/side|Sides]]
+- [[tags/dessert|Desserts]]
+- [[tags/drink|Drinks]]
+- [[tags/sous-Vide|Sous-Vide Recipes]]
+- [[tags/traditional|Traditional Recipes]]
+**See complete recipe list:** [[tags/recipe|All Recipes]]
 
 **Cooking Sous-Vide & Reference Cookbook**
 - [[How to get started with Sous-Vide cooking|How to get started with Sous-Vide cooking]]

@@ -1,3 +1,11 @@
+
+[[tags/traditional|Traditional Recipes]]
+
+Back to [[Home]]
+
+
+> [!note] Viewing in Obsidian?
+> The dynamic list below works in Obsidian. On the web, browse by above.
 ```dataview
 LIST FROM #traditional 
 WHERE file.name != "Sous-Vide Recipe" 

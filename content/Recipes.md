@@ -1,7 +1,15 @@
-### By categories
-[[Appetizers]] [[Desserts]] [[Meals]] [[Sides]] [[Drinks]]
-### By type
-[[Sous-Vide]] [[Traditional]]
 
-### All Recipes
-[[Recipes Index]]
+[[tags/recipe|All Recipes]]
+
+Back to [[Home]]
+
+
+
+> [!note] Viewing in Obsidian?
+> The dynamic list below works in Obsidian. On the web, browse by above.
+```dataview
+LIST FROM #recipe 
+WHERE file.name != "Sous-Vide Recipe" 
+WHERE file.name != "Traditional Recipe" 
+SORT file.name DESC
+```
