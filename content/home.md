@@ -1,3 +1,9 @@
+---
+title: Home
+aliases:
+  - index
+---
+
 # Home
 :::three-columns-plain
 
