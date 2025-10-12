@@ -1,6 +1,6 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9" xmlns:xhtml="http://www.w3.org/1999/xhtml"><url>
     <loc>https://test.askpascal.com/Appetizers</loc>
-    <lastmod>2025-10-11T21:04:36.068Z</lastmod>
+    <lastmod>2025-10-11T20:25:20.299Z</lastmod>
   </url><url>
     <loc>https://test.askpascal.com/Desserts</loc>
     <lastmod>2025-10-11T20:28:52.273Z</lastmod>
@@ -18,10 +18,10 @@
     <lastmod>2025-10-11T19:48:47.003Z</lastmod>
   </url><url>
     <loc>https://test.askpascal.com/Recipes/7-Layers-Chip-Dip</loc>
-    <lastmod>2025-10-11T20:22:05.168Z</lastmod>
+    <lastmod>2025-10-12T18:36:41.228Z</lastmod>
   </url><url>
     <loc>https://test.askpascal.com/Recipes/72-hours-short-ribs</loc>
-    <lastmod>2025-10-11T19:33:30.562Z</lastmod>
+    <lastmod>2025-10-12T18:35:21.587Z</lastmod>
   </url><url>
     <loc>https://test.askpascal.com/Recipes/al-pastor-tacos</loc>
     <lastmod>2025-10-11T20:30:31.024Z</lastmod>
@@ -753,13 +753,28 @@
     <lastmod>2025-10-11T20:29:33.513Z</lastmod>
   </url><url>
     <loc>https://test.askpascal.com/Templates/Sous-Vide-Recipe</loc>
-    <lastmod>2025-10-11T20:22:36.521Z</lastmod>
+    <lastmod>2025-10-12T18:35:34.106Z</lastmod>
   </url><url>
     <loc>https://test.askpascal.com/Templates/Traditional-Recipe</loc>
-    <lastmod>2025-10-11T20:22:31.347Z</lastmod>
+    <lastmod>2025-10-12T18:35:45.237Z</lastmod>
   </url><url>
     <loc>https://test.askpascal.com/Traditional</loc>
     <lastmod>2025-10-11T20:29:41.715Z</lastmod>
+  </url><url>
+    <loc>https://test.askpascal.com/askpascal/home/Obsidian-Style-Recipes/Recipes-Index</loc>
+    <lastmod>2025-10-12T17:49:07.463Z</lastmod>
+  </url><url>
+    <loc>https://test.askpascal.com/askpascal/home/Obsidian-Style-Recipes/</loc>
+    <lastmod>2025-10-12T16:54:00.173Z</lastmod>
+  </url><url>
+    <loc>https://test.askpascal.com/askpascal/home/Obsidian-Style-Recipes/test-column-styles</loc>
+    <lastmod>2025-10-12T17:06:01.802Z</lastmod>
+  </url><url>
+    <loc>https://test.askpascal.com/askpascal/home/Obsidian-Style-Recipes/test-three-columns</loc>
+    <lastmod>2025-10-12T16:54:45.601Z</lastmod>
+  </url><url>
+    <loc>https://test.askpascal.com/askpascal/home/Obsidian-Style-Recipes/test-two-columns</loc>
+    <lastmod>2025-10-12T16:59:21.603Z</lastmod>
   </url><url>
     <loc>https://test.askpascal.com/askpascal/home/amazing-crypto-framework-for-macos-x</loc>
     <lastmod>2025-10-09T23:59:06.000Z</lastmod>

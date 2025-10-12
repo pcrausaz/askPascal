@@ -6,65 +6,65 @@
       <description>Last 10 notes on askPascal</description>
       <generator>Quartz -- quartz.jzhao.xyz</generator>
       <item>
-    <title>Appetizers</title>
-    <link>https://test.askpascal.com/Appetizers</link>
-    <guid>https://test.askpascal.com/Appetizers</guid>
-    <description><![CDATA[ LIST FROM #appetizer WHERE file.name != &quot;Sous-Vide Recipe&quot; WHERE file.name != &quot;Traditional Recipe&quot; SORT file.name DESC appetizer. ]]></description>
-    <pubDate>Sat, 11 Oct 2025 21:04:36 GMT</pubDate>
+    <title>7 Layers Chip Dip</title>
+    <link>https://test.askpascal.com/Recipes/7-Layers-Chip-Dip</link>
+    <guid>https://test.askpascal.com/Recipes/7-Layers-Chip-Dip</guid>
+    <description><![CDATA[ 7 Layers Chip Dip appetizer traditional recipe INFO Perfect for parties. ]]></description>
+    <pubDate>Sun, 12 Oct 2025 18:36:41 GMT</pubDate>
+  </item><item>
+    <title>Traditional Recipe</title>
+    <link>https://test.askpascal.com/Templates/Traditional-Recipe</link>
+    <guid>https://test.askpascal.com/Templates/Traditional-Recipe</guid>
+    <description><![CDATA[ appetizer meal dessert side drink traditional recipe INFO … DetailsIngredients … Method … Quick View TraditionalServexPreparation Timex mnCooking Timex mnTemperaturex °C / x° FAuthorsPascal CrausazSpecial. ]]></description>
+    <pubDate>Sun, 12 Oct 2025 18:35:45 GMT</pubDate>
+  </item><item>
+    <title>Sous-Vide Recipe</title>
+    <link>https://test.askpascal.com/Templates/Sous-Vide-Recipe</link>
+    <guid>https://test.askpascal.com/Templates/Sous-Vide-Recipe</guid>
+    <description><![CDATA[ appetizer meal dessert side drink sous-vide recipe INFO … DetailsIngredients … Method … Quick View Sous-VideServexPreparation Timex mnCooking Time (sous-vide)x mnCooking Time (traditional)x mnTemperaturex °C / x° FAuthorsPascal CrausazSpecial. ]]></description>
+    <pubDate>Sun, 12 Oct 2025 18:35:34 GMT</pubDate>
+  </item><item>
+    <title>72 hours short ribs</title>
+    <link>https://test.askpascal.com/Recipes/72-hours-short-ribs</link>
+    <guid>https://test.askpascal.com/Recipes/72-hours-short-ribs</guid>
+    <description><![CDATA[ 72 hours short ribs meal INFO Take some planning, but not much work. Absolutely fabulous. ]]></description>
+    <pubDate>Sun, 12 Oct 2025 18:35:21 GMT</pubDate>
+  </item><item>
+    <title>Recipes Index</title>
+    <link>https://test.askpascal.com/askpascal/home/Obsidian-Style-Recipes/Recipes-Index</link>
+    <guid>https://test.askpascal.com/askpascal/home/Obsidian-Style-Recipes/Recipes-Index</guid>
+    <description><![CDATA[ Recipe Index Viewing in Obsidian? The dynamic list below works in Obsidian. On the web, browse by categories below. ]]></description>
+    <pubDate>Sun, 12 Oct 2025 17:49:07 GMT</pubDate>
+  </item><item>
+    <title>test-column-styles</title>
+    <link>https://test.askpascal.com/askpascal/home/Obsidian-Style-Recipes/test-column-styles</link>
+    <guid>https://test.askpascal.com/askpascal/home/Obsidian-Style-Recipes/test-column-styles</guid>
+    <description><![CDATA[ Column Style Variants Test This page demonstrates all available column layouts with different style options. ]]></description>
+    <pubDate>Sun, 12 Oct 2025 17:06:01 GMT</pubDate>
+  </item><item>
+    <title>test-two-columns</title>
+    <link>https://test.askpascal.com/askpascal/home/Obsidian-Style-Recipes/test-two-columns</link>
+    <guid>https://test.askpascal.com/askpascal/home/Obsidian-Style-Recipes/test-two-columns</guid>
+    <description><![CDATA[ Two Column Layout Tests This page demonstrates the two-column layout options with various configurations. ]]></description>
+    <pubDate>Sun, 12 Oct 2025 16:59:21 GMT</pubDate>
+  </item><item>
+    <title>test-three-columns</title>
+    <link>https://test.askpascal.com/askpascal/home/Obsidian-Style-Recipes/test-three-columns</link>
+    <guid>https://test.askpascal.com/askpascal/home/Obsidian-Style-Recipes/test-three-columns</guid>
+    <description><![CDATA[ Three Column Layout Test This page demonstrates the three-column layout using directive syntax that works in both Obsidian and Quartz. ]]></description>
+    <pubDate>Sun, 12 Oct 2025 16:54:45 GMT</pubDate>
+  </item><item>
+    <title>index</title>
+    <link>https://test.askpascal.com/askpascal/home/Obsidian-Style-Recipes/</link>
+    <guid>https://test.askpascal.com/askpascal/home/Obsidian-Style-Recipes/</guid>
+    <description><![CDATA[ Home Welcome to askPascal! All Recipes by CategoriesHere is a compendium of the recipes I like: Appetizer Dessert Meal Side Drink Sous-Vide Traditional Some Good ArticlesCooking Sous-Vide: How to get started with Sous-Vide cooking Sous-Vide Temperature Chart The only cookbook you ever need: The Comp... ]]></description>
+    <pubDate>Sun, 12 Oct 2025 16:54:00 GMT</pubDate>
   </item><item>
     <title>al-pastor-tacos</title>
     <link>https://test.askpascal.com/Recipes/al-pastor-tacos</link>
     <guid>https://test.askpascal.com/Recipes/al-pastor-tacos</guid>
     <description><![CDATA[ Al Pastor Tacos appetizer meal recipe traditional INFO Full of flavors, next time I’ll try not to forget to take a picture of the trompo coming out of the oven Ingredients 2-3 lb of Pork Butt (shoulder) 1 Fresh pineapple Corn Tortillas Cilantro Onion Lime Ingredients Marinade 4 garlic cloves 1/2 Oni... ]]></description>
     <pubDate>Sat, 11 Oct 2025 20:30:31 GMT</pubDate>
-  </item><item>
-    <title>avocado-crab-appetizer</title>
-    <link>https://test.askpascal.com/Recipes/avocado-crab-appetizer</link>
-    <guid>https://test.askpascal.com/Recipes/avocado-crab-appetizer</guid>
-    <description><![CDATA[ Avocado Crab Appetizer appetizer recipe traditional INFO Delicious little marvel by Jean-Pierre Vigato Ingredients 1-2 Tbsp of Mayo 1 Tbsp of Heavy Cream 1 Avocado 1 can of crab or fresh crab 2-3 tomatoes Scallions 1 Lemon Ginger Cilantro Basil or leeks (3-4 leaves or so, for the leeks use the yello... ]]></description>
-    <pubDate>Sat, 11 Oct 2025 20:30:15 GMT</pubDate>
-  </item><item>
-    <title>Recipes Index</title>
-    <link>https://test.askpascal.com/Recipes-Index</link>
-    <guid>https://test.askpascal.com/Recipes-Index</guid>
-    <description><![CDATA[ LIST FROM #recipe WHERE file.name != &quot;Sous-Vide Recipe&quot; WHERE file.name != &quot;Traditional Recipe&quot; SORT file.name DESC. ]]></description>
-    <pubDate>Sat, 11 Oct 2025 20:29:53 GMT</pubDate>
-  </item><item>
-    <title>Traditional</title>
-    <link>https://test.askpascal.com/Traditional</link>
-    <guid>https://test.askpascal.com/Traditional</guid>
-    <description><![CDATA[ LIST FROM #traditional WHERE file.name != &quot;Sous-Vide Recipe&quot; WHERE file.name != &quot;Traditional Recipe&quot; SORT file.name DESC. ]]></description>
-    <pubDate>Sat, 11 Oct 2025 20:29:41 GMT</pubDate>
-  </item><item>
-    <title>Sous-Vide</title>
-    <link>https://test.askpascal.com/Sous-Vide</link>
-    <guid>https://test.askpascal.com/Sous-Vide</guid>
-    <description><![CDATA[ LIST FROM #sous-vide WHERE file.name != &quot;Sous-Vide Recipe&quot; WHERE file.name != &quot;Traditional Recipe&quot; SORT file.name DESC. ]]></description>
-    <pubDate>Sat, 11 Oct 2025 20:29:33 GMT</pubDate>
-  </item><item>
-    <title>Drinks</title>
-    <link>https://test.askpascal.com/Drinks</link>
-    <guid>https://test.askpascal.com/Drinks</guid>
-    <description><![CDATA[ LIST FROM #drink WHERE file.name != &quot;Sous-Vide Recipe&quot; WHERE file.name != &quot;Traditional Recipe&quot; SORT file.name DESC. ]]></description>
-    <pubDate>Sat, 11 Oct 2025 20:29:23 GMT</pubDate>
-  </item><item>
-    <title>Sides</title>
-    <link>https://test.askpascal.com/Sides</link>
-    <guid>https://test.askpascal.com/Sides</guid>
-    <description><![CDATA[ LIST FROM #side WHERE file.name != &quot;Sous-Vide Recipe&quot; WHERE file.name != &quot;Traditional Recipe&quot; SORT file.name DESC. ]]></description>
-    <pubDate>Sat, 11 Oct 2025 20:29:14 GMT</pubDate>
-  </item><item>
-    <title>Meals</title>
-    <link>https://test.askpascal.com/Meals</link>
-    <guid>https://test.askpascal.com/Meals</guid>
-    <description><![CDATA[ LIST FROM #meal WHERE file.name != &quot;Sous-Vide Recipe&quot; WHERE file.name != &quot;Traditional Recipe&quot; SORT file.name DESC. ]]></description>
-    <pubDate>Sat, 11 Oct 2025 20:29:01 GMT</pubDate>
-  </item><item>
-    <title>Desserts</title>
-    <link>https://test.askpascal.com/Desserts</link>
-    <guid>https://test.askpascal.com/Desserts</guid>
-    <description><![CDATA[ LIST FROM #dessert WHERE file.name != &quot;Sous-Vide Recipe&quot; WHERE file.name != &quot;Traditional Recipe&quot; SORT file.name DESC. ]]></description>
-    <pubDate>Sat, 11 Oct 2025 20:28:52 GMT</pubDate>
   </item>
     </channel>
   </rss>
