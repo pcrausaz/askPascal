@@ -14,7 +14,7 @@ Here is a compendium of the recipes I like:
 - [[tags/side|Sides]]
 - [[tags/dessert|Desserts]]
 - [[tags/drink|Drinks]]
-- [[tags/sous-Vide|Sous-Vide Recipes]]
+- [[tags/sous-vide|Sous-Vide Recipes]]
 - [[tags/traditional|Traditional Recipes]]
 **See complete recipe list:** [[tags/recipe|All Recipes]]
 

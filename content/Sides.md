@@ -1,14 +1,15 @@
 
-[[tags/side|Sides]]
+### View all [[tags/side|Sides]]
 
 Back to [[Home]]
 
+<br><br><br><br><br><br><br><br>
 
-> [!note] Viewing in Obsidian?
+> [!cite] Viewing in Obsidian?
 > The dynamic list below works in Obsidian. On the web, browse by above.
-```dataview
-LIST FROM #side
-WHERE file.name != "Sous-Vide Recipe" 
-WHERE file.name != "Traditional Recipe" 
-SORT file.name DESC
-```
+> ```dataview
+> LIST FROM #side 
+> WHERE file.name != "Sous-Vide Recipe" 
+> WHERE file.name != "Traditional Recipe" 
+> SORT file.name DESC
+> ```

@@ -1,13 +1,15 @@
 
-[[tags/drink|Drinks]]
+### View all [[tags/drink|Drinks]]
 
 Back to [[Home]]
 
-> [!note] Viewing in Obsidian?
+<br><br><br><br><br><br><br><br>
+
+> [!cite] Viewing in Obsidian?
 > The dynamic list below works in Obsidian. On the web, browse by above.
-```dataview
-LIST FROM #drink
-WHERE file.name != "Sous-Vide Recipe" 
-WHERE file.name != "Traditional Recipe" 
-SORT file.name DESC
-```
+> ```dataview
+> LIST FROM #drink 
+> WHERE file.name != "Sous-Vide Recipe" 
+> WHERE file.name != "Traditional Recipe" 
+> SORT file.name DESC
+> ```
