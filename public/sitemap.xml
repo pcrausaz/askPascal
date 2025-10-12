@@ -17,11 +17,29 @@
     <loc>https://test.askpascal.com/Recipes</loc>
     <lastmod>2025-10-11T19:48:47.003Z</lastmod>
   </url><url>
+    <loc>https://test.askpascal.com/Sides</loc>
+    <lastmod>2025-10-11T20:29:14.630Z</lastmod>
+  </url><url>
+    <loc>https://test.askpascal.com/Sous-Vide</loc>
+    <lastmod>2025-10-11T20:29:33.513Z</lastmod>
+  </url><url>
+    <loc>https://test.askpascal.com/Traditional</loc>
+    <lastmod>2025-10-11T20:29:41.715Z</lastmod>
+  </url><url>
+    <loc>https://test.askpascal.com/</loc>
+    <lastmod>2025-10-10T20:56:43.000Z</lastmod>
+  </url><url>
+    <loc>https://test.askpascal.com/Templates/Sous-Vide-Recipe</loc>
+    <lastmod>2025-10-12T18:35:34.106Z</lastmod>
+  </url><url>
+    <loc>https://test.askpascal.com/Templates/Traditional-Recipe</loc>
+    <lastmod>2025-10-12T18:35:45.237Z</lastmod>
+  </url><url>
     <loc>https://test.askpascal.com/Recipes/7-Layers-Chip-Dip</loc>
     <lastmod>2025-10-12T18:36:41.228Z</lastmod>
   </url><url>
     <loc>https://test.askpascal.com/Recipes/72-hours-short-ribs</loc>
-    <lastmod>2025-10-12T18:35:21.587Z</lastmod>
+    <lastmod>2025-10-12T18:47:19.120Z</lastmod>
   </url><url>
     <loc>https://test.askpascal.com/Recipes/al-pastor-tacos</loc>
     <lastmod>2025-10-11T20:30:31.024Z</lastmod>
@@ -746,36 +764,6 @@
     <loc>https://test.askpascal.com/Recipes/zucchini-gratin-la-petite-courgette-a-coco</loc>
     <lastmod>2025-10-11T19:33:56.885Z</lastmod>
   </url><url>
-    <loc>https://test.askpascal.com/Sides</loc>
-    <lastmod>2025-10-11T20:29:14.630Z</lastmod>
-  </url><url>
-    <loc>https://test.askpascal.com/Sous-Vide</loc>
-    <lastmod>2025-10-11T20:29:33.513Z</lastmod>
-  </url><url>
-    <loc>https://test.askpascal.com/Templates/Sous-Vide-Recipe</loc>
-    <lastmod>2025-10-12T18:35:34.106Z</lastmod>
-  </url><url>
-    <loc>https://test.askpascal.com/Templates/Traditional-Recipe</loc>
-    <lastmod>2025-10-12T18:35:45.237Z</lastmod>
-  </url><url>
-    <loc>https://test.askpascal.com/Traditional</loc>
-    <lastmod>2025-10-11T20:29:41.715Z</lastmod>
-  </url><url>
-    <loc>https://test.askpascal.com/askpascal/home/Obsidian-Style-Recipes/Recipes-Index</loc>
-    <lastmod>2025-10-12T17:49:07.463Z</lastmod>
-  </url><url>
-    <loc>https://test.askpascal.com/askpascal/home/Obsidian-Style-Recipes/</loc>
-    <lastmod>2025-10-12T16:54:00.173Z</lastmod>
-  </url><url>
-    <loc>https://test.askpascal.com/askpascal/home/Obsidian-Style-Recipes/test-column-styles</loc>
-    <lastmod>2025-10-12T17:06:01.802Z</lastmod>
-  </url><url>
-    <loc>https://test.askpascal.com/askpascal/home/Obsidian-Style-Recipes/test-three-columns</loc>
-    <lastmod>2025-10-12T16:54:45.601Z</lastmod>
-  </url><url>
-    <loc>https://test.askpascal.com/askpascal/home/Obsidian-Style-Recipes/test-two-columns</loc>
-    <lastmod>2025-10-12T16:59:21.603Z</lastmod>
-  </url><url>
     <loc>https://test.askpascal.com/askpascal/home/amazing-crypto-framework-for-macos-x</loc>
     <lastmod>2025-10-09T23:59:06.000Z</lastmod>
   </url><url>
@@ -786,9 +774,6 @@
     <lastmod>2025-10-09T23:59:06.000Z</lastmod>
   </url><url>
     <loc>https://test.askpascal.com/askpascal/home/cirque-ephemere</loc>
-    <lastmod>2025-10-09T23:59:06.000Z</lastmod>
-  </url><url>
-    <loc>https://test.askpascal.com/askpascal/home/cirque-ephemere/cirque-ephemere</loc>
     <lastmod>2025-10-09T23:59:06.000Z</lastmod>
   </url><url>
     <loc>https://test.askpascal.com/askpascal/home/collapse-side-bar-in-confluence</loc>
@@ -884,6 +869,21 @@
     <loc>https://test.askpascal.com/askpascal/home/xcode-change-__mycompanyname__</loc>
     <lastmod>2025-10-09T23:59:06.000Z</lastmod>
   </url><url>
-    <loc>https://test.askpascal.com/</loc>
-    <lastmod>2025-10-10T20:56:43.000Z</lastmod>
+    <loc>https://test.askpascal.com/askpascal/home/Obsidian-Style-Recipes/Recipes-Index</loc>
+    <lastmod>2025-10-12T17:49:07.463Z</lastmod>
+  </url><url>
+    <loc>https://test.askpascal.com/askpascal/home/Obsidian-Style-Recipes/</loc>
+    <lastmod>2025-10-12T16:54:00.173Z</lastmod>
+  </url><url>
+    <loc>https://test.askpascal.com/askpascal/home/Obsidian-Style-Recipes/test-column-styles</loc>
+    <lastmod>2025-10-12T17:06:01.802Z</lastmod>
+  </url><url>
+    <loc>https://test.askpascal.com/askpascal/home/Obsidian-Style-Recipes/test-three-columns</loc>
+    <lastmod>2025-10-12T16:54:45.601Z</lastmod>
+  </url><url>
+    <loc>https://test.askpascal.com/askpascal/home/Obsidian-Style-Recipes/test-two-columns</loc>
+    <lastmod>2025-10-12T16:59:21.603Z</lastmod>
+  </url><url>
+    <loc>https://test.askpascal.com/askpascal/home/cirque-ephemere/cirque-ephemere</loc>
+    <lastmod>2025-10-09T23:59:06.000Z</lastmod>
   </url></urlset>
