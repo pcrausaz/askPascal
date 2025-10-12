@@ -20,7 +20,7 @@ const config: QuartzConfig = {
 */
     analytics: null,
     locale: "en-US",
-    baseUrl: "test.askpascal.com",
+    baseUrl: "pcrausaz.github.io/askPascal",
     ignorePatterns: ["private", "templates", ".obsidian"],
     defaultDateType: "modified",
     theme: {
