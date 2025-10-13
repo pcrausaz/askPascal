@@ -26,7 +26,7 @@ Here is a compendium of the recipes I like:
 
 ## Art by Margo
 - [[Photo Album|Photo Album]]
-![[Image.jpg|150]]
+![[Home_1.jpg|150]]
 
 
 ## Just Awesome

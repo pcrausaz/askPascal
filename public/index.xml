@@ -2,69 +2,69 @@
 <rss version="2.0">
     <channel>
       <title>askPascal</title>
-      <link>https://test.askpascal.com</link>
+      <link>https://askpascal.com</link>
       <description>Last 10 notes on askPascal</description>
       <generator>Quartz -- quartz.jzhao.xyz</generator>
       <item>
-    <title>Xcode - Change __MyCompanyName__</title>
-    <link>https://test.askpascal.com/askPascal/Xcode---Change-__MyCompanyName__</link>
-    <guid>https://test.askpascal.com/askPascal/Xcode---Change-__MyCompanyName__</guid>
-    <description><![CDATA[  Does that even still work? Change __MyCompanyName__ Tired of seeing __MyCompanyName__ in all your files? To get your own reference in the header comments of all your Xcode files, you can set the default company name in Xcode with: defaults write com.apple.Xcode PBXCustomTemplateMacroDefinitions -di... ]]></description>
-    <pubDate>Sun, 12 Oct 2025 21:40:02 GMT</pubDate>
+    <title>Home</title>
+    <link>https://askpascal.com/Home</link>
+    <guid>https://askpascal.com/Home</guid>
+    <description><![CDATA[ All Recipes by CategoriesHere is a compendium of the recipes I like: Appetizers Main Courses Sides Desserts Drinks Sous-Vide Recipes Traditional Recipes See complete recipe list: All Recipes Cooking Sous-Vide &amp; Reference Cookbook How to get started with Sous-Vide cooking Sous-Vide Temperature Ch... ]]></description>
+    <pubDate>Mon, 13 Oct 2025 01:22:35 GMT</pubDate>
   </item><item>
-    <title>XBox 360</title>
-    <link>https://test.askpascal.com/askPascal/XBox-360</link>
-    <guid>https://test.askpascal.com/askPascal/XBox-360</guid>
-    <description><![CDATA[  Obsolete Moved to XBox One a long time ago Restarting Internet Sharing Try something like this in a user daemon (use Lingon) sudo sh -c &#039;kill $(cat /var/run/bootpd.pid)&#039; Make Internet Sharing DHCP work with an Xbox/Xbox 360 Network Many people have noticed that the Xbox and Xbox 360 will ... ]]></description>
-    <pubDate>Sun, 12 Oct 2025 21:39:22 GMT</pubDate>
+    <title>Appetizers</title>
+    <link>https://askpascal.com/Appetizers</link>
+    <guid>https://askpascal.com/Appetizers</guid>
+    <description><![CDATA[ View all Appetizers Back to Home Viewing in Obsidian? The dynamic list below works in Obsidian. On the web, browse by above. ]]></description>
+    <pubDate>Sun, 12 Oct 2025 23:09:13 GMT</pubDate>
   </item><item>
-    <title>Tidbits about PI</title>
-    <link>https://test.askpascal.com/askPascal/Tidbits-about-PI</link>
-    <guid>https://test.askpascal.com/askPascal/Tidbits-about-PI</guid>
-    <description><![CDATA[ Simple Fraction 355/113 Cool Aproximations betterexplained.com/articles/prehistoric-calculus-discovering-pi/ www.ams.org/featurecolumn/archive/pi.html Need some digits 3. ]]></description>
-    <pubDate>Sun, 12 Oct 2025 21:38:51 GMT</pubDate>
+    <title>Desserts</title>
+    <link>https://askpascal.com/Desserts</link>
+    <guid>https://askpascal.com/Desserts</guid>
+    <description><![CDATA[ View all Desserts Back to Home Viewing in Obsidian? The dynamic list below works in Obsidian. On the web, browse by above. ]]></description>
+    <pubDate>Sun, 12 Oct 2025 23:09:13 GMT</pubDate>
   </item><item>
-    <title>The answer to the toughest interview question</title>
-    <link>https://test.askpascal.com/askPascal/The-answer-to-the-toughest-interview-question</link>
-    <guid>https://test.askpascal.com/askPascal/The-answer-to-the-toughest-interview-question</guid>
-    <description><![CDATA[ There’s a lot of advice on this blog about how to interview: Tell good stories, ask good questions, be a closer. ]]></description>
-    <pubDate>Sun, 12 Oct 2025 21:38:30 GMT</pubDate>
+    <title>Drinks</title>
+    <link>https://askpascal.com/Drinks</link>
+    <guid>https://askpascal.com/Drinks</guid>
+    <description><![CDATA[ View all Drinks Back to Home Viewing in Obsidian? The dynamic list below works in Obsidian. On the web, browse by above. ]]></description>
+    <pubDate>Sun, 12 Oct 2025 23:09:13 GMT</pubDate>
   </item><item>
-    <title>Change List when askPascal was on MediaWiki</title>
-    <link>https://test.askpascal.com/askPascal/Change-List-when-askPascal-was-on-MediaWiki</link>
-    <guid>https://test.askpascal.com/askPascal/Change-List-when-askPascal-was-on-MediaWiki</guid>
-    <description><![CDATA[  Moved to Confluence and now Obsidian Did not try to track changes to go to Obsidian Contents [1 To Do] [2 May 10 Update] [3 May 08 Update] [4 Web Page Counter] [5 Added eBooks Management] [6 Added email via smtp] [7 Added Boilerplate extension &amp; management] [8 Google Analytics] [9 Disable PhpAd... ]]></description>
-    <pubDate>Sun, 12 Oct 2025 21:37:47 GMT</pubDate>
+    <title>Meals</title>
+    <link>https://askpascal.com/Meals</link>
+    <guid>https://askpascal.com/Meals</guid>
+    <description><![CDATA[ View all Main Courses Back to Home Viewing in Obsidian? The dynamic list below works in Obsidian. On the web, browse by above. ]]></description>
+    <pubDate>Sun, 12 Oct 2025 23:09:13 GMT</pubDate>
   </item><item>
-    <title>System Logo Design</title>
-    <link>https://test.askpascal.com/askPascal/System-Logo-Design</link>
-    <guid>https://test.askpascal.com/askPascal/System-Logo-Design</guid>
-    <description><![CDATA[  From another age. ]]></description>
-    <pubDate>Sun, 12 Oct 2025 21:36:42 GMT</pubDate>
+    <title>Recipes</title>
+    <link>https://askpascal.com/Recipes</link>
+    <guid>https://askpascal.com/Recipes</guid>
+    <description><![CDATA[ View all All Recipes Back to Home Viewing in Obsidian? The dynamic list below works in Obsidian. On the web, browse by above. ]]></description>
+    <pubDate>Sun, 12 Oct 2025 23:09:13 GMT</pubDate>
   </item><item>
-    <title>Synology Container - Network Configuration</title>
-    <link>https://test.askpascal.com/askPascal/Synology-Container---Network-Configuration</link>
-    <guid>https://test.askpascal.com/askPascal/Synology-Container---Network-Configuration</guid>
-    <description><![CDATA[ Source: www.wundertech.net/container-manager-on-a-synology-nas/ SSH then sudo -i then # Change 192.168.1.198 (Specific IP used here) and other network/gw/ip reference # Change name ph_network sudo docker network create -d macvlan -o parent=eth0 --subnet=192.168.1.0/24 --gateway=192.168.1.1 --ip-rang... ]]></description>
-    <pubDate>Sun, 12 Oct 2025 21:36:12 GMT</pubDate>
+    <title>Sides</title>
+    <link>https://askpascal.com/Sides</link>
+    <guid>https://askpascal.com/Sides</guid>
+    <description><![CDATA[ View all Sides Back to Home Viewing in Obsidian? The dynamic list below works in Obsidian. On the web, browse by above. ]]></description>
+    <pubDate>Sun, 12 Oct 2025 23:09:13 GMT</pubDate>
   </item><item>
-    <title>Secure VNC (MacOS X to MacOS X)</title>
-    <link>https://test.askpascal.com/askPascal/Secure-VNC-(MacOS-X-to-MacOS-X)</link>
-    <guid>https://test.askpascal.com/askPascal/Secure-VNC-(MacOS-X-to-MacOS-X)</guid>
-    <description><![CDATA[  Obsolete Remote Mac Open System Preferences → Sharing → Apple Remote Desktop Start Open Access Privilege Set Access Privileges to allow “VNC viewers may control screen with password” Give it a password. ]]></description>
-    <pubDate>Sun, 12 Oct 2025 21:35:41 GMT</pubDate>
+    <title>Sous-Vide</title>
+    <link>https://askpascal.com/Sous-Vide</link>
+    <guid>https://askpascal.com/Sous-Vide</guid>
+    <description><![CDATA[ View all Sous-Vide Recipes Back to Home Viewing in Obsidian? The dynamic list below works in Obsidian. On the web, browse by above. ]]></description>
+    <pubDate>Sun, 12 Oct 2025 23:09:13 GMT</pubDate>
   </item><item>
-    <title>Secure Subversion</title>
-    <link>https://test.askpascal.com/askPascal/Secure-Subversion</link>
-    <guid>https://test.askpascal.com/askPascal/Secure-Subversion</guid>
-    <description><![CDATA[  You should move to git Installing a secure SVN Source: www.sonzea.com/articles/subversion-trac.html Create a subversion repository If you don’t already have one, create a subversion repository: # cd /usr/local # svnadmin create repo Now create the basic structure and commit your changes to the repo... ]]></description>
-    <pubDate>Sun, 12 Oct 2025 21:35:01 GMT</pubDate>
+    <title>Traditional</title>
+    <link>https://askpascal.com/Traditional</link>
+    <guid>https://askpascal.com/Traditional</guid>
+    <description><![CDATA[ View all Traditional Recipes Back to Home Viewing in Obsidian? The dynamic list below works in Obsidian. On the web, browse by above. ]]></description>
+    <pubDate>Sun, 12 Oct 2025 23:09:13 GMT</pubDate>
   </item><item>
-    <title>Screen Capture - Leopard, other cats and Maverick</title>
-    <link>https://test.askpascal.com/askPascal/Screen-Capture---Leopard,-other-cats-and-Maverick</link>
-    <guid>https://test.askpascal.com/askPascal/Screen-Capture---Leopard,-other-cats-and-Maverick</guid>
-    <description><![CDATA[ In 10.5, the region capture screenshot tool—that’s Shift-Command-4, which turns your cursor into a draggable crosshair—has learned quite a few new tricks. ]]></description>
-    <pubDate>Sun, 12 Oct 2025 21:34:20 GMT</pubDate>
+    <title>7 Layers Chip Dip</title>
+    <link>https://askpascal.com/Recipes/7-Layers-Chip-Dip</link>
+    <guid>https://askpascal.com/Recipes/7-Layers-Chip-Dip</guid>
+    <description><![CDATA[ appetizer traditional recipe INFO Perfect for parties. ]]></description>
+    <pubDate>Sun, 12 Oct 2025 21:55:55 GMT</pubDate>
   </item>
     </channel>
   </rss>

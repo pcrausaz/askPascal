@@ -1,2 +1,2 @@
 npx quartz build
-node strip-sourcemaps.js
+node scripts/strip-sourcemaps.js
