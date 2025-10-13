@@ -6,7 +6,7 @@
 :::two-columns-plain
 
 ### Details
-## Ingredients
+**Ingredients**
 
 - 300 g all purpose flour 
   - some additional flour for dusting
@@ -16,7 +16,7 @@
 - oil for the pan
 
 
-## Method
+**Method**
 
 1. Combine butter and milk and heat until butter is melted
 2. Combine the flour, salt, butter and milk in a bowl.

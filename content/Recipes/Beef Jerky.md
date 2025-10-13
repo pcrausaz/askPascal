@@ -6,7 +6,7 @@
 :::two-columns-plain
 
 ### Details
-## Ingredients
+**Ingredients**
 
 - 1.5 or 2 pounds flank steak
 - 2/3 cup Worcestershire sauce
@@ -17,7 +17,7 @@
 - 1 teaspoon red pepper flakes
 
 
-## Method
+**Method**
 
 1. Trim the flank steak of any excess fat, place in a zip-top bag, and place it in the freezer for 1 to 2 hours in order to firm up.
 2. Remove the steak from the freezer and thinly slice the meat with the grain, into long strips.

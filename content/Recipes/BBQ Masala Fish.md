@@ -6,7 +6,7 @@
 :::two-columns-plain
 
 ### Details
-## Ingredients
+**Ingredients**
 
 - 1 large sea bass or sea bream
 - 2 shallots
@@ -24,7 +24,7 @@
 - Salt & Pepper
 
 
-## Method
+**Method**
 
 1. You can do this on the BBQ or in the oven at 220C/425F, either work
 2. Clean the fish, dry it, then slice the meat with large knife cuts (criss-crossed)

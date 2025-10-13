@@ -6,7 +6,7 @@
 :::two-columns-plain
 
 ### Details
-## Ingredients
+**Ingredients**
 
 ### Ingredients Dough
 
@@ -33,7 +33,7 @@
 - 5 1/2 ounces powdered sugar, approximately 1 1/2 cups
 
 
-## Method
+**Method**
 
 ### Method Dough (Start)
 

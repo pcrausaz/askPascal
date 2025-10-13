@@ -6,7 +6,7 @@
 :::two-columns-plain
 
 ### Details
-## Ingredients
+**Ingredients**
 
 - 500 gr of Shrimps
 - 1 kg of Tomatoes
@@ -22,7 +22,7 @@
 - Salt & Pepper
 
 
-## Method
+**Method**
 
 1. In a pan, heat some olive oil and saute the shrimps (whole), once cooked (5 minutes) set aside
 2. Boil some water, then drop the tomatoes into the boling water for 2 minutes to ease removing the skin

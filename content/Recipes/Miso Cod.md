@@ -6,7 +6,7 @@
 :::two-columns-plain
 
 ### Details
-## Ingredients
+**Ingredients**
 
 - 1/4 Cup of Mirin
 - 1/4 Cup of Sake
@@ -15,7 +15,7 @@
 - 1 lb to 1.5 lb of cod (deboned)
 
 
-## Method
+**Method**
 
 1. Boil the mirin and sake for 3 minutes
 2. Reduce the heat, add the sugar and miso paste

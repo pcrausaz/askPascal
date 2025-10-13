@@ -6,7 +6,7 @@
 :::two-columns-plain
 
 ### Details
-## Ingredients
+**Ingredients**
 
 - 4.5 cup of rolled oats (not instant)
 - 1.5 cup of raw almonds, chopped
@@ -19,7 +19,7 @@
 - 1.25 cup dark amber maple sirup
 
 
-## Method
+**Method**
 
 1. Pre-heat oven to 325 F
 2. In a large bow mix all the ingredients but the cranberries and raisins

@@ -6,7 +6,7 @@
 :::two-columns-plain
 
 ### Details
-## Ingredients
+**Ingredients**
 
 - 1-2 chicken thigh (or breast, about 200 grams) per person
 - 5 cloves of garlic
@@ -18,7 +18,7 @@
 - 1 handful of Thai basil  or just plain basil leaves
 
 
-## Method
+**Method**
 
 1. Cut the chicken into very small sized pieces. (all portions if you do more than one)
 2. Peel the garlic, cut the chilies, add to a mortar and make a paste

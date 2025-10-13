@@ -6,7 +6,7 @@
 :::two-columns-plain
 
 ### Details
-## Ingredients
+**Ingredients**
 
 - 500g of Potatoes
 - 400g of Leeks
@@ -18,7 +18,7 @@
 - Nutmeg, Salt, Pepper
 
 
-## Method
+**Method**
 
 1. Pre-heat oven at 180 C. (about 350 F).
 2. Clean up the leeks, then slice in rounds.

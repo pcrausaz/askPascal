@@ -6,7 +6,7 @@
 :::two-columns-plain
 
 ### Details
-## Ingredients
+**Ingredients**
 
 ### Ingredients Mushrooms Salad
 
@@ -22,7 +22,7 @@
 - 2 Tbsp of Olive Oil
 
 
-## Method
+**Method**
 
 ### Method Vinaigrette
 

@@ -6,7 +6,7 @@
 :::two-columns-plain
 
 ### Details
-## Ingredients Pear
+**Ingredients Pear**
 
 - 1 Pear
 - 1/4 Cup (60 ml) of water
@@ -14,14 +14,14 @@
 - 1/2 a lemon, juiced
 
 
-## Ingredients Chocolate Sauce
+**Ingredients Chocolate Sauce**
 
 - 50 gr of 70% Dark Lindt Chocolate
 - 2 Tsp of cream
 - 1 Tsp of unsalted butter
 
 
-## Method Pear
+**Method Pear**
 
 1. Heat the water bath to 83 °C
 2. In a pan, place the water and the sugar
@@ -37,12 +37,12 @@
 12. Once cool, place in the fridge until it is time to set the dessert
 
 
-## Method Chocolate Sauce
+**Method Chocolate Sauce**
 
 1. In a double boiler, melt the chocolate, butter and cream 
 
 
-## Method Assembly
+**Method Assembly**
 
 1. Open the pear bag, lay each half on a place
 2. Coat each half with a little bit of the chocolate sauce

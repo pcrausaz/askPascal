@@ -6,7 +6,7 @@
 :::two-columns-plain
 
 ### Details
-## Ingredients
+**Ingredients**
 
 - 1 Dorade (Whole Bream with head & tail) per person
 - 1 Cauliflower
@@ -18,7 +18,7 @@
 - Pepper
 
 
-## Method
+**Method**
 
 1. Pre-heat the oven at 400°F
 2. Break out the cauliflower, then steam for about 20 mn

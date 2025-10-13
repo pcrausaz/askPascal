@@ -6,7 +6,7 @@
 :::two-columns-plain
 
 ### Details
-## Ingredients
+**Ingredients**
 
 - 2 sheets of Puff Pastry
 - 100 gr of unsalted butter
@@ -16,7 +16,7 @@
 - Optional: a few whole almonds
 
 
-## Method
+**Method**
 
 1. Pre-heat the oven at 450 F
 2. Take the butter our and let it get to room temperature

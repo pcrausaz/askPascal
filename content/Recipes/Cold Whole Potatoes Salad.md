@@ -6,7 +6,7 @@
 :::two-columns-plain
 
 ### Details
-## Ingredients
+**Ingredients**
 
 - 1.5kg of Rattes Potatoes (small elongated potatoes with a chestnut taste)
 - 2 Branches of Fresh Rosemary
@@ -14,7 +14,7 @@
 - 6 Tbsp of Olive Oil
 
 
-## Method
+**Method**
 
 - Cook the Rattes potatoes with their skin (about 15 mn in boiling water)
 

@@ -6,7 +6,7 @@
 :::two-columns-plain
 
 ### Details
-## Ingredients
+**Ingredients**
 
 - 2-3 large potatoes
 - Chicken Stock or Demi-glace
@@ -18,7 +18,7 @@
 - Parchment paper
 
 
-## Method
+**Method**
 
 1. Peel the potatoes and trim the sides
   1. Original recipes calls for making round pieces, using square leaves less trimming

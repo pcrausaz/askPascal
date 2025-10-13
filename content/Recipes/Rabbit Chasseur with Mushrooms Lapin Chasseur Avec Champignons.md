@@ -6,7 +6,7 @@
 :::two-columns-plain
 
 ### Details
-## Ingredients
+**Ingredients**
 
 - 1 Rabbit
 - 1 Litter of good red wine
@@ -21,7 +21,7 @@
 - Optional: potatoes
 
 
-## Method
+**Method**
 
 1. Prepare the mirepoix (dice the carrot, onion & celery)
 2. Cut the rabbit

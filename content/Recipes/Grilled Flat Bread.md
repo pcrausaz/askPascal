@@ -7,7 +7,7 @@
 :::two-columns-plain
 
 ### Details
-## Ingredients
+**Ingredients**
 
 - 2.5 Tsp Active Dry Yeast
 - 4.75 Cups of all-purpose flour + some more for dusting
@@ -19,7 +19,7 @@
 - A Tad of Olive Oil for brushing
 
 
-## Method
+**Method**
 
 1. No whole wheat, no worries, just substitute all-purpose flour
 2. Dissolve the yeast in 3 cups of warm water

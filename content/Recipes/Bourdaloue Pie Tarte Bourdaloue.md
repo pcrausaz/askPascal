@@ -6,7 +6,7 @@
 :::two-columns-plain
 
 ### Details
-## Ingredients
+**Ingredients**
 
 - 250 g of [Sugar Dough / Pâte Sucrée](Sugar Dough Pate Sucree.md)
 - 2 [Poached Pears (Sous-Vide)](Poached Pears Sous Vide.md)
@@ -17,7 +17,7 @@
   - 80 gr of Almond Flour
 
 
-## Method
+**Method**
 
 1. Pre-heat the oven at 450 F / 230 C
 2. Take the butter out, so that it is at room temperature

@@ -6,7 +6,7 @@
 :::two-columns-plain
 
 ### Details
-## Ingredients
+**Ingredients**
 
 - 100 gr of all-purpose flour, sifted
 - 100 gr of unsalted butter, melted
@@ -17,7 +17,7 @@
 - 1 teaspoon of dry yeast
 
 
-## Method
+**Method**
 
 1. in a pan, on very low eat, melt the butter and set aside
 2. In a large bowl, get the zest of half of the lemon

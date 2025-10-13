@@ -6,14 +6,14 @@
 :::two-columns-plain
 
 ### Details
-## Ingredients
+**Ingredients**
 
 - 10 oz/ 250 gr of Raspberry
 - 80 gr of Confection Sugar
 - 1 Lemon juiced
 
 
-## Method
+**Method**
 
 1. Place everything into a food processor
 2. Then squeeze the mix through a fine [chinois](http://www.amazon.com/Rsvp-5-Ss-Conical-Strainer/dp/B0000VLZXU/ref=sr_1_1?s=home-garden&ie=UTF8&qid=1390172965&sr=1-1&keywords=chinois)

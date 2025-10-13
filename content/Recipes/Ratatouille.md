@@ -6,7 +6,7 @@
 :::two-columns-plain
 
 ### Details
-## Ingredients
+**Ingredients**
 
 - 1 Eggplant
 - 3-4 Zucchini
@@ -18,7 +18,7 @@
 - Olive Oil
 
 
-## Method
+**Method**
 
 1. The trick is to cook the ingredient separately 
 2. Trim the edge of the eggplant, then cut in 1 inch pieces

@@ -6,7 +6,7 @@
 :::two-columns-plain
 
 ### Details
-## Ingredients for 1 kg of dough
+**Ingredients for 1 kg of dough**
 
 - 400 g of flour
 - 100 g of almond flour
@@ -17,7 +17,7 @@
 - Pinch of salt
 
 
-## Method
+**Method**
 
 1. Cut the butter in piece, then add flour, almond flour, sugar, salt and butter to the mixer
 2. Mix using the dough hook till it gets to a small granulated consistency (semolina-like)

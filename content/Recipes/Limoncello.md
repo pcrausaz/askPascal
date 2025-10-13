@@ -6,7 +6,7 @@
 :::two-columns-plain
 
 ### Details
-## Ingredients
+**Ingredients**
 
 - 5 limes
 - 2 lime leaves
@@ -16,7 +16,7 @@
 - 1 glass bottle
 
 
-## Method
+**Method**
 
 1. Prepare the lime zests, I use a vegetable peeler (econome), then I scrap the white stuff using an utility knife. Make sure none stick to the zest, it would give the preparation a bitter taste.
 2. Cut the zests in 3-4 mm strips

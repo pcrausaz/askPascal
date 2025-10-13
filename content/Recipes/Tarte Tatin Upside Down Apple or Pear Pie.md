@@ -9,7 +9,7 @@
 :::two-columns-plain
 
 ### Details
-## Ingredients
+**Ingredients**
 
 - 8 Apple
 - 300 gr of sugar
@@ -17,7 +17,7 @@
 - 1 Puff Pastry Dough 
 
 
-## Method
+**Method**
 
 1. Pre-heat your oven to 400°F/200°C
 2. Cut the dough so that it fits inside the pan

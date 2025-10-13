@@ -6,7 +6,7 @@
 :::two-columns-plain
 
 ### Details
-## Ingredients
+**Ingredients**
 
 - 1 Kg of Potatoes
 - 2 eggs
@@ -14,7 +14,7 @@
 - Mash potatoes mill or press
 
 
-## Method
+**Method**
 
 1. Cook the potatoes (peel or not, 25 mn in water with Salt)
 2. Pass the potatoes through the mill

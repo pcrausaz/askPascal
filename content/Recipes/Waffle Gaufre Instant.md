@@ -6,7 +6,7 @@
 :::two-columns-plain
 
 ### Details
-## Ingredients 
+**Ingredients **
 
 - 300 g Flour
 - 2 Eggs
@@ -25,7 +25,7 @@
 This makes about 3 whole waffles.
 
 
-## Method
+**Method**
 
 1. Pre-heat the waffle maker
 2. In a bowl, mix the eggs until they foam a little

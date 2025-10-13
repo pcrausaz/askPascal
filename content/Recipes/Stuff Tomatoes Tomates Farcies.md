@@ -6,7 +6,7 @@
 :::two-columns-plain
 
 ### Details
-## Ingredients
+**Ingredients**
 
 - 200 gr ground pork 85%
 - 200 gr ground beef 90%
@@ -28,7 +28,7 @@
 - Some grated parmesan
 
 
-## Method - Veggies
+**Method - Veggies**
 
 1. Finely cut shallot, garlic and ginger, jalapeno
 2. Slice the mushrooms
@@ -44,7 +44,7 @@
   
 
 
-## Method - Prep the tomatoes
+**Method - Prep the tomatoes**
 
 1. Pre-heat oven 200**°C/**400**°F**
 2. Cut the tomatoes, stem side, keep the top to make a little hat later
@@ -52,7 +52,7 @@
 4. Keep about 50% of the tomato meat - cut finely -to incoporate into the meat in the next step
 
 
-## Method - Meat / Stuffing
+**Method - Meat / Stuffing**
 
 1. In the same pan, add some oil, medium heat
 2. Add the ground beef and pork
@@ -67,7 +67,7 @@
   
 
 
-## Method - Assembly
+**Method - Assembly**
 
 1. Cut the parsley finely, mix to the cooled down meat
 2. Fill the tomatoes with the meat, add grated parmesan on top, cover with tomato top

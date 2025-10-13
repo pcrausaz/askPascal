@@ -6,7 +6,7 @@
 :::two-columns-plain
 
 ### Details
-## Ingredients
+**Ingredients**
 
 - 1.5 lb of chicken thighs
 - 2 Garlic Cloves minced
@@ -19,7 +19,7 @@
 - Some fresh mint and coriander
 
 
-## Ingredients Nuoc Cham Sauce:
+**Ingredients Nuoc Cham Sauce:**
 
 - 1/4 cup of fish sauce
 - 4 Tbsp of rice vinegar
@@ -30,7 +30,7 @@
 - Lime wedges
 
 
-## Ingredients Noodle Bowl (per person):
+**Ingredients Noodle Bowl (per person):**
 
 - Cooked chicken from above
 - 100 g of rice noodle (cooked as per packaging)
@@ -42,7 +42,7 @@
 - Coriander
 
 
-## Method
+**Method**
 
 1. Place all the ingredient in a bowl along with the chicken
 2. Refrigerate for a few hours minimum, but better overnight
@@ -56,14 +56,14 @@ Serve over white rice or rice noodles with some sliced mint and coriander.
 If you want to go with the traditional Nuoc Cham Sauce over a noodle bowl:
 
 
-## Method Sauce
+**Method Sauce**
 
 1. Combine all the Ingredients
 
   
 
 
-## Method Bowl
+**Method Bowl**
 
 1. In a bowl, add noodles and all the ingredients, chicken on top, then some mint and coriander
 

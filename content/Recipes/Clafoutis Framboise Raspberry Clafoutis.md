@@ -6,7 +6,7 @@
 :::two-columns-plain
 
 ### Details
-## Ingredients
+**Ingredients**
 
 - 400-500 g of Raspberry (or Cherries)
 - 20 cl of heavy cream
@@ -20,7 +20,7 @@
 - Butter for the plates
 
 
-## Method
+**Method**
 
 1. Pre-heat oven at 350 **°**F / 180 **°**C
 2. Butter your plates

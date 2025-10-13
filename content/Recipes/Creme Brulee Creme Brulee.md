@@ -6,7 +6,7 @@
 :::two-columns-plain
 
 ### Details
-## Ingredients
+**Ingredients**
 
 - 2 Vanilla Beans
 - 1 cup (250 ml) of whole milk
@@ -16,7 +16,7 @@
 - 8 Tsp of granulate sugar (or light brown sugar) to finish
 
 
-## Method
+**Method**
 
 1. Pre-hear the oven to 200 °F (100 °C)
 2. Split the vanilla beans and scrape out the seeds

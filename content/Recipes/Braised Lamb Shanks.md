@@ -6,7 +6,7 @@
 :::two-columns-plain
 
 ### Details
-## Ingredients
+**Ingredients**
 
 - 6 lamb shanks
 - 1/4 cup & 3 Tbsp of Olive oil
@@ -28,7 +28,7 @@
 - Salt and Pepper to taste
 
 
-## Method
+**Method**
 
 1. Preheat oven to 325°F. Season the lamb with salt and pepper.
 2. Heat 3 tablespoons oil in a pot over medium-high heat. Add the celery, carrot, and onion; cook until very soft, 8 to 10 minutes.

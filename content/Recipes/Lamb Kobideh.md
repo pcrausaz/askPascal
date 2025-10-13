@@ -6,7 +6,7 @@
 :::two-columns-plain
 
 ### Details
-## Ingredients
+**Ingredients**
 
 - 1 lb of ground lamb (or beef)
 - 1 medium onion cut finely
@@ -19,7 +19,7 @@
 - Juice of 1 lemon
 
 
-## Method
+**Method**
 
 1. Mix well all the ingredient
 2. Cover and leave overnight (couple of hours will do)

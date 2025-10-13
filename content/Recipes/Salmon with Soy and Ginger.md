@@ -6,7 +6,7 @@
 :::two-columns-plain
 
 ### Details
-## Ingredients
+**Ingredients**
 
 - 6 heads of baby bok choy
 - 2 in of fresh ginger
@@ -15,7 +15,7 @@
 - 0.5 cup of low sodium soy sauce
 
 
-## Method
+**Method**
 
 1. Peel the ginger and finely dice
 2. Peel the garlic and finely chop (hehe dice vs chop, good luck)

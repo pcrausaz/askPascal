@@ -6,7 +6,7 @@
 :::two-columns-plain
 
 ### Details
-## Ingredients
+**Ingredients**
 
 - 1 sliced onion
 - 400 g of tomatoes (fresh & skin or canned)
@@ -26,7 +26,7 @@
 - Lime and Cilantro to serve
 
 
-## Method
+**Method**
 
 1. Boil water and boil the tomatoes for 1 mn to remove the skin
 2. Place the tomatoes in ice water, take out when cold, then remove skin and seeds

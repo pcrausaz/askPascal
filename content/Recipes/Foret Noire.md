@@ -6,7 +6,7 @@
 :::two-columns-plain
 
 ### Details
-## Ingredients Chocolate Sponge Cake
+**Ingredients Chocolate Sponge Cake**
 
 - 4 eggs
 - 125 g of sugar
@@ -16,7 +16,7 @@
 - A spoon of butter
 
 
-## Ingredients Filling
+**Ingredients Filling**
 
 - 75 cl cream
 - 100 g caster sugar (or substitute granulated sugar or superfine sugar)
@@ -27,7 +27,7 @@
 - Optional: 1 shot of kirsh (mix with the sirup)
 
 
-## Method Chocolate Sponge Cake
+**Method Chocolate Sponge Cake**
 
 1. Pre-heat your oven at 180 °C/ 350 °F
 2. Butter the mold, add a spoon of flour, ensure it gets everywhere then remove the excess flour. Set aside
@@ -44,7 +44,7 @@
   
 
 
-## Method Filling & Assembly
+**Method Filling & Assembly**
 
 1. Ensure the bowl and mixer whisk are super cold...as well as the cream. So make sure they stay at least an hour in the fridge
 2. If using frozen cherries, make sure they are thawed and dry, set aside the juice/water that came out of the cherries

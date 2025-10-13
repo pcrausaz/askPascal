@@ -6,7 +6,7 @@
 :::two-columns-plain
 
 ### Details
-## Ingredients 
+**Ingredients **
 
 - 4-6 Belgium Endives
 - 4-6 Slice of Ham
@@ -19,7 +19,7 @@
 - Salt & Pepper
 
 
-## Method
+**Method**
 
 1. Pre-heat oven at 400°F/200°C
 2. In a large pan boil some water

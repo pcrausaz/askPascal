@@ -6,7 +6,7 @@
 :::two-columns-plain
 
 ### Details
-## Ingredients
+**Ingredients**
 
 - 200g of Beef Filet Mignon
 - 1 Tsp of Olive Oild
@@ -22,7 +22,7 @@
 - French Fries & Toast
 
 
-## Method
+**Method**
 
 1. Finely cut the shallot
 2. Finely cut the chive

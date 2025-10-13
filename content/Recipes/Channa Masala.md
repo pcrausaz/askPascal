@@ -6,7 +6,7 @@
 :::two-columns-plain
 
 ### Details
-## Ingredients
+**Ingredients**
 
 - 1 onions
 - 2 clove of garlic
@@ -26,7 +26,7 @@
 - 1 Olive Oil
 
 
-## Method
+**Method**
 
 1. Mince the onion
 2. Mince the garlic

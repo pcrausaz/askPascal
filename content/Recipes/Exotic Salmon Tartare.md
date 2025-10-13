@@ -6,7 +6,7 @@
 :::two-columns-plain
 
 ### Details
-## Ingredients
+**Ingredients**
 
 - 1 Avocado
 - 1 Mango
@@ -17,7 +17,7 @@
 - Salt & Pepper
 
 
-## Method
+**Method**
 
 1. Freeze the salmon for 2 days, then thaw for a good day.
 2. Peel and brunoise (cut in small bits) the mango (I did the mango too big on the first try) and the avocado.

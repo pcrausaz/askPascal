@@ -6,7 +6,7 @@
 :::two-columns-plain
 
 ### Details
-## Ingredients Brioche Dough
+**Ingredients Brioche Dough**
 
 - 1 3/4 cups of flour
 - 2.5 Tbsp of sugar
@@ -17,7 +17,7 @@
 - Rock Sugar
 
 
-## Ingredients Cream
+**Ingredients Cream**
 
 - 1 cups milk
 - 1 half of a vanilla bean, split and scrap
@@ -28,7 +28,7 @@
 - 4/3 cup of whipped heavy cream
 
 
-## Method Brioche Dough
+**Method Brioche Dough**
 
 1. In a mixer bowl, combine yeast, sugar and flour, low speed
 2. Add the milk, 3 eggs, salt and mix until well combined, increase speed as needed
@@ -46,7 +46,7 @@
 14. Take the cooked brioche out, let it cool
 
 
-## Method Cream
+**Method Cream**
 
 1. In a small sauce pan, over medium heat bring the milk and vanilla bean to a gentle boil
 2. In a mixing bowl, mix together he yolks, sugar and cornstarch
@@ -63,7 +63,7 @@
  
 
 
-## Method Assembly
+**Method Assembly**
 
  
 

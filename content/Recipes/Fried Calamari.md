@@ -6,7 +6,7 @@
 :::two-columns-plain
 
 ### Details
-## Ingredients
+**Ingredients**
 
 - 1 pound calamari, cleaned bodies and tentacles
 - Canola oil (1 liter or more)
@@ -14,7 +14,7 @@
 - salt & pepper
 
 
-## Method
+**Method**
 
 1. Rinse the squid, dry out water. Cut the squid bodies into rings.
 2. Next we start heating our dutch oven over medium-high heat with an inch of oil. We place a candy thermometer inside the pot. We want the oil to reach 375F degrees to start frying.

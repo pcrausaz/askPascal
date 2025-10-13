@@ -6,12 +6,12 @@
 :::two-columns-plain
 
 ### Details
-## Ingredients
+**Ingredients**
 
 - 1 Prime Rib (2 inches thick)
 
 
-## Method
+**Method**
 
 1. To cook properly a Prime Rib (côte de boeuf), oil lightly an aluminium sheet with olive oil, add some Kosher salt, some Herbs de Provence and lay down the Prim Rib on top, now again some olive oil, salt and herb and close the alumininum sheet around the rib.
 2. Cook for about 10 minutes on the BBQ, then turn and cook another 10 minutes

@@ -6,7 +6,7 @@
 :::two-columns-plain
 
 ### Details
-## Ingredients
+**Ingredients**
 
 - 1.5 lb of chicken thigh (breast will do if necessary)
 - 1 or 2 can of Coconut milk
@@ -19,7 +19,7 @@
 - Olive Oil
 
 
-## Method
+**Method**
 
 1. Cut the chicken in small pieces (1.5 cm/0.5 inch cubes)
 2. Split the curry powder in 2 part, use one on the chicken, place the remaining portion in separate bowl

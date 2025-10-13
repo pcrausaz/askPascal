@@ -6,7 +6,7 @@
 :::two-columns-plain
 
 ### Details
-## Ingredients Dough
+**Ingredients Dough**
 
 - 500 g of All-Purpose Flour (2 cups)
 - 60 g of sugar (1/3 cup)
@@ -18,13 +18,13 @@
 - 250 g Unsalted Butter Chilled
 
 
-## Ingredients Egg Wash
+**Ingredients Egg Wash**
 
 - 1 Egg Yolk
 - 1 Egg
 
 
-## Method
+**Method**
 
 1. Phase 1
   1. Place flour, sugar, powered milk, 100 g softened buttered into the mixer bowl

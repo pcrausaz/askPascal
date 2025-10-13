@@ -6,7 +6,7 @@
 :::two-columns-plain
 
 ### Details
-## Ingredients
+**Ingredients**
 
 - 0.5 lb of crab meat
 - 8 large shrimps (whole w/ skin)
@@ -23,7 +23,7 @@
 - [Placing rings](http://www.amazon.com/HIC-Seamless-Stainless-Steel-3-5-Inch/dp/B00428M7RU/ref=pd_sim_sbs_k_6?ie=UTF8&refRID=10QJFRGV9TW67V972BJ2)
 
 
-## Method
+**Method**
 
 1. Peel and slice finely the garlic
 2. Heat some oil in a pan

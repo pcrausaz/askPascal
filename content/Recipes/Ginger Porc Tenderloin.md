@@ -6,7 +6,7 @@
 :::two-columns-plain
 
 ### Details
-## Ingredients
+**Ingredients**
 
 - 1 Pork Tenderloin
 - 1 Onion
@@ -28,7 +28,7 @@
 - 1 Tbsp of flour
 
 
-## Method
+**Method**
 
 1. Cut the pork in thin slice (3x1 cm)
 2. Julienne the Ginger Root

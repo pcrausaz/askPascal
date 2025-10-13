@@ -6,7 +6,7 @@
 :::two-columns-plain
 
 ### Details
-## Ingredients
+**Ingredients**
 
 - 2 Apple
 - 40 gr of sugar
@@ -14,7 +14,7 @@
 - 1 puff pastry sheet
 
 
-## Method
+**Method**
 
 1. Pre-heat oven to 400 F
 2. Peel the apples

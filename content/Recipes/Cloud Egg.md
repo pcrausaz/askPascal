@@ -6,7 +6,7 @@
 :::two-columns-plain
 
 ### Details
-## Ingredients (per person)
+**Ingredients (per person)**
 
 - 1 egg
 - 1/2 Avocado
@@ -23,7 +23,7 @@
 - Whip or Stand mixer
 
 
-## Method
+**Method**
 
 1. Start the steamer to get it hot
 2. Take a large piece of plastic wrap, oil the part that will hold the egg, place it is a bowl that can hold the egg (whipped white and yolk), lightely oil the part of the wrap that will host the egg whites (prevent sticking)

@@ -6,7 +6,7 @@
 :::two-columns-plain
 
 ### Details
-## Ingredients
+**Ingredients**
 
 - 3 large potatoes (Russet works best)
 - Half a lemon
@@ -17,7 +17,7 @@
 - Salt & Pepper
 
 
-## Method
+**Method**
 
 1. Pre-heat oven to 400°F/200°C
 2. (Optional) Peel the potatoes

@@ -6,7 +6,7 @@
 :::two-columns-plain
 
 ### Details
-## Ingredients Meatballs
+**Ingredients Meatballs**
 
 - Parsley
 - A few cloves of garlic (see below)
@@ -18,7 +18,7 @@
 - Salt & Pepper
 
 
-## Ingredients Sauce
+**Ingredients Sauce**
 
 - Tomatoes (1 large can of diced works well)
 - 1 head Garlic
@@ -28,14 +28,14 @@
 - Salt and pepper
 
 
-## Method Garlic confit
+**Method Garlic confit**
 
 1. Peel the garlic
 2. In a pan,  heat some olive oil, low heat, then add the garlic and confit slowly (cook slowly for 30-60 mn)
 3. set aside (keep the oil)
 
 
-## Method Mushroom Stock
+**Method Mushroom Stock**
 
 1. Clean the mushroon
 2. Add 1 litter of water to a pan
@@ -43,7 +43,7 @@
 4. Cook until reduced to about half a cup or so (even a quarter)
 
 
-## Method Meatballs
+**Method Meatballs**
 
 1. Pre-heat oven to 350 F
 2. Cut the parsley finely
@@ -63,7 +63,7 @@
 16. Take out of the oven and set aside
 
 
-## Method Sauce
+**Method Sauce**
 
 1. In a large cast iron, on medium hear
 2. Add some of the garlic
@@ -75,7 +75,7 @@
   
 
 
-## Method Bring it together
+**Method Bring it together**
 
 1. A few minutes before serving, sort of puree the sauce using a hand mixer, not too fine
 2. Add the meatballs to the sauce

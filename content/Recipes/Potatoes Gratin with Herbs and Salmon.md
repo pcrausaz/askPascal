@@ -6,7 +6,7 @@
 :::two-columns-plain
 
 ### Details
-## Ingredients
+**Ingredients**
 
 - 600 g of fresh salmon
 - 800 g of potatoes
@@ -18,7 +18,7 @@
 - Salt and pepper
 
 
-## Method
+**Method**
 
 1. Pre-heat oven to 180°C/350°F
 2. Butter a gratin plate, make sure it has high sides

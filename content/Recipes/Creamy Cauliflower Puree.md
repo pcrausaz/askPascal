@@ -6,7 +6,7 @@
 :::two-columns-plain
 
 ### Details
-## Ingredients
+**Ingredients**
 
 - 500 gr of Cauliflower (1 medium head)
 - 150 gr of water (I up the water from the original recipe)
@@ -17,7 +17,7 @@
 *Note:* Delicious results with 50% cauliflower and 50% Brussel sprouts. The base recipe also works with carrots, and anything you fancy.
 
 
-## Method
+**Method**
 
 1. Chop the cauliflower in small pieces
 2. Place in a pan

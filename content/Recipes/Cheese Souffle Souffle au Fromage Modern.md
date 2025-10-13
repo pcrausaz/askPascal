@@ -6,7 +6,7 @@
 :::two-columns-plain
 
 ### Details
-## Ingredients
+**Ingredients**
 
 - 250 g of heavy cream
 - 250 g of gruyere
@@ -18,7 +18,7 @@
 - 10 g of butter (softened)
 
 
-## Method
+**Method**
 
 1. Soften the butter
 2. Pre-heat oven at 220**°** C/ 425**°** F

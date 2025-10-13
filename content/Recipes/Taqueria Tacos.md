@@ -6,7 +6,7 @@
 :::two-columns-plain
 
 ### Details
-## Ingredients
+**Ingredients**
 
 ### Ingredients for Marinade
 
@@ -32,7 +32,7 @@
 - 12+ small corn flour tortillas (about 10 cm diameter)
 
 
-## Method
+**Method**
 
 ### Method for Marinade
 

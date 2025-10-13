@@ -6,7 +6,7 @@
 :::two-columns-plain
 
 ### Details
-## Ingredients Inverted Puff pastry
+**Ingredients Inverted Puff pastry**
 
 - Detrempe
   - 15 cl Water
@@ -22,7 +22,7 @@
 The vinegar helps to keep the dough over a few days. Wait overnight between the folding operation helps.
 
 
-## Ingredients Cream
+**Ingredients Cream**
 
 - 450 g of milk
 - 50 g of heavy cream
@@ -36,7 +36,7 @@ The vinegar helps to keep the dough over a few days. Wait overnight between the 
 - 4 gelatine sheets
 
 
-## Method Inverted Puff Pastry
+**Method Inverted Puff Pastry**
 
 1. Start with the 'detrempe'
 2. Place the water, vinegar and salt into a bowl and mix until the salt is well disolved
@@ -81,7 +81,7 @@ The vinegar helps to keep the dough over a few days. Wait overnight between the 
   
 
 
-## Method Cream
+**Method Cream**
 
 1. In a pan, add the milk and the cream
 2. Open the vanilla beans, scape the seeds, add to the pan, add the beans as well
@@ -105,7 +105,7 @@ The vinegar helps to keep the dough over a few days. Wait overnight between the 
   
 
 
-## Method Final Assembly
+**Method Final Assembly**
 
 1. Lay out 1 part of the dough on a working plate
 2. Use the pastry bag to layer the cream

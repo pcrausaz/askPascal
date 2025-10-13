@@ -6,7 +6,7 @@
 :::two-columns-plain
 
 ### Details
-## Ingredients
+**Ingredients**
 
 - 1 oz of Triple Sec
 - 1 Oz of Tequila
@@ -14,7 +14,7 @@
 - 3-4 ice cubes
 
 
-## Method
+**Method**
 
 1. Place a few ice cube in the glass to cool it
 2. Put some ice cubes in the shaker

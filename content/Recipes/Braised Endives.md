@@ -6,7 +6,7 @@
 :::two-columns-plain
 
 ### Details
-## Ingredients
+**Ingredients**
 
 - 8 Endives
 - 1 Tsp of sugar
@@ -14,7 +14,7 @@
 - [Clarified Butter](Clarified Butter.md)
 
 
-## Method
+**Method**
 
 1. Clean up the endives
 2. Boil water in a large pan

@@ -6,7 +6,7 @@
 :::two-columns-plain
 
 ### Details
-## Ingredients
+**Ingredients**
 
 - 20 Roma Tomatoes
 - 1/4 Cup of Chopped Basil
@@ -23,7 +23,7 @@
 - 1 Tsp of Fresh Parsley chopped
 
 
-## Method
+**Method**
 
 ### Method - Setup
 

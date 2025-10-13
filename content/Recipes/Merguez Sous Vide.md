@@ -6,13 +6,13 @@
 :::two-columns-plain
 
 ### Details
-## Ingredients
+**Ingredients**
 
 - 3 [Merguez](http://en.wikipedia.org/wiki/Merguez)
 - Optional: [Harissa](Harissa.md)
 
 
-## Method
+**Method**
 
 1. Pre-heat the water bath
 2. Pack and seal the merguez

@@ -6,7 +6,7 @@
 :::two-columns-plain
 
 ### Details
-## Ingredients
+**Ingredients**
 
 - 3 Leeks
 - 4 Slices of Smoked Salmon
@@ -16,7 +16,7 @@
 - 250 gr. of Fresh Pasta
 
 
-## Method
+**Method**
 
 1. Mince the leeks, try to make small round slices
 2. On medium-low heat, heat a pan

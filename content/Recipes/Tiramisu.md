@@ -6,7 +6,7 @@
 :::two-columns-plain
 
 ### Details
-## Ingredients
+**Ingredients**
 
 - 200 gr of Mascapone (1 pack)
 - 1 egg 
@@ -20,7 +20,7 @@
 Multiply quantities as you need...usual x4 when we have people over.
 
 
-## Method
+**Method**
 
 1. Separate yolk and white, keep both. Set the white aside
 2. Mix sugar and egg  until it gets creamy

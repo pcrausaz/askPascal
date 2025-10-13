@@ -6,14 +6,14 @@
 :::two-columns-plain
 
 ### Details
-## Ingredients
+**Ingredients**
 
 - 4-5 small carrots
 - 1 Tbsp of unsalted Butter
 - Salt & Pepper
 
 
-## Method
+**Method**
 
 1. Peel the carrots
 2. Place the carrots into the bag

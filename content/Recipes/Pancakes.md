@@ -6,7 +6,7 @@
 :::two-columns-plain
 
 ### Details
-## Ingredients
+**Ingredients**
 
 - 2 1/4 Cup of Flour
 - 2 Tsp of Baking Soda
@@ -17,7 +17,7 @@
 - 2 Tbsp of sugar
 
 
-## Method
+**Method**
 
 ### Method Batter
 

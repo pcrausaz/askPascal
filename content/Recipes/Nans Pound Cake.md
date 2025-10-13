@@ -6,7 +6,7 @@
 :::two-columns-plain
 
 ### Details
-## Ingredients
+**Ingredients**
 
 - 3 eggs
 - 2 cups flour
@@ -17,7 +17,7 @@
   
 
 
-## Method
+**Method**
 
 1. Pre-heat ovum at 350°F
 2. Beat the eggs with sugar until it gets a foamy creamy color

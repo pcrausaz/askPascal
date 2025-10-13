@@ -6,7 +6,7 @@
 :::two-columns-plain
 
 ### Details
-## Ingredients - Mushroom
+**Ingredients - Mushroom**
 
 - Butter 10 g
 - Heavy Cream 50 g
@@ -17,14 +17,14 @@
 - Salt & Pepper 
 
 
-## Ingredients - Sabayon
+**Ingredients - Sabayon**
 
 - Heaby Cream 50 g
 - 1 egg yolk
 - Salt & Pepper 
 
 
-## Method - Mushroom
+**Method - Mushroom**
 
 1. Pre-heat your oven broiler
 2. Finely cut the shallots
@@ -35,13 +35,13 @@
 7. Puree the mixture (if not fine enough, pass it through a sieve
 
 
-## Method - Sabayon
+**Method - Sabayon**
 
 1. Whip the cream (not too much...how helpful...don't do a peak)
 2. Add the yolk, salt & pepper, whip some more
 
 
-## Method - Assembly
+**Method - Assembly**
 
 1. Heat back up the mushroom puree (if necessary)
 2. In each cup, lay the puree at the bottom

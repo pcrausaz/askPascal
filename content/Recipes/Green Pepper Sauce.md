@@ -6,7 +6,7 @@
 :::two-columns-plain
 
 ### Details
-## Ingredients
+**Ingredients**
 
 - 2 tbsp of Green Peppercorn
 - 1 Shallots
@@ -17,7 +17,7 @@
 - Optional 1/2 Tbsp of Cognac
 
 
-## Method
+**Method**
 
 1. Mince the shallots
 2. Crush about 1 tsp of the green peppercorn

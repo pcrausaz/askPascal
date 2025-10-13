@@ -6,7 +6,7 @@
 :::two-columns-plain
 
 ### Details
-## Ingredients
+**Ingredients**
 
 - 300 g. of Risotto rice
 - 100 g. of Small Green Peas (frozen is fine)
@@ -24,7 +24,7 @@
 **Note**: If you do not find grilled eggplant, you can simply slice up an eggplant, then grill it in a pan with a bit of olive oil.
 
 
-## Method
+**Method**
 
 1. Mix the tomato paste in the vegetable stock
 2. Bring the stock to a low boil

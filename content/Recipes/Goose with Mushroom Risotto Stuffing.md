@@ -6,10 +6,10 @@
 :::two-columns-plain
 
 ### Details
-## Ingredients
+**Ingredients**
 
 
-## Ingredients Goose
+**Ingredients Goose**
 
 - 1 goose
 - 600 g "minipatissons"
@@ -17,7 +17,7 @@
 - 30 cl white wine
 
 
-## Ingredients Stuffing
+**Ingredients Stuffing**
 
 - 500 gr of turkey breast
 - 200 gr of pork breast (grounded)
@@ -33,7 +33,7 @@
 - Salt and pepper
 
 
-## Method
+**Method**
 
 1. Ground the chicken/turkey brest, pork breast and chicken liver (if necessary)
 2. Clean up the mushrooms then mince

@@ -6,7 +6,7 @@
 :::two-columns-plain
 
 ### Details
-## Ingredients
+**Ingredients**
 
 - 250 g of spaghetti
 - 2 Garlic Cloves
@@ -18,7 +18,7 @@
 - Salt & pepper
 
 
-## Method
+**Method**
 
 1. In a pot bring the pasta water to boil
 2. Mince the garlic

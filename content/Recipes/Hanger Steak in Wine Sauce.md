@@ -6,7 +6,7 @@
 :::two-columns-plain
 
 ### Details
-## Ingredients
+**Ingredients**
 
 - 1 Carrot
 - 1-2 large Shallot
@@ -21,7 +21,7 @@
 - Optional:  [Piment D'Espellette](https://en.wikipedia.org/wiki/Espelette_pepper)
 
 
-## Method Sauce
+**Method Sauce**
 
 1. Prepare the [mirepoix](https://en.wikipedia.org/wiki/Mirepoix_(cuisine)) by cutting the carrot, shallots and celery is small pieces, then heat some oil in a pot over medium-high heat, add the veggies and mushroom and let it cook for about 15 mn, stirring frequently until the vegs starts to brown
 2. Add half a cube of boullion (you can use chicken)
@@ -30,7 +30,7 @@
 5. Set aside
 
 
-## Method Meat
+**Method Meat**
 
 1. Pre-heat oven to 400° F
 2. Trim the meat

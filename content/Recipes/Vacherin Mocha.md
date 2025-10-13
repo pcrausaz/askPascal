@@ -6,7 +6,7 @@
 :::two-columns-plain
 
 ### Details
-## Ingredients
+**Ingredients**
 
 - 40 gr of Powdered Sugar
 - 40 gr of Light Brown Sugar
@@ -18,7 +18,7 @@
 - 30 gr of heavy cream for the deco
 
 
-## Method
+**Method**
 
 1. Oil the mold
 2. Separate the yolk from the white, set the white aside

@@ -6,7 +6,7 @@
 :::two-columns-plain
 
 ### Details
-## Ingredients
+**Ingredients**
 
 - 7 to 9 un-peeled shrimp with head
 - Bunch of Parsley
@@ -19,7 +19,7 @@
 - Optional: pastis
 
 
-## Method Shrimps
+**Method Shrimps**
 
 1. Finely cut parsley and garlic, mix it well
   1. set a small portion (1/4 of cup for the bisque)
@@ -32,7 +32,7 @@
 8. When ready, Pre-hear the sous-vide bath to 62 C and cook for 60 mn
 
 
-## Method Bisque
+**Method Bisque**
 
 1. Place the shell in a pan and start roasting
 2. Add the reserve portion of parsley/garlic

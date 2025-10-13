@@ -6,7 +6,7 @@
 :::two-columns-plain
 
 ### Details
-## Ingredients
+**Ingredients**
 
 - 1 Lb of Shrimp
 - 1 Tbsp of Green Curry paste
@@ -20,7 +20,7 @@
 - Olive Oil
 
 
-## Method
+**Method**
 
 1. Clean and slice some of the fresh cilantro; set aside
 2. Peel and cut the ginger in small bits, do the same with the garlic

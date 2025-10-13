@@ -6,7 +6,7 @@
 :::two-columns-plain
 
 ### Details
-## Ingredients
+**Ingredients**
 
 - 1 Pork Tenderloin
 - 200 of Chanterelles
@@ -23,7 +23,7 @@
 - Salt & Pepper
 
 
-## Method
+**Method**
 
 1. Clean the pork tenderloin and cut it in half (if it does not fit the pot)
 2. Place the pot over medium-high heat, add some oil and the butter

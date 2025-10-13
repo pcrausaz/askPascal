@@ -6,7 +6,7 @@
 :::two-columns-plain
 
 ### Details
-## Ingredients Marinade
+**Ingredients Marinade**
 
 - 1 or 2 lb of boneless chicken tights
 - 1 Tsp Salt
@@ -19,7 +19,7 @@
 - 2 Tbsp Olive Oil
 
 
-## Ingredients Tzatziki Sauce
+**Ingredients Tzatziki Sauce**
 
 - 2 cup of greek yogurt
 - 0.25 cup of parsley (or dill)
@@ -31,7 +31,7 @@
 - 3 Tbsp Olive oil
 
 
-## Method Marinade
+**Method Marinade**
 
 1. It can be useful to slice the chicken tights to reduce their thickness
 2. Add all the ingredient but the chicken into a ball, mix well
@@ -39,7 +39,7 @@
 4. Cover, and set aside in the fridge for 24 h (in a rush, marinade 1 or 2 hours)
 
 
-## Method Tzatziki Sauce
+**Method Tzatziki Sauce**
 
 1. Peel, seed and grate the cucumber
 2. Press the cucumber meet to remove the water
@@ -49,7 +49,7 @@
 The sauce will keep in the fridge up to a week, if in a sealed container
 
 
-## Method - Assembly
+**Method - Assembly**
 
 1. Pre-heat the oven at 400°F
 2. Remove the chicken from the fridge

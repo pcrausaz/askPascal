@@ -6,7 +6,7 @@
 :::two-columns-plain
 
 ### Details
-## Ingredients
+**Ingredients**
 
 - A few morels, dry-out is fine
 - 1 Cup of heavy cream
@@ -16,7 +16,7 @@
 - Salt & Pepper
 
 
-## Method
+**Method**
 
 1. Mince the shallot
 2. Heat up the butter on medium-low heat

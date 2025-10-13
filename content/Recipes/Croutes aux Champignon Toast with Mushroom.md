@@ -6,7 +6,7 @@
 :::two-columns-plain
 
 ### Details
-## Ingredients
+**Ingredients**
 
 - 2-3 Lb of Mushrooms (any)
 - 1-2 Clove of garlic
@@ -19,7 +19,7 @@
 - Salt & Pepper
 
 
-## Method
+**Method**
 
 1. Clean and slice the mushrooms
 2. Peel and dice finely the garlic

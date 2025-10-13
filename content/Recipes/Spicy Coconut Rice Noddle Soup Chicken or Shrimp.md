@@ -6,7 +6,7 @@
 :::two-columns-plain
 
 ### Details
-## Ingredients Soup
+**Ingredients Soup**
 
 - 1 Liter of Chicken Stock
 - 1 Can of coconut milk
@@ -19,7 +19,7 @@
 - Olive Oil
 
 
-## Ingredients Toppings
+**Ingredients Toppings**
 
 - Fresh Cilantro, handful of leaves
 - Fresh mint, 2-3 sprigs
@@ -33,7 +33,7 @@
 - 1 Chili (serano or jalapeno)
 
 
-## Method Soup
+**Method Soup**
 
 1. Let the noodle soak in water for 30 mns
 2. Finely julienne, the carot and mangetout
@@ -55,7 +55,7 @@
   
 
 
-## Method Assembly
+**Method Assembly**
 
 1. Add the noodles to a bowl
 2. Add the soup

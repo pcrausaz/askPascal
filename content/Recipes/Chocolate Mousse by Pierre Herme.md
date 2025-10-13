@@ -6,7 +6,7 @@
 :::two-columns-plain
 
 ### Details
-## Ingredients
+**Ingredients**
 
 - 170 g of 70% Black Chocolate
 - 8 cl of Warm Milk
@@ -15,7 +15,7 @@
 - 20 g of Granulated Sugar
 
 
-## Method
+**Method**
 
 1. Whip the egg white until their form a 'bec' (Firm Peak) while slowly integrate the sugar
 2. Melt the chocolate in a double boiler

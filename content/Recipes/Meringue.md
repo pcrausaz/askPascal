@@ -6,20 +6,20 @@
 :::two-columns-plain
 
 ### Details
-## Ingredients Meringue
+**Ingredients Meringue**
 
 - 100 g of egg white (about 3 eggs)
 - 100 g of granulated sugar
 - 100 g of powdered sugar
 
 
-## Ingredients Chantilly
+**Ingredients Chantilly**
 
 - 250 g of heavy cream (very cold)
 - 25 g of powdered sugar (10%)
 
 
-## Method Meringue
+**Method Meringue**
 
 1. Pre-heat oven at 70°C to 170°F
 2. In mixer bowl, place the egg white
@@ -34,12 +34,12 @@
 11. Layout the meringue on a baking mat, and place into the warm oven for 4 hours
 
 
-## Method Chantilly
+**Method Chantilly**
 
 1. Mix cream and sugar, you can use a mixer or a [iSi Whipper](https://www.isi.com/us/culinary/products/isi-whippers/gourmet-whip/)
 
 
-## Method Assembly
+**Method Assembly**
 
 1. Dig under your meringue, cut the tip and place it upside down in the bowl
 2. Place a scoop of ice cream, into the meringue

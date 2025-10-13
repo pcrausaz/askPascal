@@ -6,7 +6,7 @@
 :::two-columns-plain
 
 ### Details
-## Ingredients
+**Ingredients**
 
 - 600 g. of Salmon filet (no skin)
 - 1 small Red Pepper
@@ -19,7 +19,7 @@
 - Salt & Pepper
 
 
-## Method
+**Method**
 
 1. Place the fish in the freezer for about 20 minutes, it will allow you to slice it with more ease.
 2. Peel the red and yellow bell pepper, split in half, remove seed and white stuff. Then slice is small cubes (3x3mm).

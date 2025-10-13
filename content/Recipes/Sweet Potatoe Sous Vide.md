@@ -6,7 +6,7 @@
 :::two-columns-plain
 
 ### Details
-## Ingredients
+**Ingredients**
 
 - 4-5 Sweet Potatoes
 - 1 Tbsp of unsalted Butter
@@ -14,7 +14,7 @@
 - 0.5 Tbsp of unsalted Butter to sauté the veggies
 
 
-## Method
+**Method**
 
 1. Peel and cut in half the Sweet Potatoes
 2. Place the veggies into the bag

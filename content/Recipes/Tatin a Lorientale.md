@@ -6,7 +6,7 @@
 :::two-columns-plain
 
 ### Details
-## Ingredients
+**Ingredients**
 
 - 1 Puff Pastry Sheet
 - 400g of ground lamb
@@ -21,7 +21,7 @@
 - Pepper
 
 
-## Method
+**Method**
 
 1. Take the dough out of the freezer....
 2. Pre-heat oven at 375 F

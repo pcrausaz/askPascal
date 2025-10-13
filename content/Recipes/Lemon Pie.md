@@ -6,7 +6,7 @@
 :::two-columns-plain
 
 ### Details
-## Ingredients
+**Ingredients**
 
 - 6 Eggs yoks
 - 1 cup of sugar
@@ -16,7 +16,7 @@
 - 1 baked shell
 
 
-## Method
+**Method**
 
 1. Pre-heat the over and bake the shell or [Sugar Dough / Pâte Sucrée](Sugar Dough Pate Sucree.md)
 2. Mix the yoks with the sugar and lemon juice

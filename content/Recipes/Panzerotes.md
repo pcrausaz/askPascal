@@ -6,7 +6,7 @@
 :::two-columns-plain
 
 ### Details
-## Ingredients
+**Ingredients**
 
 - 1 Kg of all-purpose flour (makes about 20 per Kg)
 - 1kg of Emmental
@@ -21,7 +21,7 @@
 **Note**: plan for some spare cheese and tomatoes on the first to get a feel for how much you need.
 
 
-## Method
+**Method**
 
 1. Mix the yeast into 3 dl of lukewarm water
 2. Place the flour into a large bowl and mix in the salt

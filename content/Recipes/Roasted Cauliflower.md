@@ -6,7 +6,7 @@
 :::two-columns-plain
 
 ### Details
-## Ingredients
+**Ingredients**
 
 - 1 Cauliflower
 - 1 or 2 Tsp of Cumin
@@ -14,7 +14,7 @@
 - Olive Oil
 
 
-## Method
+**Method**
 
 1. Pre-heat oven to 400 **°**F
 2. Break up the cauliflower into florets

@@ -6,7 +6,7 @@
 :::two-columns-plain
 
 ### Details
-## Ingredients
+**Ingredients**
 
 - 2 lb Mussels
 - 4-5 cloves of garlic
@@ -17,7 +17,7 @@
 - Iron cast pan or grill plate
 
 
-## Method
+**Method**
 
 1. Clean the mussels if needed
 2. Peel, lightly crush the garlic then cut finely

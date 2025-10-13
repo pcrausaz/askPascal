@@ -6,7 +6,7 @@
 :::two-columns-plain
 
 ### Details
-## Ingredients
+**Ingredients**
 
 - 280 g Flour (pastry flour or extra fine is better)
 - 10 g Fresh Yeast
@@ -20,7 +20,7 @@
 - 1 [fève](https://fr.wikipedia.org/wiki/Galette_des_Rois#La_f.C3.A8ve)
 
 
-## Method
+**Method**
 
 1. Get the butter out, cut in small dice and leave it to get to room temperature
 2. Crumble of the yeast into the luke warm milk, mix well then set aside for 10 minutes

@@ -6,7 +6,7 @@
 :::two-columns-plain
 
 ### Details
-## Ingredients
+**Ingredients**
 
 - 1 Sheet of Puff pastry
 - 1 l. of Milk
@@ -18,7 +18,7 @@
 - 1 Vanilla bean (optional)
 
 
-## Method
+**Method**
 
 1. Pre-heat the oven at 350F
 2. Scrub a pie plate with butter, then sprinkle flour.

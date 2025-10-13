@@ -6,7 +6,7 @@
 :::two-columns-plain
 
 ### Details
-## Ingredients
+**Ingredients**
 
 - 1 sirloin end leg of lamb, boned, and trussed
 - 2 garlic cloves
@@ -23,7 +23,7 @@
 - 2 sprigs fresh rosemary
 
 
-## Method
+**Method**
 
 ### Method Paste
 

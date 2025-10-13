@@ -6,7 +6,7 @@
 :::two-columns-plain
 
 ### Details
-## Ingredients
+**Ingredients**
 
 - 1 Beef Tenderloin (30 mm)
 - 1 Shallot
@@ -17,7 +17,7 @@
 - 0.5 Tbsp of Salted Butter for searing
 
 
-## Method
+**Method**
 
 1. Rub the steak with the olive oil
 2. Salt and pepper

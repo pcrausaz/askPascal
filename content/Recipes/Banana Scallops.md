@@ -6,13 +6,13 @@
 :::two-columns-plain
 
 ### Details
-## Ingredients
+**Ingredients**
 
 - 1 Banana
 - Sugar
 
 
-## Method
+**Method**
 
 1. Slice the banana in 5-6 mm rounds
 2. Lay the rounds flat on a metal cooking sheet

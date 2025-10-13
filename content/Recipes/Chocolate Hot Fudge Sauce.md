@@ -6,7 +6,7 @@
 :::two-columns-plain
 
 ### Details
-## Ingredients
+**Ingredients**
 
 - 115 g of high quality dark chocolate
 - 75 g of granulated sugar
@@ -15,7 +15,7 @@
 - 28 g of unsalted butter (2 Tbsp)
 
 
-## Method
+**Method**
 
 1. Work when done in a pan, but I prefer to use a double boiler
 2. In the pan, add the sugar, cream and salt, mix and heat up, preferably close to the boiling points

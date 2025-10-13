@@ -6,7 +6,7 @@
 :::two-columns-plain
 
 ### Details
-## Ingredients
+**Ingredients**
 
 - 2 cups of water
 - 1/2 cup of sugar
@@ -14,7 +14,7 @@
 - A ton of ice
 
 
-## Method
+**Method**
 
 1. Mix the water and the sugar and boil it. This will dissolve the sugar
 2. in meantime, juice the lemon

@@ -6,7 +6,7 @@
 :::two-columns-plain
 
 ### Details
-## Ingredients
+**Ingredients**
 
 - 450 g of chicken breast or chicken tender
 - 60 g of flour
@@ -25,7 +25,7 @@
 - 1 or 2 branch of scallion
 
 
-## Method
+**Method**
 
 1. Slice very finely the Thai Chili pepper, set aside
 2. Slice finely the scallion

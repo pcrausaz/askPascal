@@ -6,7 +6,7 @@
 :::two-columns-plain
 
 ### Details
-## Ingredients
+**Ingredients**
 
 - 250 g of [Sugar Dough / Pâte Sucrée](Sugar Dough Pate Sucree.md)
 - Flan/Custard
@@ -16,7 +16,7 @@
   - 1 dl of Vin Cuit
 
 
-## Method
+**Method**
 
 1. Pre-heat over at 250℃ /480℉ Prepare your dough, ideally a disk of 3-4 mm thick. Dust lightly.
 2. Lay the dough (fonce) in the pie plate, and cover the center with a aluminium disk, 10 mn into the cooking remove the disk

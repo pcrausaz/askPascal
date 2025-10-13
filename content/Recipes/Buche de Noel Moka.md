@@ -6,7 +6,7 @@
 :::two-columns-plain
 
 ### Details
-## Ingredients
+**Ingredients**
 
 - Get the butter out, one hour before starting.
 
@@ -27,7 +27,7 @@
 - 1 small strong expresso (about 2 tbsp)
 
 
-## Method
+**Method**
 
 ### Method Sponge Cake
 

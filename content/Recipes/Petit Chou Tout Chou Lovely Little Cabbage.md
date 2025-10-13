@@ -6,7 +6,7 @@
 :::two-columns-plain
 
 ### Details
-## Ingredients Bouillon
+**Ingredients Bouillon**
 
 - 1 turnip
 - 1 carott
@@ -20,7 +20,7 @@
 - Thym, Laurel
 
 
-## Ingredients Petit Chou
+**Ingredients Petit Chou**
 
 - 10 g Cilantro
 - 30 g of Mesclun (assorted small, young salad green leaves)
@@ -34,7 +34,7 @@
 - Plastic Wrap
 
 
-## Ingredients Litte Salad
+**Ingredients Litte Salad**
 
 - 1 or 2 Button Mushroom
 - Baby Spinach and Arugula mix
@@ -43,7 +43,7 @@
  )
 
 
-## Method Bouillon ([video here](http://www.jeanpierrevigato.com/portfolio/bouillon-thai-express-par-jean-pierre-vigato/))
+**Method Bouillon ([video here](http://www.jeanpierrevigato.com/portfolio/bouillon-thai-express-par-jean-pierre-vigato/))**
 
 1. Slice all the veggies
 2. Roast the vegs in a pot with a little bit of olive oil
@@ -52,7 +52,7 @@
 5. Filter and reserve
 
 
-## Method Petit Chou
+**Method Petit Chou**
 
 1. In a pan, add a table spoon of butter and saute the herbs, spinach and arugula
 2. Add a little bit of bouillon and jus de truffle (careful with this las one, just a tiny bit)
@@ -67,13 +67,13 @@
   1. When ready, re-heat the Petit Chou in the platfic wrap, either in a steam bath or directly into some boiling water for a few seconds
 
 
-## Method Little Salad
+**Method Little Salad**
 
 1. In a bow, add Baby Spinach and Arugula mix, some olive oil, salt and pepper and a dash of lemon and mix
 2. Using a mandoline slice the mushroom
 
 
-## Method - Assemble
+**Method - Assemble**
 
 1. Warm a small soup plate
 2. Layout some of the salad

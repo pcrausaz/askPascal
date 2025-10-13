@@ -6,7 +6,7 @@
 :::two-columns-plain
 
 ### Details
-## Ingredients
+**Ingredients**
 
 Count about 5-6 ounces of cheese per person and about 1/2 cup of White Wine per person + 1/2 cup of White Wine for the pot (go light if you do not have many people, like forget the pot or keep some cheese on the side (best) in case it is a bit liquid). Bread (cut is piece about 1/2 a inch square or so, not too small, not too big).  
 You will need, in terms of proportions
@@ -29,7 +29,7 @@ About 1 shot of unflavored Kirsch (warning US Kirsch usually come flavord...avoi
 - Freshly crushed black pepper
 
 
-## Method
+**Method**
 
 1. Cut all the cheese in small strip or better grate/shred it
 2. Mix the cornstarch and the cognac, set aside.

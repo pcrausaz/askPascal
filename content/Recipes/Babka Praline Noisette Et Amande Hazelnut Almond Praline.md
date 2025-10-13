@@ -6,7 +6,7 @@
 :::two-columns-plain
 
 ### Details
-## Ingredients Dough
+**Ingredients Dough**
 
 - 250 g of flour
 - 3 g of salt
@@ -16,7 +16,7 @@
 - 50 g of unsalted butter, softened
 
 
-## Ingredients Praline
+**Ingredients Praline**
 
 - 150 g of hazelnuts
 - 150 g of almonds
@@ -24,13 +24,13 @@
 - 50 g of water
 
 
-## Ingredients Sirup
+**Ingredients Sirup**
 
 - 50 g of sugar
 - 60 g of water
 
 
-## Method Dough
+**Method Dough**
 
 1. Cut the butter in small pieces, let it soften to room temperature
 2. In the kitchen aid bowl, add salt, flour, yeast, sugar and lukewarm milk
@@ -41,7 +41,7 @@
 7. Set the dough aside and let it rest in the fridge for at least an hour or overnight
 
 
-## Method Praline
+**Method Praline**
 
 1. Set the over at 300F/180C and pre-heat
 2. Place hazelnuts and almond on a sheet pan, place in oven for 20 minutes, mix once or twice. This will road the nuts (can do this in the pan as well.
@@ -58,7 +58,7 @@
   
 
 
-## Method Sirup
+**Method Sirup**
 
 1. Do this while the dough is baking
 2. Add sugar and water to a pan
@@ -66,7 +66,7 @@
 4. Set aside
 
 
-## Method Assembly
+**Method Assembly**
 
 1. Take the dough out
 2. Lightly flour your work surface

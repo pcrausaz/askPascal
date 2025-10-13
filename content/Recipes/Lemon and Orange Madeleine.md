@@ -6,7 +6,7 @@
 :::two-columns-plain
 
 ### Details
-## Ingredients
+**Ingredients**
 
 - 180 g eggs  (about 3)
 - 160 g of brown sugar
@@ -21,7 +21,7 @@
 - 250 of flour
 
 
-## Method Melange Preparation
+**Method Melange Preparation**
 
 1. Cut the butter in small piece, add to a pan, and melt over medium heat until the butter turns amber.
 2. Remove from the heat, pour into a bowl and let it cool
@@ -37,7 +37,7 @@
   
 
 
-## Method Baking
+**Method Baking**
 
 1. The next day
 2. Pre-heat oven to 220C/ 425 F

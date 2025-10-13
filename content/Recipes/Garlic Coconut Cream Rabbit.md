@@ -6,7 +6,7 @@
 :::two-columns-plain
 
 ### Details
-## Ingredients
+**Ingredients**
 
 - 1 Rabbit
 - 1 head of garlic
@@ -17,7 +17,7 @@
 - Cornstatch
 
 
-## Method
+**Method**
 
 1. Cut the rabbit in parts 
 2. Sprinkle some olive oil on the rabbit parts

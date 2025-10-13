@@ -6,14 +6,14 @@
 :::two-columns-plain
 
 ### Details
-## Ingredients
+**Ingredients**
 
 - 1 Duck Leg
 - 1 Tsp of duck fat
 - Salt & Pepper
 
 
-## Method
+**Method**
 
 1. Generously Salt and pepper on the duck leg on both sides to cure (most common recipes call for an 18% ratio)
 2. Vacumm seal the leg and reserve in the fridge overnigh

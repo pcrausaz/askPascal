@@ -6,7 +6,7 @@
 :::two-columns-plain
 
 ### Details
-## Ingredients
+**Ingredients**
 
 - 2 Tomatoes
 - 2 Avocados
@@ -19,7 +19,7 @@
 - Salt & Pepper
 
 
-## Method
+**Method**
 
 1. Finely cut the tomatoes (2-3 mm)
 2. Finely slice the scallions

@@ -6,7 +6,7 @@
 :::two-columns-plain
 
 ### Details
-## Ingredients
+**Ingredients**
 
 ### Ingredients Kebabs
 
@@ -33,7 +33,7 @@
 - 1 Letuce
 
 
-## Method
+**Method**
 
 ### Method Yogurt Dipping Sauce
 

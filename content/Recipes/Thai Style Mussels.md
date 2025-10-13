@@ -6,7 +6,7 @@
 :::two-columns-plain
 
 ### Details
-## Ingredients
+**Ingredients**
 
 - 8 Spring of fresh cilantro
 - 4 Cloves of garlic
@@ -24,7 +24,7 @@
 - 1 Bag of mussels (2-3 lb)
 
 
-## Method
+**Method**
 
 1. Clean and rinse the mussels, set aside
 2. Separate the stems from the leaves of the cilantro, chop roughly and set aside (do not mix both)

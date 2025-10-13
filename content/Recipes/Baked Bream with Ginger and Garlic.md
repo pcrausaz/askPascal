@@ -6,7 +6,7 @@
 :::two-columns-plain
 
 ### Details
-## Ingredients
+**Ingredients**
 
 - 2 Sea Bream
 - 2 tbsp olive oil
@@ -23,7 +23,7 @@
 - handful chopped coriander
 
 
-## Method
+**Method**
 
 1. Preheat the oven to 200°C (180°C fan) mark 6. Make 3-4 diagonal slashes on each side of the fish. Place in a non-stick baking tray and brush with oil.
 2. Fill the cavities of the fish with 1⁄2 the lemongrass. Mix the remaining lemongrass, ginger, garlic, spring onion and chilli together and spread evenly over the fish.

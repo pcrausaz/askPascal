@@ -6,7 +6,7 @@
 :::two-columns-plain
 
 ### Details
-## Ingredients
+**Ingredients**
 
 - 50 g of hazelnuts
 - 75 g of pistachios
@@ -18,7 +18,7 @@
 - Pinch of salt
 
 
-## Method
+**Method**
 
 1. In a pan, add the nuts, all of them, sprinkle 50 g of sugar on top, then caramelize, medium temperature. Mix often, it will take about 10 mns. When done, set aside and let it cool down
 2. When the nuts are cool, crush them, either using a large knife or like I do, stick them in a zip lock bag and hammer the nuts finely.

@@ -6,7 +6,7 @@
 :::two-columns-plain
 
 ### Details
-## Ingredients
+**Ingredients**
 
 - 500 g of black olives, pitted
 - 100 g of anchovies (salted)
@@ -15,7 +15,7 @@
 - Fresh black pepper
 
 
-## Method
+**Method**
 
 1. Mix it all  in the machine until blended
 

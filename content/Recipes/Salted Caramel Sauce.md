@@ -6,7 +6,7 @@
 :::two-columns-plain
 
 ### Details
-## Ingredients
+**Ingredients**
 
 - 1 cup granulated sugar 
 - 1/4 cup of water
@@ -15,7 +15,7 @@
 - ¾ teaspoon kosher salt, or to taste 
 
 
-## Method
+**Method**
 
 1. In a medium sauce pan, combine the sugar with water and heat over medium-high eat until it caramelize. Move the pan around if you need to mix a bit but do not stir.
 2. Cook until the caramel reaches a nice amber hue, about 10 mn

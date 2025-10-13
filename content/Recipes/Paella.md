@@ -6,7 +6,7 @@
 :::two-columns-plain
 
 ### Details
-## Ingredients
+**Ingredients**
 
 - 500 gr of Mussels
 - 16 Shrimps (2 per person)
@@ -26,7 +26,7 @@
 - 2-3 Lemons
 
 
-## Method
+**Method**
 
 1. Slide/mince the red pepper (2-3 mm)
 2. Cut the squid in rings

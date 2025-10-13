@@ -6,7 +6,7 @@
 :::two-columns-plain
 
 ### Details
-## Ingredients
+**Ingredients**
 
 - 1 1/2 pounds vine-ripened tomatoes, peeled, seeded and chopped
 - 1 cup cucumber, peeled, seeded and chopped
@@ -24,7 +24,7 @@
 - 2 tablespoons fresh basil leaves, chiffonade
 
 
-## Method
+**Method**
 
 1. Blanch the tomatoes to remove the skin (boil water, immerge the tomatoes in the boiling water for 1 mn)
 2. Take out the tomatoes, pass under cold water

@@ -6,7 +6,7 @@
 :::two-columns-plain
 
 ### Details
-## Ingredients
+**Ingredients**
 
 ### Ingredients Pie Crust
 
@@ -28,7 +28,7 @@
 - Optional: 1/8 teaspoon freshly grated nutmeg
 
 
-## Method
+**Method**
 
 ### Method Pie Crust
 

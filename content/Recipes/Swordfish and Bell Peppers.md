@@ -6,7 +6,7 @@
 :::two-columns-plain
 
 ### Details
-## Ingredients
+**Ingredients**
 
 - 800 gr of Swordfish
 - 2 Onions
@@ -20,7 +20,7 @@
 - Salt and pepper
 
 
-## Method
+**Method**
 
 1. Peel the onion and cut in quarters
 2. Wash and clean up the bell (remove the inside seeds and white crap) peppers and mince.

@@ -6,7 +6,7 @@
 :::two-columns-plain
 
 ### Details
-## Ingredients
+**Ingredients**
 
 - 16 Sea Scallops (large)
 - 10 cl of White Wine (moelleux - dessert like)
@@ -17,7 +17,7 @@
 - Salt and Pepper
 
 
-## Method
+**Method**
 
 1. Place some water to boil
 2. Wash the orange

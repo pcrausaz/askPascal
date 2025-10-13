@@ -6,7 +6,7 @@
 :::two-columns-plain
 
 ### Details
-## Ingredients
+**Ingredients**
 
 - 1 Leek, white part only
 - 1.25 lb of oyster mushroom (600 gr)
@@ -20,7 +20,7 @@
 - 1 Tsp of chervil leaves finely sliced
 
 
-## Method
+**Method**
 
 1. Wash the leek, cut in half in the length, then cut in 1 inch pieces
 2. Clean the mushrooms

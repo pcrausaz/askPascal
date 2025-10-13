@@ -6,7 +6,7 @@
 :::two-columns-plain
 
 ### Details
-## Ingredients
+**Ingredients**
 
 - 125 g of spaghetti
 - 60 g of pecorino romano 
@@ -14,7 +14,7 @@
 - Freshly cracked black pepper
 
 
-## Method
+**Method**
 
 1. Bring some water to a boil, use 50% the water of what you use usually 
 2. Grate the cheese

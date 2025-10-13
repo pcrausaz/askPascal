@@ -6,7 +6,7 @@
 :::two-columns-plain
 
 ### Details
-## Ingredients
+**Ingredients**
 
 - 3 Scallops
 - Shallots
@@ -16,7 +16,7 @@
 - Cracked Black Pepper
 
 
-## Method
+**Method**
 
 1. Place the scallops in a bowl
 2. Mince the shallots, add to the bowl

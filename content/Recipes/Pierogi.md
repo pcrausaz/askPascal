@@ -6,21 +6,21 @@
 :::two-columns-plain
 
 ### Details
-## Ingredients Filling
+**Ingredients Filling**
 
 - 1 kg pork belly or pork butt
 - 1 kg of Sauerkraut
 - 60 g of dry porcini mushrooms 
 
 
-## Ingredients Dough
+**Ingredients Dough**
 
 - 1 kg of flour (50% T45 and 50% T55....or just 100% plain flour)
 - 2 or 3 cups of milk
 - 17 g of salt
 
 
-## Method Filling
+**Method Filling**
 
 1. Place the dry mushrooms into water to get them soft
 2. Boil pork till tender
@@ -33,7 +33,7 @@
   
 
 
-## Method Dough
+**Method Dough**
 
 1. Mix flour, salt then add milk
 2. Try not to knead too much or it becomes elastic and you want to avoid this
@@ -42,7 +42,7 @@
   
 
 
-## Method Assembly
+**Method Assembly**
 
 1. Spread the dough, fairly thin (1 or 2 mm), then using the cookie cutter get the circle out
   1. It is easier if you cut piece of dough you spread (like a 1/4 or a 1/3)
@@ -53,7 +53,7 @@
   
 
 
-## Method Cooking
+**Method Cooking**
 
 1. Boil a large pot of water
 2. Drop a few dumplings into the boiling water

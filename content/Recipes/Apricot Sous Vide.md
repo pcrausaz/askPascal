@@ -6,14 +6,14 @@
 :::two-columns-plain
 
 ### Details
-## Ingredients
+**Ingredients**
 
 - 0.5 Cup of Sugar
 - 0.5 Cup of Water
 - 4 Apricot
 
 
-## Method
+**Method**
 
 1. Place the sugar and water in a pan, bring to a boil
 2. Open the apricots, half them and remove the pt

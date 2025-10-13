@@ -6,7 +6,7 @@
 :::two-columns-plain
 
 ### Details
-## Ingredients
+**Ingredients**
 
 - 500 gr of Black Cherries (frozen ok but fresh are better)
 - 5 Eggs
@@ -19,7 +19,7 @@
 - 25 gr of butter (for the plate)
 
 
-## Method
+**Method**
 
 1. Pit the cherries. If using frozen cherries,
 2. Thaw the cherries, dry them out as much as you can. The traditional recipe uses fresh un-pitted cherries...but that is such a pain to eat that I recommend either frozen cherries or pitted fresh black cherries

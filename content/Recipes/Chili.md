@@ -6,7 +6,7 @@
 :::two-columns-plain
 
 ### Details
-## Ingredients
+**Ingredients**
 
 - 1kg of Hamburger Meat or Chili meat
 - 2-3 Onions
@@ -24,7 +24,7 @@
 - Salt & Peper
 
 
-## Method
+**Method**
 
 1. Crush 1 small can of beans (using a fork or in a small plastic bag and set aside
 2. Open the beans and dry out the bean juice, rince

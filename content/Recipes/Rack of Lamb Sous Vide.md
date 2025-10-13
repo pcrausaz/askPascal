@@ -6,7 +6,7 @@
 :::two-columns-plain
 
 ### Details
-## Ingredients
+**Ingredients**
 
 - 1 Rack of Lamb
 - 1 Tsp of Garlic Powder
@@ -15,7 +15,7 @@
 - 1 Tsp of [Clarified Butter](Clarified Butter.md)
 
 
-## Method
+**Method**
 
 1. Pre-hreat the water bath
 2. Prep the lamb, removing extra fat if needed

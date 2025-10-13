@@ -6,7 +6,7 @@
 :::two-columns-plain
 
 ### Details
-## Ingredients
+**Ingredients**
 
 ### Ingredients Falafel
 
@@ -34,7 +34,7 @@
 - *Optional*:Hot Chili Sauce
 
 
-## Method
+**Method**
 
 ### Method Falafel
 

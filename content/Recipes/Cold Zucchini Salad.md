@@ -6,7 +6,7 @@
 :::two-columns-plain
 
 ### Details
-## Ingredients
+**Ingredients**
 
 - 2 Tbsp of Olive Oil
 - 3 Chopped and peeled Garlic cloves
@@ -16,7 +16,7 @@
 - Fresh Thyme
 
 
-## Method
+**Method**
 
 1. Heat the olive oil in a pan with the chopped garlic and the onions for about 2 minutes
 2. Add the sliced Zucchini into the pan

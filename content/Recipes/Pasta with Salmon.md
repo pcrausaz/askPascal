@@ -6,7 +6,7 @@
 :::two-columns-plain
 
 ### Details
-## Ingredients
+**Ingredients**
 
 - 500 gr of Spagetti
 - 2-3 lb of Fresh Salmon
@@ -19,7 +19,7 @@
 - Olive Oil
 
 
-## Method
+**Method**
 
 1. Boil the water for the pasta
 2. Mince the shallots

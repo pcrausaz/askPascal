@@ -6,7 +6,7 @@
 :::two-columns-plain
 
 ### Details
-## Ingredients Grilled port
+**Ingredients Grilled port**
 
 - 1 lb of pork shoulder or pork but
 - 3 tbsp of lemon grass
@@ -26,7 +26,7 @@
 - 23 Thai chili pepper
 
 
-## Ingredients for the Banh Mi sandwich
+**Ingredients for the Banh Mi sandwich**
 
 - Baguette
 - Pickled carrots and daikon, [recipe here](Vietnamese Pickled Carrots Daikon Chua.md)
@@ -36,7 +36,7 @@
 - Slice jalapenos
 
 
-## Method Grilled Pork
+**Method Grilled Pork**
 
 1. Finely mince garlic & shallots
 2. In a bowl, mis all the grilled pork ingredients (but the pork)
@@ -50,7 +50,7 @@
   
 
 
-## Method Banh Mi sandwich
+**Method Banh Mi sandwich**
 
 - Take the pickled carrots and daicon our, slice the cucumber, jalapeno
 - Open the baguette, keep one side hinged

@@ -6,7 +6,7 @@
 :::two-columns-plain
 
 ### Details
-## Ingredients
+**Ingredients**
 
 - 2-3 lb of Pork Butt (shoulder)
 - 1 Fresh pineapple
@@ -18,7 +18,7 @@
   
 
 
-## Ingredients Marinade
+**Ingredients Marinade**
 
 - 4 garlic cloves
 - 1/2 Onion
@@ -36,7 +36,7 @@
 - Olive Oil
 
 
-## Method Marinade & Meat Preparation
+**Method Marinade & Meat Preparation**
 
 1. Place the pork butt in the freezer for a couple of hours
 2. In a pan, roast the onion, garlic and bay leaves
@@ -51,7 +51,7 @@
   
 
 
-## Method Meat Trompo
+**Method Meat Trompo**
 
 1. Pre-heat oven to 275 F
 2. Place a large slice of the fresh pineapple (2-3 cm)  (peeled) at the bottom of the trompo

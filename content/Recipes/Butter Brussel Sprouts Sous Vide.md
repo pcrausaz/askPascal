@@ -6,7 +6,7 @@
 :::two-columns-plain
 
 ### Details
-## Ingredients
+**Ingredients**
 
 - 4-5 Brussel Sprouts
 - 1 Tbsp of unsalted Butter
@@ -14,7 +14,7 @@
 - 0.5 Tbsp of unsalted Butter to sauté the veggies
 
 
-## Method
+**Method**
 
 1. Clean and cut in half the brussel Sprouts
 2. Place the veggies into the bag

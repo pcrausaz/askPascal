@@ -6,7 +6,7 @@
 :::two-columns-plain
 
 ### Details
-## Ingredients - dough
+**Ingredients - dough**
 
 - 1 Cup flour
 - 1/4 Tsp Salt
@@ -14,14 +14,14 @@
 - 115 g of unsalted butter
 
 
-## Ingredients - Syrup
+**Ingredients - Syrup**
 
 - 3/4 Cup of sugar
 - 1/4 Cup of water
 - Lemon Zest
 
 
-## Ingredients - Cream
+**Ingredients - Cream**
 
 - 1/3 Cup Flour
 - 1/4 Tsp Salt
@@ -30,7 +30,7 @@
 - 1 Vanilla bean
 
 
-## Method - Dough
+**Method - Dough**
 
 1. The day before, prepare the butter pastry dough.
 2. Take the butter out, cut in small piece
@@ -48,13 +48,13 @@
 14. Wrap the dough in plastic wrap, place in the fridge at least a couple of hours or - better - overnight. You can also freeze the dough if you want at this point.
 
 
-## Method - Syrup
+**Method - Syrup**
 
 1. Place the water, sugar and zest into a pan over medium heat and boil.
 2. No need to really steer but you can, wait till the sugar has dissolve completely
 
 
-## Method - Cream
+**Method - Cream**
 
 1. Whisk flour, salt, scrapped vanilla bean and milk together into a pan
 2. Place the pan over medium heat, always stirring, for about 5 minutes until it thicken
@@ -66,7 +66,7 @@
 8. Mix well, strain and place in a large glass measuring cup (easier to pour later on).
 
 
-## Method - Assembly
+**Method - Assembly**
 
 1. Pre-heat oven at 500F (original recipe called for the max temperature - mine is 550 F - this was a tad too high).
 2. Unwrap the dough, cut the dough side if needed to trim it properly

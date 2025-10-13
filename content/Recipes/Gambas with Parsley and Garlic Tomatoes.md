@@ -6,7 +6,7 @@
 :::two-columns-plain
 
 ### Details
-## Ingredients
+**Ingredients**
 
 - 12 Gambas (large shrimps)
 - 4 Large tomatoes
@@ -20,7 +20,7 @@
 - Olive Oil
 
 
-## Method
+**Method**
 
 1. Turn on your oven grill
 2. Split the tomatoes in 2, place then in an open proof plate large enough to hold the tomatoes and the gambas

@@ -6,7 +6,7 @@
 :::two-columns-plain
 
 ### Details
-## Ingredients
+**Ingredients**
 
 - 500 g of King Salmon Filets
 - 1-2 Tsp of Chili garlic sauce
@@ -24,7 +24,7 @@
 - Salt & Pepper
 
 
-## Method
+**Method**
 
 1. Start mixing the Chili Garlic Sauce and the Soy Sauce
 2. Lightly salt the salmon (better to skin it)

@@ -6,7 +6,7 @@
 :::two-columns-plain
 
 ### Details
-## Ingredients
+**Ingredients**
 
 - 12 Shrimps
 - 1 Tsp of Chili Flakes
@@ -18,7 +18,7 @@
 - Olive Oil
 
 
-## Method
+**Method**
 
 1. Peel the shrimp (deveined if you prefer)
 2. Pat he shrimp dry, season with salt and set aside

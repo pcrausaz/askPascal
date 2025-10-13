@@ -6,7 +6,7 @@
 :::two-columns-plain
 
 ### Details
-## Ingredients
+**Ingredients**
 
 - 1 Bag of Frozen Sliced Peaches
 - 4 Ounce of Peach Schnaps (a bit more does good)
@@ -15,7 +15,7 @@
 - 3-4 Ice cubes
 
 
-## Method
+**Method**
 
 1. Put the frozen slices of peaches, the Vodka, the Peach Schnaps in a blender
 2. Blend until drink is smooth

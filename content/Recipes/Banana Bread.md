@@ -6,7 +6,7 @@
 :::two-columns-plain
 
 ### Details
-## Ingredients
+**Ingredients**
 
 - 3 very ripe bananas
 - ½ cup unsalted butter
@@ -19,7 +19,7 @@
 - 1 bag of Vanilla sugar
 
 
-## Method
+**Method**
 
 1. Bring the butter at room temperature
 2. Preheat the oven to 350°F.

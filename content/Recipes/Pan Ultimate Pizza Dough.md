@@ -6,7 +6,7 @@
 :::two-columns-plain
 
 ### Details
-## Ingredients
+**Ingredients**
 
 - 415 g Bread Flour or All Purpose Flour
 - 9 g Salt
@@ -15,7 +15,7 @@
 - Olive Oil as needed
 
 
-## Method
+**Method**
 
 1. In the mixer bowl, mix the flour and salt using a wooden spoon
 2. If using yeast, combine the water and the yeast

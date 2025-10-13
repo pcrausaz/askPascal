@@ -6,7 +6,7 @@
 :::two-columns-plain
 
 ### Details
-## Ingredients
+**Ingredients**
 
 - 1 tablespoon olive oil
 - 1/3 cup chopped onion
@@ -20,7 +20,7 @@
 - 2 teaspoons cornstarch
 
 
-## Method
+**Method**
 
 1. Heat the oil in a small saucepan over medium-high heat.
 2. When hot, add the onions and cook, stirring, until softened, about 2 minutes.

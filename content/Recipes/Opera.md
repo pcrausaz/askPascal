@@ -9,7 +9,7 @@
 **Ingredients**
 - ...
 
-## Method Icing
+**Method Icing**
 
 1. Prepare the guitar sheet, my where slices of about 10cm, too small for the cake ring I had, so I tape two sheets on a wood board, making sure the seams were tight and the sheets not moving
 2. Place the chocolate into a bowl, then nuke it several times, I used power 2 for 1 mn each session until the chocolate is melted.
@@ -19,12 +19,12 @@
 6. Now place your cake ring on top of the icing, pressing firmly, then reserve in the refrigerator so that the icing harden
 
 
-## Method Coffee Sirup
+**Method Coffee Sirup**
 
 1. Boil the water, sugar and expresso cup until the sugar is melted properly, set aside 
 
 
-## Method Biscuit Joconde
+**Method Biscuit Joconde**
 
 1. Pre-heat the oven at 220 °C/425°F
 2. Melt the butter and let it cool
@@ -38,7 +38,7 @@
 10. Take out and preserve the biscuit between two sheets of parchment paper to ensure it stays moist.
 
 
-## Method Ganache
+**Method Ganache**
 
 1. Pour the heavy cream  and butter into a pan, bring to a quick boil, take out of the fire, wait 30 seconds and incorporate the chocolate (cut the chocolate in pieces before if you do not use chips).
 2. Mix with care using a maryse, starting from the center.
@@ -52,7 +52,7 @@
 4. Mix until it is smooth
 
 
-## Method Assembly
+**Method Assembly**
 
 1. Place the cream into a pastry bag, do the safe with the ganache. Use a 6 mm tip for each
 2. Now is the time to cut your biscuit to the appropriate shape to fit the cake ring, you should have 3 layers

@@ -6,7 +6,7 @@
 :::two-columns-plain
 
 ### Details
-## Ingredients
+**Ingredients**
 
 - 1 lb of ground turkey (dark meat if possible)
 - 1 small red onion (1/3 cup minced)
@@ -19,7 +19,7 @@
 - Olive Oil
 
 
-## Method
+**Method**
 
 1. Mince the onion
 2. Cut the jalapeno finely

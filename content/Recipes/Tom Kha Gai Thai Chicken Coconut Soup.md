@@ -6,7 +6,7 @@
 :::two-columns-plain
 
 ### Details
-## Ingredients
+**Ingredients**
 
 - 1 can of Coconut Milk
 - 2 cans of Chicken Broth
@@ -23,7 +23,7 @@
 - 1/4 of a cup of Fresh Cilantro
 
 
-## Method
+**Method**
 
 1. Cut the lemon grass in 1-2 in pieces, you can wrap it into cheese cloth to make it easier to remove
 2. Slice the chicken tenders in pieces, not too thick

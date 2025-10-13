@@ -6,7 +6,7 @@
 :::two-columns-plain
 
 ### Details
-## Ingredients
+**Ingredients**
 
 - 8 skin-on, bone-on chicken thighs
 - 1 onion
@@ -23,7 +23,7 @@
 - Salt & Pepper
 
 
-## Method
+**Method**
 
 1. Pre-heat oven to 425 F
 2. Cut the onions finely

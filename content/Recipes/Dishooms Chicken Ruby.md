@@ -6,21 +6,21 @@
 :::two-columns-plain
 
 ### Details
-## Ingredients Meal
+**Ingredients Meal**
 
 - 700g of skinless boneless chicken thighs
 - 20g of unsalted butter melted
 - 1 quantity of [Dishoom's Makhani Sauce](Dishooms Makhani Sauce.md) (with the cream)
 
 
-## Ingredients Garnish
+**Ingredients Garnish**
 
 - Ginger matchsticks
 - Coriander leaves, chopped
 - (optional) 1 tsp of pomegranate seeds
 
 
-## Ingredients Marinade
+**Ingredients Marinade**
 
 - 10g of fresh ginger root, chopped
 - 20 g of garlic (5-6 cloves), chopped
@@ -33,7 +33,7 @@
 - 75g of full-fat greek yoghurt
 
 
-## Method Marinade Chicken
+**Method Marinade Chicken**
 
 1. For the marinade, in the blender, blitz all the ingredient together
 2. Cut the chicken in 4cm chunks
@@ -43,7 +43,7 @@
   
 
 
-## Method Chicken Ruby
+**Method Chicken Ruby**
 
 1. Melt the butter (a few seconds in the microwave)
 2. Either on a grill or on a cast iron pan, get to medium-high heat

@@ -6,7 +6,7 @@
 :::two-columns-plain
 
 ### Details
-## Ingredients
+**Ingredients**
 
 - ~150g of pasta per person, preferably spaghetti
 - 50g-60g of Guancale or pancetta
@@ -15,7 +15,7 @@
 - Fresh black pepper
 
 
-## Method
+**Method**
 
 1. Bring your water to boil
 2. Usually done with dry pasta, but worked well with fresh one as well, just make sure to under cook it. The one I used required 5 mn cooking, I went to 3 mn

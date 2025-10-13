@@ -6,7 +6,7 @@
 :::two-columns-plain
 
 ### Details
-## Ingredients
+**Ingredients**
 
 - 3/4 cup fresh lime juice
 - 1/2 cup sugar, a tad more for rimming the glasses
@@ -17,7 +17,7 @@
 - Lime slices, for garnish
 
 
-## Method
+**Method**
 
 1. In a glass (non-reactive) bowl stir together the lime juice and sugar until sugar is completely dissolved, to make a lime syrup.
 2. Wet the rims of serving glasses with water and dip in sugar, set aside.

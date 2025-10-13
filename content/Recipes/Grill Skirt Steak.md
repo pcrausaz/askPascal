@@ -6,7 +6,7 @@
 :::two-columns-plain
 
 ### Details
-## Ingredients
+**Ingredients**
 
 - 1 or 2 lb of Skirt Steak (preferably think) or similar (hanging tenderloin, flank or oyster steak)
 - Vegetable Oil
@@ -17,7 +17,7 @@
 - 2 Tbsp of white wine
 
 
-## Method
+**Method**
 
 1. Pre-Heat the grill
 2. Pre-heat the oven at 170F

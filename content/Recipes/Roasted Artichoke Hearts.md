@@ -6,7 +6,7 @@
 :::two-columns-plain
 
 ### Details
-## Ingredients
+**Ingredients**
 
 - 8-10 Small Artichokes
 - Lemon
@@ -15,7 +15,7 @@
 - OLive Oil
 
 
-## Method
+**Method**
 
 1. Pre-heat oven at 375 °F 
 2. Prepare a bowl of cold water, add the juice of 1 lemon. This will be used to keep the hearts from browning while you prepare them.

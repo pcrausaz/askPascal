@@ -6,13 +6,13 @@
 :::two-columns-plain
 
 ### Details
-## Ingredients
+**Ingredients**
 
 - 1 Yolk
 - 250 ml of vegetable oil
 
 
-## Method
+**Method**
 
 1. It is easier to do in a small metal container that you will place into your water bath.
 2. Add some neutral oil into the metal container, pre-heat into your sous-vide bath

@@ -6,7 +6,7 @@
 :::two-columns-plain
 
 ### Details
-## Ingredients
+**Ingredients**
 
 - 4 Lobster Tails
 - 20 Morils or so, fresh or dried
@@ -24,7 +24,7 @@
 - Salt and Pepper
 
 
-## Method
+**Method**
 
 1. Pre-heat the oven on the lowest setting
 2. If you use dry morils, place them in a little bit of lukewarm water to rehydrate

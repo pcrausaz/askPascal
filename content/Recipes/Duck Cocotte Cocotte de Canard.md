@@ -6,7 +6,7 @@
 :::two-columns-plain
 
 ### Details
-## Ingredients
+**Ingredients**
 
 - 1 Duck
 - 1 kg of potatoes (fingerlings are great for this)
@@ -20,7 +20,7 @@
 - Duck Fat (if you have any, otherwise render some from the duck)
 
 
-## Method
+**Method**
 
 1. Pre-heat oven to 350F
 2. Prepare the duck, take the neck, cut in 2 or 3 parts and set aside

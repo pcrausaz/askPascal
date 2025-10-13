@@ -6,7 +6,7 @@
 :::two-columns-plain
 
 ### Details
-## Ingredients
+**Ingredients**
 
 - 1 Duck Breast
 - 1 Twig of Thyme
@@ -14,7 +14,7 @@
 - Optional: Duck Fat
 
 
-## Method
+**Method**
 
 1. Heat the water to 67 °C
 2. Dry the duck breat

@@ -6,7 +6,7 @@
 :::two-columns-plain
 
 ### Details
-## Ingredients
+**Ingredients**
 
 - 600 gr (1.25 cup) of Carrots
 - 60 gr (4 Tbsp) of unsalted butter
@@ -14,7 +14,7 @@
 - Salt
 
 
-## Method
+**Method**
 
 1. Peel the carrots and cut in rounds, about 3 mm thick
 2. Place the carrots in a large pot

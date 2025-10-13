@@ -9,7 +9,7 @@
 **Ingredients**
 - ...
 
-## Method
+**Method**
 
 1. Pre-heat oven @ 325 F
 2. Drain the beans

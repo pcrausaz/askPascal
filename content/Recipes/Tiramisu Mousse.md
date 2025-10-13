@@ -6,7 +6,7 @@
 :::two-columns-plain
 
 ### Details
-## Ingredients
+**Ingredients**
 
 - 300 g Mascarpone
 - 100 ml Milk
@@ -17,7 +17,7 @@
 - [Raspberry Coulis](Raspberry Coulis.md)
 
 
-## Method
+**Method**
 
 1. Draw the expresso
 2. Let it sit so cool a bit (you can use an ice bowl to speed things up)

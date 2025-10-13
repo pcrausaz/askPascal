@@ -6,7 +6,7 @@
 :::two-columns-plain
 
 ### Details
-## Ingredients
+**Ingredients**
 
 - 500 g of boneless leg lamb
   - Alternate are chicken or Shrimps
@@ -15,7 +15,7 @@
 - 1 Tsp of kabab masala
 
 
-## Ingredients Marinade
+**Ingredients Marinade**
 
 - 100 g of Greek Yoghurt
 - 20 g pf Papaya Paste
@@ -27,7 +27,7 @@
 - 1 pinch of caraway seeds
 
 
-## Method Marinate 
+**Method Marinate **
 
 1. Take the greek yoghurt into a sieve and let it lose its water (30 mn)
 2. Cut the meat in chunks, add to a large bowl (if you use Papaya paste, coat the meat with it)
@@ -43,7 +43,7 @@
   
 
 
-## Method Grill 
+**Method Grill **
 
 1. You can do this on the grill, i used a cast iron pan
 2. Heat the pan, very hot

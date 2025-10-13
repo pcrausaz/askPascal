@@ -6,7 +6,7 @@
 :::two-columns-plain
 
 ### Details
-## Ingredients
+**Ingredients**
 
 - 1 bunch of asparagus (about 1 lb/450gr)
 - 12 shrimps
@@ -20,7 +20,7 @@
 - Salt & pepper
 
 
-## Method
+**Method**
 
 1. The key to the recipe is to reuse the same water for the asparagus, shrimp and pasta
 2. Boil some water

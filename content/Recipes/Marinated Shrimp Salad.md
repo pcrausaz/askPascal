@@ -6,7 +6,7 @@
 :::two-columns-plain
 
 ### Details
-## Ingredients
+**Ingredients**
 
 - 800 g un-cooked Shrimp
 - 400 g of Crab Meat
@@ -18,7 +18,7 @@
 - Salt & Pepper
 
 
-## Method
+**Method**
 
 > [!NOTE]
 > 1. Clean and rinse the orange. Using a knife peel a 8 cm long (2-3 cm wide) piece of the skin; remove the white skin in the back (bitter) then finely cut (emince)

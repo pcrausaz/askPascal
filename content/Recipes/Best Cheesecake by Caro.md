@@ -6,7 +6,7 @@
 :::two-columns-plain
 
 ### Details
-## Ingredients
+**Ingredients**
 
 - 1 kg of 'Fromage blanc' (You can substitute Greek style plain yogurt)
 - 1 pack of Bastogne (Cinnamon Sugar Spice cookies or Speculook ([http://goo.gl/TLGhuu](http://goo.gl/TLGhuu)))
@@ -16,7 +16,7 @@
 - 1 Lemon
 
 
-## Method
+**Method**
 
 1. Pre-heat your oven at 350 F (180 C)
 2. Melt the butter (microwave 50% for 30 seconds)

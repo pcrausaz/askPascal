@@ -6,7 +6,7 @@
 :::two-columns-plain
 
 ### Details
-## Ingredients
+**Ingredients**
 
 - 6 Large Shrimps (Gambas-style)
 - 1 clove of Garlic
@@ -20,7 +20,7 @@
 - Pepper
 
 
-## Method
+**Method**
 
 1. Pre-heat the BBQ with the cast iron griddle
 2. Mince the garlic

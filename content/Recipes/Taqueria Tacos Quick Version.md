@@ -6,7 +6,7 @@
 :::two-columns-plain
 
 ### Details
-## Ingredients
+**Ingredients**
 
 - 3 pounds flank steak
 - 1 white onion, chopped
@@ -19,7 +19,7 @@
 - 12+ small corn flour tortillas (about 10 cm diameter)
 
 
-## Method
+**Method**
 
 1. Chop the onions, the jalapenos and the cilantro, add the juice of 1 lime; mix well.
 2. Take the meat out of the bag, then slice is small strips (about 1cm by 1 cm)

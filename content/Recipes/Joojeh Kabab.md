@@ -6,7 +6,7 @@
 :::two-columns-plain
 
 ### Details
-## Ingredients
+**Ingredients**
 
 - 2 lb of skinless chicken breast
 - 1/2 cup of extra-virgin olive oil
@@ -20,7 +20,7 @@
 - Long thin metal Skewers
 
 
-## Method
+**Method**
 
 ### Method Marinade
 

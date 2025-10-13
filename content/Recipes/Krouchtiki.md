@@ -6,7 +6,7 @@
 :::two-columns-plain
 
 ### Details
-## Ingredients
+**Ingredients**
 
 - 500 gr of all-purpose flour
 - 60 gr of unsalted butter
@@ -18,7 +18,7 @@
 - Powdered Sugar
 
 
-## Method
+**Method**
 
 1. Mix all the ingredients together, like for any dough
 2. Heat the oil in a pan

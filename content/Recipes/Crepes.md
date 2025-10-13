@@ -6,7 +6,7 @@
 :::two-columns-plain
 
 ### Details
-## Ingredients - Makes about 20 crêpes
+**Ingredients - Makes about 20 crêpes**
 
 - 2 Tbsp of butter and some for the skillet
 - 3 eggs 
@@ -17,7 +17,7 @@
 - 45 g of granulated sugar (1/4 cup)
 
 
-## Method
+**Method**
 
 1. In a small cup or bowl, heat the 2 tbsp of butter in the microwave on medium to melt it
 2. In a bowl, add the eggs and yolk, and whisk well, set aside

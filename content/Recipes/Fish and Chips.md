@@ -6,7 +6,7 @@
 :::two-columns-plain
 
 ### Details
-## Ingredients Fish
+**Ingredients Fish**
 
 - 55 g (7 tbsp)  of flour divided in 2
   - 2/7 (2 Tbsp) set aside
@@ -19,7 +19,7 @@
 - Salt & Pepper to taste
 
 
-## Method Fish
+**Method Fish**
 
 - Make sure to set aside the 2 tbsp of flour
 - In a large bowl, mix the remaining flour with the cornstarch

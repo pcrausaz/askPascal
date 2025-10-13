@@ -6,7 +6,7 @@
 :::two-columns-plain
 
 ### Details
-## Ingredients
+**Ingredients**
 
 - 1 Endive
 - Salt
@@ -18,7 +18,7 @@
 - 0.5 Tbsp of [Clarified Butter](Clarified Butter.md)
 
 
-## Method
+**Method**
 
 1. Peel and slide (~ 3mm) the ginger
 2. Wash the endive and cut it in half

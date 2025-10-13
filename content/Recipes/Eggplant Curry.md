@@ -6,7 +6,7 @@
 :::two-columns-plain
 
 ### Details
-## Ingredients
+**Ingredients**
 
 - 2 eggplants, cut in 1 inch dice
 - 1 large onion, slice
@@ -20,7 +20,7 @@
 - Salt and pepper to taste
 
 
-## Method
+**Method**
 
 1. Slice the onion
 2. Dice the eggplant

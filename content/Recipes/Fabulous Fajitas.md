@@ -6,7 +6,7 @@
 :::two-columns-plain
 
 ### Details
-## Ingredients
+**Ingredients**
 
 ### Ingredients for the Marinade
 
@@ -37,7 +37,7 @@
 - Optional: Sour Cream
 
 
-## Method
+**Method**
 
 ### Method Marinade
 

@@ -6,7 +6,7 @@
 :::two-columns-plain
 
 ### Details
-## Ingredients
+**Ingredients**
 
 - 2 KG Pork Shoulder (pref with fat on)
 - 2 Red Onions
@@ -29,7 +29,7 @@
 - Fresh Parsley (finely chopped)
 
 
-## Method
+**Method**
 
 1. Pre-heat oven at 350 F
 2. Peel and slice the red onions

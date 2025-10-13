@@ -6,7 +6,7 @@
 :::two-columns-plain
 
 ### Details
-## Ingredients
+**Ingredients**
 
 - 200 gr of Dark Chololate 
 - 2 Tablespoon of milk
@@ -15,7 +15,7 @@
 - Cocoa powder
 
 
-## Method
+**Method**
 
 1. Place the butter at room temperature to soften
 2. In a bain-marie (double-boiler) melt the chocolate

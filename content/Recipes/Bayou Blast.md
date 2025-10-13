@@ -6,7 +6,7 @@
 :::two-columns-plain
 
 ### Details
-## Ingredients
+**Ingredients**
 
 - 2 1/2 tablespoons paprika
 - 2 tablespoons salt
@@ -18,7 +18,7 @@
 - 1 tablespoon dried thyme
 
 
-## Method
+**Method**
 
 1. Combine all ingredients thoroughly
 

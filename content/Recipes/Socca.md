@@ -6,7 +6,7 @@
 :::two-columns-plain
 
 ### Details
-## Ingredients 
+**Ingredients **
 
 - 125g Chickpeas Flour
 - ~250ml of water
@@ -16,7 +16,7 @@
 - Black Pepper
 
 
-## Method
+**Method**
 
 1. Pre-heat oven at the max temperature (mine is 550 °F)
 2. Mix flour, salt and olive oil, mix in the water

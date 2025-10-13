@@ -6,7 +6,7 @@
 :::two-columns-plain
 
 ### Details
-## Ingredients
+**Ingredients**
 
 - 30 g of Maizena (Corn Starch)
 - 0.5l of Milk (2 cups)
@@ -14,7 +14,7 @@
 - 30 g of granulated sugar
 
 
-## Method
+**Method**
 
 1. Pour the milk in a pan
 2. Add the Maizena

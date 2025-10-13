@@ -6,7 +6,7 @@
 :::two-columns-plain
 
 ### Details
-## Ingredients
+**Ingredients**
 
 - 3-4 large potatoes
 - 1 Cup of cream
@@ -19,7 +19,7 @@
 - Parchment paper
 
 
-## Method
+**Method**
 
 1. Pre-heat the oven at 325-350°F
 2. In a pan, add milk, cream, laurel, garlic, light salt and pepper, bring to a boil, then turn the heat off and set aside for 15-20 mn

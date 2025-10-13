@@ -6,12 +6,12 @@
 :::two-columns-plain
 
 ### Details
-## Ingredients
+**Ingredients**
 
 - 1 stick (1 cup, 113 gr) of butter (salted or unsalted)
 
 
-## Method
+**Method**
 
 1. Melt the butter in saucepan over low heat, do not stir
 2. Wait until the butter is completly melted

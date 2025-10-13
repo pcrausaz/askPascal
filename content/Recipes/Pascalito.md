@@ -6,7 +6,7 @@
 :::two-columns-plain
 
 ### Details
-## Ingredients
+**Ingredients**
 
 - 1 oz of Tequila Reposado ([here](http://www.bevmo.com/Shop/ProductDetail.aspx/Spirits/Tequila/El-Tesoro/El-Tesoro-Tequila-Reposado/4390))
 - 1 oz of Cointreau ([here](http://www.bevmo.com/Shop/ProductDetail.aspx/Spirits/Liqueur/Cointreau/Cointreau-Liqueur/2452))
@@ -18,7 +18,7 @@
 - Shaker
 
 
-## Method
+**Method**
 
 1. Crush the jalapeño, mint and sugar together with a tiny bit of lime juice
 2. Add ice cube to your shaker

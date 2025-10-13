@@ -6,7 +6,7 @@
 :::two-columns-plain
 
 ### Details
-## Ingredients
+**Ingredients**
 
 - 2 filet of Salmon
 - 6 heads of baby bok choy
@@ -20,7 +20,7 @@
 - Olive Oil
 
 
-## Method
+**Method**
 
 1. Pre-heat oven to 400 F, you will broil later on
 2. Use a pan that can go into the oven

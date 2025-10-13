@@ -6,7 +6,7 @@
 :::two-columns-plain
 
 ### Details
-## Ingredients Fish
+**Ingredients Fish**
 
 - 400 g of haddock or cod, skinned
 - Flour for dustin
@@ -16,7 +16,7 @@
 - Salt & Pepper
 
 
-## Ingredients Tartare Sauce
+**Ingredients Tartare Sauce**
 
 - 60 g of Gherkins (Maille Petits Cornichons are perfect)
 - 30 g of capers in brine
@@ -26,7 +26,7 @@
 - 1 half of a lemon juiced
 
 
-## Ingredients Batter
+**Ingredients Batter**
 
 - 250 g of flour
 - 125 ml of milk
@@ -34,7 +34,7 @@
 - 3 g of fresh yeast (or 1 tbsp of dry yeast)
 
 
-## Method Tartare Sauce
+**Method Tartare Sauce**
 
 1. Make it 8 hours in advance, like in the morning.
 2. Finely cut the gherkins
@@ -46,7 +46,7 @@
 8. Mix well, cover and refrigerate for 8 hours
 
 
-## Method Batter
+**Method Batter**
 
 1. Warm the milk
 2. Place the flour in a large bowl
@@ -60,7 +60,7 @@
 10. Mix from time to time
 
 
-## Method Fish
+**Method Fish**
 
 1. Heat your oil in a large pan to 185° C
 2. Pat dry the fish

@@ -9,7 +9,7 @@
 **Ingredients**
 - ...
 
-## Method
+**Method**
 
 1. Pre-heat the oven at 160°C.
 2. Salt and pepper on the meat

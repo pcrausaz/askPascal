@@ -6,7 +6,7 @@
 :::two-columns-plain
 
 ### Details
-## Ingredients
+**Ingredients**
 
 ### Ingredients Choux Dough
 
@@ -30,7 +30,7 @@
 - 2 eggs
 
 
-## Method
+**Method**
 
 1. Pre-heat oven on 375F
 2. Cut the buttercream butter is small piece and leave it at room temperature

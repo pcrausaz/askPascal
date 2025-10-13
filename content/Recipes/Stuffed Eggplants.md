@@ -6,7 +6,7 @@
 :::two-columns-plain
 
 ### Details
-## Ingredients
+**Ingredients**
 
 - 2 Eggplants
 - 1/2 Lb of ground beef (about 2 burgers)
@@ -18,7 +18,7 @@
 - A can of tomatoes sauce
 
 
-## Method
+**Method**
 
 1. Pre-heat oven at 350F
 2. Cut the egg plants in halves

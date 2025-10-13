@@ -6,7 +6,7 @@
 :::two-columns-plain
 
 ### Details
-## Ingredients
+**Ingredients**
 
 - 1+ lb of chicken thighs, skin on
 - 10 large garlic cloves, slices in long slivers
@@ -22,7 +22,7 @@
 - Olive Oil
 
 
-## Method
+**Method**
 
 1. If using skin-on thighs, slice the skin to the bone, about 3x to allow the sauce to penetrate deep into the meet
 2. Heat the olive oil in a large wok (1-2 tbsp), then cook the chicken, skin-down, for 6-8 minutes, turning it a few time, allow the skin to brown

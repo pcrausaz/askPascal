@@ -6,7 +6,7 @@
 :::two-columns-plain
 
 ### Details
-## Ingredients
+**Ingredients**
 
 - 300 g of whole (black) urad daal
 - 12 g of garlic
@@ -20,7 +20,7 @@
 - 90 ml of double cream
 
 
-## Method
+**Method**
 
 1. Place the daal in a large bowl and cover with water. Whisk it for a 10 s, let the daal settle and pour the water out. Repeat 3 or 4 times until the water is clear
 2. In a large cast iron,  add the daal, then add 3-4 liters of water. 

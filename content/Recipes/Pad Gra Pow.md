@@ -6,7 +6,7 @@
 :::two-columns-plain
 
 ### Details
-## Ingredients
+**Ingredients**
 
 - 700 gr of beef
 - 10-12 cloves of garlic
@@ -20,7 +20,7 @@
 - 1 handful of Thai Basil
 
 
-## Method
+**Method**
 
 1. Slice the onion, green pepper
 2. Slice half of garlic and Press (crush) the rest of the garlic

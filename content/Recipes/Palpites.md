@@ -6,7 +6,7 @@
 :::two-columns-plain
 
 ### Details
-## Ingredients
+**Ingredients**
 
 - 1 lb Ground Beef
 - 1/2 cup Bread Crumbs
@@ -17,7 +17,7 @@
 - Vegetable Oil
 
 
-## Method
+**Method**
 
 1. Peel the garlic, combine with the parsley and mix it together in the mixer (or manually finely cut)
 2. In a large bowl, mix the meat with the garlic and parsley, salt (1/4 tsp should be fine) and pepper; add the bread crumbs

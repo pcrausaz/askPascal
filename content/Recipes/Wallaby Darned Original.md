@@ -6,7 +6,7 @@
 :::two-columns-plain
 
 ### Details
-## Ingredients
+**Ingredients**
 
 - 1 Cup of frozen sliced Peaches
 - Optional: 2 ounces champagne (honestly, you can skip it)
@@ -17,7 +17,7 @@
 - Drop 1/2 tea spoon of sugar
 
 
-## Method
+**Method**
 
 1. Combine all ingredients - but the shaved ice - in a blender
 2. blend on ice speed for about 30 seconds until drink is smooth

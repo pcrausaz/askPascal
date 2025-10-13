@@ -6,7 +6,7 @@
 :::two-columns-plain
 
 ### Details
-## Ingredients
+**Ingredients**
 
 - 2 Peaches
 - 4-5 Figs
@@ -19,7 +19,7 @@
 - 2 Tbl of unsalted butter
 
 
-## Method
+**Method**
 
 1. Pre-heat oven at 450F
 2. Peel the peaches and slice

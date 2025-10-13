@@ -6,7 +6,7 @@
 :::two-columns-plain
 
 ### Details
-## Ingredients Sirup
+**Ingredients Sirup**
 
 - 1 Cup of water
 - 1 Cup of sugar
@@ -18,7 +18,7 @@
   - For Lemon, see below.
 
 
-## Ingredients Sorbet
+**Ingredients Sorbet**
 
 - Pick the sirup above 
 - For Raspberry
@@ -39,7 +39,7 @@
   - For the sirup, reduce the sugar by 25% 
 
 
-## Method
+**Method**
 
 1. Add water and sugar into a pan
 2. Bring to a boil

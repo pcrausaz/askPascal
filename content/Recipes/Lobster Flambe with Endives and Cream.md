@@ -6,7 +6,7 @@
 :::two-columns-plain
 
 ### Details
-## Ingredients
+**Ingredients**
 
 - 4 Lobsters Tails
 - 1 kg of Endives
@@ -18,7 +18,7 @@
 - Salt and Pepper
 
 
-## Method
+**Method**
 
 1. Warm up the oven
 2. Clean the endives, then finely chop the endives

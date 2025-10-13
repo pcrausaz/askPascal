@@ -6,7 +6,7 @@
 :::two-columns-plain
 
 ### Details
-## Ingredients
+**Ingredients**
 
 - 4 Granny Smith Apples
 - 1 Puff Pastry Dough Sheet
@@ -16,7 +16,7 @@
 - Optional: a few drops of lemon juice
 
 
-## Method
+**Method**
 
 1. If using frozen dough, take the dough out to thaw for about 30 minutes
 2. Pre-heat the oven to 180 C / 350 F

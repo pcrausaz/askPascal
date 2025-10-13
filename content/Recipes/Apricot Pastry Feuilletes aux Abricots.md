@@ -6,7 +6,7 @@
 :::two-columns-plain
 
 ### Details
-## Ingredients Pastry Cream
+**Ingredients Pastry Cream**
 
 - 50 cl of Milk
 - 50 gr of Maizena (Corn Starch)
@@ -15,14 +15,14 @@
 - 1 Vanilla bean
 
 
-## Ingredients Pastry
+**Ingredients Pastry**
 
 - 8 Apricot cooked as in [Apricot (Sous-Vide)](Apricot Sous Vide.md)
 - 1 Sheet of Puff Pastry
 - 1 egg (egg wash)
 
 
-## Method Cream
+**Method Cream**
 
 1. Scrap the vanilla bean
 2. Place 40 cl of milk with 50 gr of sugar & the vanilla into a pan and bring to a boil

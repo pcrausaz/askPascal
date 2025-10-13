@@ -6,7 +6,7 @@
 :::two-columns-plain
 
 ### Details
-## Ingredients
+**Ingredients**
 
 - 1 lb of fresh cleaned squid, or thawed if frozen
 - 2 cups buttermilk
@@ -19,7 +19,7 @@
 - Sweet and Sour Sauce
 
 
-## Method
+**Method**
 
 1. Cut the body sacs of the squid into 1/2-inch rings and trim the tentacles as necessary.
 2. In a mixing bowl, combine the buttermilk with the hot sauce.

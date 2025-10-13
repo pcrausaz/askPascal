@@ -6,7 +6,7 @@
 :::two-columns-plain
 
 ### Details
-## Ingredients
+**Ingredients**
 
 - 2 Cups of Milk
 - 2 Cups of Heavy Cream
@@ -17,7 +17,7 @@
 - 1 pinch of salt
 
 
-## Method
+**Method**
 
 1. Place the milk and heavy cream into a pan
 2. Split the vanilla beans and scrap, add to the pan

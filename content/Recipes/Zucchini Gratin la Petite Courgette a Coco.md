@@ -6,7 +6,7 @@
 :::two-columns-plain
 
 ### Details
-## Ingredients
+**Ingredients**
 
 - 250 ml of heavy cream
 - 1/4 Pack of grated swiss cheese
@@ -15,7 +15,7 @@
 - salt, olive oil, butter
 
 
-## Method
+**Method**
 
 1. Butter 4 'ramequins' (little oven-proof 5-7 cm round dishes).
 2. Slice the zucchinis very thin, some 3, 4 and 5 mm (I [Coco](/wiki/pages/createpage.action?spaceKey=miam&title=Coco&linkCreation=true&fromPageId=430133) would say even thinner but I suck at cutting thin slices, but you really need various size to fit holes)

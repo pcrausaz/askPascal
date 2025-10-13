@@ -6,7 +6,7 @@
 :::two-columns-plain
 
 ### Details
-## Ingredients
+**Ingredients**
 
 - 8 Dried red chile peppers (New Mexico or Cascabel)
 - 4 Smoked chile peppers (Chipotle or ancho)
@@ -18,7 +18,7 @@
 - 1/2 Tsp of Salt
 
 
-## Method
+**Method**
 
 1. Remove the seeds and stem of chiles
 2. Cover the chiles with boiling water, set it aside for 20mn so as to rehydrate the chiles

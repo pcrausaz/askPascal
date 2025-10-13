@@ -6,7 +6,7 @@
 :::two-columns-plain
 
 ### Details
-## Ingredients
+**Ingredients**
 
 - 1 [Grade A Foie Gras](http://www.bellabellagourmet.com/foie-gras-grade-a/) Duck
 - 18 g of salt
@@ -14,7 +14,7 @@
 - 2.5 g of pepper
 
 
-## Method
+**Method**
 
 1. Let the foie rest at room temperature for about 45 mn
 2. Mix the spice together and pass them to the grinder to get it extremely fine

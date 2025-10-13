@@ -6,7 +6,7 @@
 :::two-columns-plain
 
 ### Details
-## Ingredients
+**Ingredients**
 
 - 0.5 Lb of Chicken Liver
 - 2 Tsp of butter
@@ -14,7 +14,7 @@
 - Cracked Black Pepper
 
 
-## Method
+**Method**
 
 1. Place the liver in a bowl
 2. Add Salt & Pepper

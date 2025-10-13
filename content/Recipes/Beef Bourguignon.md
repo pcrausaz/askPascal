@@ -6,7 +6,7 @@
 :::two-columns-plain
 
 ### Details
-## Ingredients
+**Ingredients**
 
 - 1 Kg of beef (any stew variety, gite, giguilette macreuse, jumeau etc)
 - 1 Tbsp of oil (I use olive)
@@ -25,7 +25,7 @@
 - Fresh Chopped Parsley
 
 
-## Method
+**Method**
 
 1. Cut the meet in chunks, just the right size (2x3 cm or so, according to your taste).
 2. In a large thick pot (cocotte), eat some oil (olive) then the meat, the idea is to brown the meat, just a few minutes will do. Take the meat out, mix in the flour with the meat. Put the bacon into the pot, then throw in the bacon cut in pieces (small), let the bacon sweat a bit. Put the butter into the pot, add in the carrots and the onions sliced (both).

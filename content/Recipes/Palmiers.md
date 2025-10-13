@@ -6,7 +6,7 @@
 :::two-columns-plain
 
 ### Details
-## Ingredients
+**Ingredients**
 
 - 1-2 cup of granulated sugar
 - 1 pinch of salt
@@ -15,7 +15,7 @@
 - Baking pan
 
 
-## Method
+**Method**
 
 1. Pre-heat oven to 450 F
 2. Combine sugar and salt & mix

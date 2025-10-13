@@ -6,7 +6,7 @@
 :::two-columns-plain
 
 ### Details
-## Ingredients
+**Ingredients**
 
 - 75 cl of Milk
 - 200 gr of Sugar
@@ -15,7 +15,7 @@
 - 8 little Pyrex glass
 
 
-## Method
+**Method**
 
 1. Preheat the oven to 250F
 2. Bring the milk to a boil

@@ -6,7 +6,7 @@
 :::two-columns-plain
 
 ### Details
-## Ingredients
+**Ingredients**
 
 - 1 kg of lamb shoulder
 - 4-5 chicken drumsticks (usually for the kids
@@ -27,7 +27,7 @@
 - Olive oil
 
 
-## Method
+**Method**
 
 1. Take out the butter, cut in small cube and let it get to room temperature
 2. Cut the meat in chunks (1-2 inches)

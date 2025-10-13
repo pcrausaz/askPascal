@@ -6,7 +6,7 @@
 :::two-columns-plain
 
 ### Details
-## Ingredients
+**Ingredients**
 
 - 1 Sheet of Puff Pastry dough
 - 400 g Leeks (white part, about 4 pieces)
@@ -18,7 +18,7 @@
   
 
 
-## Method
+**Method**
 
 1. Pre-heat oven to 350 F
 2. Slice the bacon very finely

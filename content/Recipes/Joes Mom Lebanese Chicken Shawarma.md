@@ -6,7 +6,7 @@
 :::two-columns-plain
 
 ### Details
-## Ingredients Garlic Sauce
+**Ingredients Garlic Sauce**
 
 - 1 egg yolk
 - 1 tsp of Dijon mustard
@@ -15,7 +15,7 @@
 - 1/3 Cup of Oil
 
 
-## Ingredients Marinade
+**Ingredients Marinade**
 
 - 1 kg of chicken thighs
 - 1/3 cup of White Vinegar
@@ -30,7 +30,7 @@
 - 1.5 tbsp of Herbes de Provence
 
 
-## Ingredients Assembly
+**Ingredients Assembly**
 
 - Optional: 1 potato for French fries
 - I cucumber
@@ -39,14 +39,14 @@
 - Flat Bread (check this [recipe](Soft Flatbread No Yeast.md))
 
 
-## Method Marinade
+**Method Marinade**
 
 1. Cut the meat finely
 2. Mix all the ingredients with the chicken
 3. Cover and marinade in the fridge for 24 hours
 
 
-## Method Garlic Sauce
+**Method Garlic Sauce**
 
 1. Mix mustard and yolk
 2. Drip very slowly the oil into the yolk mix while creating an emulsion (mix well and go slowly with the oil)
@@ -56,7 +56,7 @@
 6. Set aside
 
 
-## Method Meat
+**Method Meat**
 
 1. Optional: Prepare the fries
   1. Cut the potato for the fries
@@ -69,7 +69,7 @@
 4. Grill well the chicken with the marinade
 
 
-## Method assembly
+**Method assembly**
 
 1. Lay the bread down
 2. Now spread a nice layer of garlic sauce

@@ -6,7 +6,7 @@
 :::two-columns-plain
 
 ### Details
-## Ingredients
+**Ingredients**
 
 - 1.5 or 2 lb of Mussels per person
 - 1 Reb Bell pepper
@@ -21,7 +21,7 @@
 - Salt and pepper
 
 
-## Method
+**Method**
 
 1. Clean the mussels
 2. Remove stem and seed from red pepper

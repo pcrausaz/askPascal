@@ -6,7 +6,7 @@
 :::two-columns-plain
 
 ### Details
-## Ingredients
+**Ingredients**
 
 - 35g of garlic (8-9 cloves)
 - 20g of fresh ginger
@@ -28,7 +28,7 @@
 - 80 ml of heavy cream
 
 
-## Method
+**Method**
 
 1. Finely slice half of he garlic (15gr)
 2. In a large pot (Le Creuset works awesome), over medium high, add the oil and fry the garlic until brown and crispy, about 7 mn, remove the garlic when ready and set aside.

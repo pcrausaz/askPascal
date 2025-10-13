@@ -6,7 +6,7 @@
 :::two-columns-plain
 
 ### Details
-## Ingredients
+**Ingredients**
 
 - 1 Rack of Baby back ribs
 - 1 Tbsp of cracked Pepperr
@@ -18,7 +18,7 @@
 - Aluminium foil
 
 
-## Method
+**Method**
 
 1. Make sure to remove the inner skin of your ribs if your butcher has not done it yet as it makes for chewing bits if you do not
 2. Cut the Rack in two

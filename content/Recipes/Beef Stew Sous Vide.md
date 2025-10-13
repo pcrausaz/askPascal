@@ -6,7 +6,7 @@
 :::two-columns-plain
 
 ### Details
-## Ingredients Sous-Vide
+**Ingredients Sous-Vide**
 
 - 2 Lb of Beef Chuck Roast 
 - 2 Tsp of Garlic Powder
@@ -16,7 +16,7 @@
 - Optional: 1 Tsp of Piment d'Espelette 
 
 
-## Ingredients Stew
+**Ingredients Stew**
 
 - 1 Onion
 - 4-5 Cloves of garlic
@@ -34,7 +34,7 @@
 - 2 bay leaves
 
 
-## Method Meat Sous-Vide
+**Method Meat Sous-Vide**
 
 1. Heat the water bath to 34 °F/56.5 °C
 2. Cut the meat into 1 in (2.5 cm) chunks
@@ -44,7 +44,7 @@
   1. My first try was with 24 h, the meat was good, but still chewy, hence the 48 hours.
 
 
-## Method Stew
+**Method Stew**
 
 1. About 90 minutes before you want to eat, you need to start the stew, the meat should have been cooked already.
 2. Dice the onion and the carrot

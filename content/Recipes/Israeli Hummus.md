@@ -6,7 +6,7 @@
 :::two-columns-plain
 
 ### Details
-## Ingredients
+**Ingredients**
 
 - 1/2 pound dried chickpeas (or 1 can)
   - 2 Tsp baking soda
@@ -20,7 +20,7 @@
 - Ice water
 
 
-## Method
+**Method**
 
 1. If using dry chick peas, in a bowl, cover the peas with 2 inches of water, add the baking soda. Refrigerate overnight
   1. The next day, drain and rinse under cold water

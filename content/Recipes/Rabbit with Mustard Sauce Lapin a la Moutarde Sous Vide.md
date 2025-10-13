@@ -6,7 +6,7 @@
 :::two-columns-plain
 
 ### Details
-## Ingredients
+**Ingredients**
 
 - 1 Rabbit
 - 1 onion
@@ -23,7 +23,7 @@
 - Olive Oil
 
 
-## Method
+**Method**
 
 **Day 1**
 

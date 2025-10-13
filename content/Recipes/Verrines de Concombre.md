@@ -6,7 +6,7 @@
 :::two-columns-plain
 
 ### Details
-## Ingredients
+**Ingredients**
 
 - 1 cucumber
 - 4 tbsp of fresh veggies (carrot, radish, yellow or red pepper)
@@ -16,7 +16,7 @@
 - Salt & pepper
 
 
-## Method
+**Method**
 
 1. Cut your carrot, radish and yellow pepper, in small cubes
 2. Peel the cucumber

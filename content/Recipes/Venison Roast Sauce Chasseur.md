@@ -6,7 +6,7 @@
 :::two-columns-plain
 
 ### Details
-## Ingredients
+**Ingredients**
 
 - 2-3 lb Venison Roast
 - 50 cl of Red Wine
@@ -21,7 +21,7 @@
 - Salt and Pepper
 
 
-## Method
+**Method**
 
 1. The evening or morning before, marinate the roast with the wine, cognac, minced shallots, clove. Place in the fridge for about 12 hours
 2. Pre-heat oven at 190C

@@ -6,7 +6,7 @@
 :::two-columns-plain
 
 ### Details
-## Ingredients
+**Ingredients**
 
 - 2 cups of carrots (julienne)
 - 2 cups of daikon radish (julienne)
@@ -16,7 +16,7 @@
 - 1-2 tsp salt
 
 
-## Method
+**Method**
 
 1. In a pan, mix sugar, salt, water and white vinegar
 2. Bring up in temperature (can go hot)  to dissolve sugar and salt

@@ -6,7 +6,7 @@
 :::two-columns-plain
 
 ### Details
-## Ingredients
+**Ingredients**
 
 - 0.25 cup of fresh orange juice
 - 3 tbsp of fresh lemon juice
@@ -20,7 +20,7 @@
 - salt and pepper
 
 
-## Method
+**Method**
 
 1. Place the scallops in the freezer for 10-15 minutes to make them easier to slice thinly
 2. Slice the chives

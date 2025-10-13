@@ -6,7 +6,7 @@
 :::two-columns-plain
 
 ### Details
-## Ingredients Marinade
+**Ingredients Marinade**
 
 - 20 g of cilantro/coriander, stalks and leaves
 - 2-3 cloves of garlic
@@ -20,7 +20,7 @@
 - 1 Tomato
 
 
-## Ingredients Prawns
+**Ingredients Prawns**
 
 - 500 g of prawns or large shrimps
 - 2 Tsp of chickpea flour
@@ -29,7 +29,7 @@
 - Lime wedges
 
 
-## Method Marinade
+**Method Marinade**
 
 1. Place all the marinade ingredient into a blender
 2. Reduce everything to a paste
@@ -38,7 +38,7 @@
   1. I place the cheese cloth over a glass or coktail mixer, cover and refrigerate
 
 
-## Method Prawns Marinade
+**Method Prawns Marinade**
 
 1. Peel the prawns
 2. Pat the prawns dry
@@ -50,7 +50,7 @@
 8. Cover and refrigerate for 2-3 hours
 
 
-## Method Prawns
+**Method Prawns**
 
 1. Prepare a few leaves & stalks of cilantro and the lime wedges
 2. You can do this on the grill, I did it in a cast iron skillet

@@ -6,7 +6,7 @@
 :::two-columns-plain
 
 ### Details
-## Ingredients
+**Ingredients**
 
 - 1 Duck Breast
 - Black Peppercorn
@@ -15,7 +15,7 @@
 - 1 clean kitchen towel
 
 
-## Method
+**Method**
 
 1. Pat dry the duck breast
 2. Lay some Kosher Salt in a container

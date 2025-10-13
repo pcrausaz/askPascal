@@ -6,7 +6,7 @@
 :::two-columns-plain
 
 ### Details
-## Ingredients
+**Ingredients**
 
 - 1 Cauliflower head
 - 1/4 Tsp Mustard Seeds
@@ -30,7 +30,7 @@
 - Olive Oil
 
 
-## Method
+**Method**
 
 1. Prep all the ingredients
 2. Cut the cauliflower in florets

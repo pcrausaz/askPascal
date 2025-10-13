@@ -6,7 +6,7 @@
 :::two-columns-plain
 
 ### Details
-## Ingredients
+**Ingredients**
 
 - 6 oz of Pineapple juice (small can)
 - 1 oz of Dark Rum
@@ -15,7 +15,7 @@
 - Ice
 
 
-## Method
+**Method**
 
 1. Place some ice in a shaker, then add the liquid
 2. Shake for 10 seconds

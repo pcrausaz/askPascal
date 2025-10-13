@@ -6,7 +6,7 @@
 :::two-columns-plain
 
 ### Details
-## Ingredients
+**Ingredients**
 
 - 3 Large Shrimp with shell on
 - 1 Garlic Clove
@@ -16,7 +16,7 @@
 - Cracked Black Pepper
 
 
-## Method
+**Method**
 
 1. Place the scrimp in a bowl
 2. Peal and mince the garlic, add to the bowl

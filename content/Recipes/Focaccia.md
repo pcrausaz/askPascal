@@ -6,7 +6,7 @@
 :::two-columns-plain
 
 ### Details
-## Ingredients Dough
+**Ingredients Dough**
 
 - 400g lukewarm water
 - 1 Tsp (7g) instant yeast
@@ -16,7 +16,7 @@
 - More olive oil for the baking dish and as topping
 
 
-## Ingredients Toppings
+**Ingredients Toppings**
 
 - 1 or 2 Tomatoes
 - Salt
@@ -24,7 +24,7 @@
 - you can add other things, like olives, rosemary etc...
 
 
-## Method
+**Method**
 
 1. Pre-heat your oven at 220C/450F
 2. MIX the dough, starting by mixing water and yeast, then mix in flour, salt and olive oil 

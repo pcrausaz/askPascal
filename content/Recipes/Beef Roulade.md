@@ -6,7 +6,7 @@
 :::two-columns-plain
 
 ### Details
-## Ingredients
+**Ingredients**
 
 - 4 thin sandwich steaks(sliced london broil works well), trimmed and pounded 1/8-inch thick (3-4mm)
 - Dijon mustard
@@ -21,7 +21,7 @@
 - Kitchen twine
 
 
-## Method
+**Method**
 
 1. Slice the bacon (about 30-40 gr per roulade)
 2. Chop the onion ( about 40 gr per roulade

@@ -6,7 +6,7 @@
 :::two-columns-plain
 
 ### Details
-## Ingredients
+**Ingredients**
 
 - 100 gr + 8 Square of Nestle Dessert Chocolate, Lindt 70% or any high end dark chocolate
 - 3 eggs
@@ -17,7 +17,7 @@
 - 1 Tsp of confection sugar
 
 
-## Method
+**Method**
 
 1. Pre-heat over at 260 C (500 F)
 2. Melt the 100 gr of choc. and the butter in a bain marie

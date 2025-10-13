@@ -6,7 +6,7 @@
 :::two-columns-plain
 
 ### Details
-## Ingredients
+**Ingredients**
 
 ### Ingredients Crust
 
@@ -30,7 +30,7 @@
 - 2 tablespoons sugar
 
 
-## Method
+**Method**
 
 ### Method Crust
 

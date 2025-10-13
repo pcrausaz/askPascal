@@ -6,7 +6,7 @@
 :::two-columns-plain
 
 ### Details
-## Ingredients
+**Ingredients**
 
 - 1 small can of garbanzo beans
 - 1 small can of black beans
@@ -22,7 +22,7 @@
 - Salt & Pepper
 
 
-## Method
+**Method**
 
 1. Drain and rinse the garbanzo beans and place in a bowl
 2. Drain and rinse the black beans and add to the bowl

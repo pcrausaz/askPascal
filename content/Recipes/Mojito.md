@@ -6,7 +6,7 @@
 :::two-columns-plain
 
 ### Details
-## Ingredients
+**Ingredients**
 
 - 1.5 oz of Light Rum
 - 1 oz of lime juice (1 lime)
@@ -16,7 +16,7 @@
 - Crushed ice
 
 
-## Method
+**Method**
 
 1. Set aside 2-3 mint leaves
 2. Place the rest of the mint leaves with the sugar and and the lime juice into a small bowl, then crush it well

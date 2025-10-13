@@ -6,14 +6,14 @@
 :::two-columns-plain
 
 ### Details
-## Ingredients Poolish 
+**Ingredients Poolish **
 
 - Flour (00) 45g 
 - Water (cold) 45 g
 - Yeast 0.17g
 
 
-## Ingredients Main Dough (Day 2) 
+**Ingredients Main Dough (Day 2) **
 
 - Flour (00) 425 g
 - Water 285 g
@@ -23,17 +23,17 @@
 - A bit of olive oil
 
 
-## Ingredients Ball Up (Day 3)
+**Ingredients Ball Up (Day 3)**
 
 - A bit of olive oil
 
 
-## Ingredients Main Dough - Day of pizza
+**Ingredients Main Dough - Day of pizza**
 
 - Semolina flour
 
 
-## Method Poolish (Day 1) 
+**Method Poolish (Day 1) **
 
 1. In a container you can close and allowing for the poolish to rise
 2. Mix water and yeast
@@ -45,7 +45,7 @@
 Important: I skip this step and use 100g or Nan's sourdough starter for day 2
 
 
-## Method  Main Dough  (Day 2) 
+**Method  Main Dough  (Day 2) **
 
 1. Add the water to a large bowl and stir the yeast to fully disolve
 2. Add the poolish to disolve it, mix well
@@ -58,7 +58,7 @@ Important: I skip this step and use 100g or Nan's sourdough starter for day 2
   
 
 
-## Method Ball Up (Day 3) - 
+**Method Ball Up (Day 3) - **
 
 1. Oil a airtight container (lightly)
 2. Oil your hands
@@ -70,7 +70,7 @@ Important: I skip this step and use 100g or Nan's sourdough starter for day 2
   
 
 
-## Method Pizza Day
+**Method Pizza Day**
 
 1. Take the container with the balls out for at least 2 hours to ensure they get to room temperature
 2. Pre-heat your oven (highest setting)

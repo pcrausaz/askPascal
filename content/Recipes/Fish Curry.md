@@ -6,7 +6,7 @@
 :::two-columns-plain
 
 ### Details
-## Ingredients
+**Ingredients**
 
 - 4 pieces of Rock Cod
 - 1 Onion
@@ -21,7 +21,7 @@
 - Cast Iron French Oven
 
 
-## Method
+**Method**
 
 1. Slide finely the onion
 2. Clean and slice the red pepper

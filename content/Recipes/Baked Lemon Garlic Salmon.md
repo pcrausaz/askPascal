@@ -6,7 +6,7 @@
 :::two-columns-plain
 
 ### Details
-## Ingredients
+**Ingredients**
 
 - 1 Lb of Salmon fillet
 - 1 Lemon juiced, plus some fine lemon slices
@@ -19,7 +19,7 @@
 - Aluminium Foil
 
 
-## Method
+**Method**
 
 1. Pre-heat oven at 375ºF/190ºC
 2. Chop the garlic finely

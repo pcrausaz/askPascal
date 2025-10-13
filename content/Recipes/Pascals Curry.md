@@ -6,7 +6,7 @@
 :::two-columns-plain
 
 ### Details
-## Ingredients
+**Ingredients**
 
 - 1.5-2 lb of chicken tender (breast will do if necessary)
 - 500-600 ml (16-20 Fl oz) of Heavy Cream
@@ -21,7 +21,7 @@
 - Olive Oil
 
 
-## Method
+**Method**
 
 1. Cut the chicken in small pieces (1.5 cm/0.5 inch cubes)
 2. Split the curry powder in 3 part, use one on the chick, place each remaining part in separate bowl

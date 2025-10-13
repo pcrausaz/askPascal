@@ -6,7 +6,7 @@
 :::two-columns-plain
 
 ### Details
-## Ingredients
+**Ingredients**
 
 - 150 g of Lindt 70% (dark chocolate)
 - 113 g (1/2 cup) of unsalted butter
@@ -15,7 +15,7 @@
 - 1/2 cup unsweetened cocoa powder
 
 
-## Method
+**Method**
 
 1. Preheat oven to 375 °F
 2. Line with parchment paper a 20 cm (8 in) round baking pan, then butter paper and sides

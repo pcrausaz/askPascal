@@ -6,7 +6,7 @@
 :::two-columns-plain
 
 ### Details
-## Ingredients
+**Ingredients**
 
 - 750g-1kg de Dry White Beans
 - 250 gr. of bacon (slab); breast is better
@@ -26,7 +26,7 @@
 - 2-3 types of saussages (kebasha, pork etc..)
 
 
-## Method
+**Method**
 
 1. Rinse the beans and set them aside in water
 2. In a large pot, saute the ham bones and ham hock. Depending on what you found (i.e no bones, no ham hock) you can skip this step

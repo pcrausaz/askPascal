@@ -6,7 +6,7 @@
 :::two-columns-plain
 
 ### Details
-## Ingredients
+**Ingredients**
 
 - [Clarified Butter](Clarified Butter.md)
 - [Braised Endives](Braised Endives.md)
@@ -25,7 +25,7 @@
 **Warning**: imho it needs another side, like [Roasted Potatoes](/wiki/pages/createpage.action?spaceKey=miam&title=Roasted%20Potatoes&linkCreation=true&fromPageId=430172) or [Braised Green Beans](/wiki/pages/createpage.action?spaceKey=miam&title=Braised%20Green%20Beans&linkCreation=true&fromPageId=430172)
 
 
-## Method
+**Method**
 
 ### Method Dough
 

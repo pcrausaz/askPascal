@@ -6,12 +6,12 @@
 :::two-columns-plain
 
 ### Details
-## Ingredients
+**Ingredients**
 
 - 100 gr of Lindt Black 70% Chocolate
 
 
-## Method
+**Method**
 
 1. Shave the chocolate, set 1/3 aside
 2. In a double-boiler (bain-marie) bring 2/3 of the chocolate to 48 °C

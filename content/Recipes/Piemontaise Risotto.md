@@ -6,7 +6,7 @@
 :::two-columns-plain
 
 ### Details
-## Ingredients
+**Ingredients**
 
 - 250 g. (1 cup) of Risotto rice
 - 1 Large Onion
@@ -16,7 +16,7 @@
 - Salt and Pepper
 
 
-## Method
+**Method**
 
 1. Wash the rice and drain it well
 2. Chop the onion very finely
