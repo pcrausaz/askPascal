@@ -41,6 +41,7 @@ Here is a compendium of the recipes I like:
 - [Pascal crosses the street in Saigon....](http://www.youtube.com/watch?v=6NknzVmXnBY)
 
 **Toys:**
+- [Follow My Gnome](http://followmygnome.com) - *Upcoming*
 - [Pet Check AI](http://petcheckai.com)
 - [Tap Map App](http://tapmapapp.org)
 - [liqpil](http://www.liqpil.com)
