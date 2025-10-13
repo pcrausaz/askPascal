@@ -21,7 +21,7 @@ const config: QuartzConfig = {
     analytics: null,
     locale: "en-US",
     baseUrl: "askpascal.com",
-    ignorePatterns: ["private", "templates", ".obsidian"],
+    ignorePatterns: ["private", "templates", ".obsidian", "Templates"],
     defaultDateType: "modified",
     theme: {
       fontOrigin: "googleFonts",
