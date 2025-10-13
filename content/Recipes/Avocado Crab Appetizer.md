@@ -5,8 +5,8 @@
 
 :::two-columns-plain
 
-### Details
-## Ingredients
+### Details 
+**Ingredients**
 
 - 1-2 Tbsp of Mayo
 - 1 Tbsp of Heavy Cream
@@ -24,7 +24,7 @@
 - Pepper
 
 
-## Method
+**Method**
 
 1. Peel the tomatoes (1 minute in boiling water)
 2. Remove the seeds
