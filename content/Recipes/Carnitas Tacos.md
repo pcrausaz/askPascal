@@ -50,7 +50,7 @@
 | Authors                    | [Pascal Crausaz](mailto:pascal@askpascal.com ) |
 | Special                    | Immersion Circulator                           |
 
-![[Carnita_Tacos_1.jpeg|300]]
+![[Carnitas_Tacos_1.jpeg|300]]
 ![[Carnitas_Tacos_2.jpeg|300]]
 ![[Carnitas_Tacos_3.jpeg]]
 
