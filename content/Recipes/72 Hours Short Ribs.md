@@ -55,15 +55,15 @@ Goes great with mash potatoes.
 
 
 ### Quick View
-| Sous-Vide                  |                                                |
-| -------------------------- | ---------------------------------------------- |
-| Serve                      | 4                                              |
-| Preparation Time           | 15 mn + 30 mn                                  |
-| Cooking Time (sous-vide)   | 72 h                                           |
-| Cooking Time (traditional) | 30-60 mn                                       |
-| Temperature                | 62 °C                                          |
-| Authors                    | [Pascal Crausaz](mailto:pascal@askpascal.com ) |
-| Special                    |  [1 Quart Heat-Seal Storage bag](http://www.amazon.com/gp/product/B001T6LT0O/ref=oh_details_o02_s00_i00?ie=UTF8&psc=1)  <br>[Vacuum Sealer](http://www.amazon.com/gp/product/B0044XDA3S/ref=oh_details_o02_s00_i02?ie=UTF8&psc=1)  <br>[Circulator](https://www.cuisinetechnology.com/sousvide-professional-comparison.php) |
+| Sous-Vide                  |                                                                                                                                                                                                                                                                                                                            |
+| -------------------------- | -------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
+| Serve                      | 4                                                                                                                                                                                                                                                                                                                          |
+| Preparation Time           | 15 mn + 30 mn                                                                                                                                                                                                                                                                                                              |
+| Cooking Time (sous-vide)   | 72 h                                                                                                                                                                                                                                                                                                                       |
+| Cooking Time (traditional) | 30-60 mn                                                                                                                                                                                                                                                                                                                   |
+| Temperature                | 62 °C                                                                                                                                                                                                                                                                                                                      |
+| Authors                    | [Pascal Crausaz](mailto:pascal@askpascal.com )                                                                                                                                                                                                                                                                             |
+| Special                    | [1 Quart Heat-Seal Storage bag](http://www.amazon.com/gp/product/B001T6LT0O/ref=oh_details_o02_s00_i00?ie=UTF8&psc=1)  <br>[Vacuum Sealer](http://www.amazon.com/gp/product/B0044XDA3S/ref=oh_details_o02_s00_i02?ie=UTF8&psc=1)  <br>[Circulator](https://www.cuisinetechnology.com/sousvide-professional-comparison.php) |
 
 ![[72_Hours_Short_Ribs_1.png|200]]
 ![[72_Hours_Short_Ribs_2.png|200]]

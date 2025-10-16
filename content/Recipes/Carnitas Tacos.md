@@ -49,7 +49,8 @@
 | Temperature                | 74 °C / 165° F                                 |
 | Authors                    | [Pascal Crausaz](mailto:pascal@askpascal.com ) |
 | Special                    | Immersion Circulator                           |
-![[Carnita Tacos 1.jpeg|300]]
+
+
 ![[Carnitas Tacos 2.jpeg|300]]
 ![[Carnitas Tacos 3.jpeg]]
 
