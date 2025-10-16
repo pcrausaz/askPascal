@@ -63,8 +63,8 @@ log "Sync completed successfully"
 # Change to repo directory
 cd "$REPO_PATH" || error_exit "Failed to change to repo directory"
 
-# Check if there are any changes (including untracked files)
-if [ -z "$(git status --porcelain)" ]; then
+# Check if there are any changes in content directory (including untracked files)
+if [ -z "$(git status --porcelain content/)" ]; then
     log "No changes detected. Nothing to commit."
     log "Sync completed (no changes)"
     exit 0
