@@ -211,3 +211,58 @@ Edit `quartz.layout.ts` to:
 - **OG Image Generation**: The `CustomOgImages` emitter can slow down builds significantly. Comment it out in `quartz.config.ts` during development if not needed.
 - **Concurrency**: Build can use multiple threads for parsing notes (use `--concurrency` flag)
 - **Incremental Builds**: Watch mode uses incremental builds with `partialEmit` when available
+
+## Automated Vault Synchronization
+
+This project uses an automated sync system to keep the Obsidian vault in sync with the GitHub repository.
+
+### Architecture
+
+The sync system consists of three components:
+
+1. **Sync Script** (`scripts/sync-vault-to-github.sh`):
+   - Core sync logic that uses `rsync` to sync from Obsidian vault to local repo
+   - Source: `/Users/pascal/Library/Mobile Documents/iCloud~md~obsidian/Documents/askpascal/`
+   - Destination: `/Users/pascal/Documents/Sources/askPascal/content/`
+   - Automatically detects changes (including new untracked files) and commits them
+   - Attempts to push to GitHub (fails gracefully if offline)
+   - Logs to: `~/Library/Logs/askpascal-vault-sync/sync.log`
+
+2. **VaultSync.app**:
+   - macOS application bundle that wraps the sync script
+   - Purpose: Solves permission/access issues when running via LaunchAgent
+   - Location: `VaultSync.app/Contents/MacOS/VaultSync`
+   - **Note**: This is just a compiled launcher for the script - all sync logic is in the shell script itself
+   - No source code in this repo (compiled Mach-O binary)
+
+3. **LaunchAgent** (`~/Library/LaunchAgents/com.askpascal.vault-sync.plist`):
+   - Runs VaultSync.app every 5 minutes (300 seconds)
+   - Automatically starts on login
+   - Logs to: `~/Library/Logs/askpascal-vault-sync/launchd-stdout.log` and `launchd-stderr.log`
+
+### Management Scripts
+
+Located in `scripts/`:
+- `start-vault-sync.sh` - Start the automated sync service
+- `stop-vault-sync.sh` - Stop the automated sync service
+- `check-vault-sync-status.sh` - Check if the service is running
+- `manual-sync.sh` - Manually trigger a sync
+- `sync-vault-to-github.sh` - The core sync script (called by VaultSync.app)
+
+### Sync Behavior
+
+The sync script:
+- Uses `rsync --delete` to mirror vault content (removes deleted files)
+- Excludes: `.obsidian/`, `.DS_Store`, `.git/`
+- Only commits changes in the `content/` directory
+- Creates commits with message: `Auto-sync from Obsidian vault - [timestamp]`
+- Detects: modified files, new files, and deleted files
+- Stages with: `git add content/`
+- Pushes to: `origin/main`
+
+### Troubleshooting
+
+- **Check if running**: `./scripts/check-vault-sync-status.sh`
+- **View logs**: `tail -f ~/Library/Logs/askpascal-vault-sync/sync.log`
+- **Manual sync**: `./scripts/manual-sync.sh` or run `scripts/sync-vault-to-github.sh` directly
+- **Restart service**: `./scripts/stop-vault-sync.sh && ./scripts/start-vault-sync.sh`
