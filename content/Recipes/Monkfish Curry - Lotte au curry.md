@@ -1,4 +1,4 @@
-#appetizer #meal #dessert #side #drink #traditional #recipe
+#meal  #traditional #recipe
 
 > [!INFO]
 > If you like Monkfish, this is a great way to enjoy it.
@@ -26,20 +26,20 @@
 **Method**
 1. Heat some olive oil in a cast iron pan on medium heat
 2. Add leeks, shallots, cilantro, all the spices, mix and roast a minute or so
-3. Add the white 
-4. 
+3. Add the white wine and lemon juice, reduce heat to medium low, reduce until the liquid is almost gone, maybe 15 mn
+4. Stir in the coconut milk, simmer for 15-20 mns
+5. Place the fish into the pot, cover, after 4-5 mn, turn the fish, and cook another 4 mn until the fish is properly cooked
 
 
 ### Quick View
 | Traditional      |                                                |
 | ---------------- | ---------------------------------------------- |
-| Serve            | x                                              |
-| Preparation Time | x mn                                           |
-| Cooking Time     | x mn                                           |
-| Temperature      | x °C / x° F                                    |
+| Serve            | 2                                              |
+| Preparation Time | 10 mn                                          |
+| Cooking Time     | 40-45 mn                                       |
 | Authors          | [Pascal Crausaz](mailto:pascal@askpascal.com ) |
 | Special          |                                                |
-
+![[Monkfish Curry - Lotte au curry.png|300]]
 :::
 
 
