@@ -33,15 +33,14 @@ Great served as appetizer with Cornichon and fresh bread
 
 
 ### Quick View
-| Sous-Vide                  |                                                |
-| -------------------------- | ---------------------------------------------- |
-| Serve                      | x                                              |
-| Preparation Time           | x mn                                           |
-| Cooking Time (sous-vide)   | x mn                                           |
-| Cooking Time (traditional) | x mn                                           |
-| Temperature                | x °C / x° F                                    |
-| Authors                    | [Pascal Crausaz](mailto:pascal@askpascal.com ) |
-| Special                    |                                                |
+| Sous-Vide                |                                                |
+| ------------------------ | ---------------------------------------------- |
+| Serve                    | 4                                              |
+| Preparation Time         | 15 mn                                          |
+| Cooking Time (sous-vide) | 4 h                                            |
+| Temperature              | 71 °C / 160° F                                 |
+| Authors                  | [Pascal Crausaz](mailto:pascal@askpascal.com ) |
+| Special                  | - Stand Mixer<br>- Plastic Wrap                |
 
 :::
 
