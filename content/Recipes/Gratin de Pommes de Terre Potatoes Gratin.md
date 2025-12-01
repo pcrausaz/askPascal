@@ -11,7 +11,36 @@
 - 3-4 large potatoes
 - 1 Cup of cream
 - 1 Cup of mlik
-- 4-5 Garlic cloves
+- 4-5 Garlic cloves#appetizer #meal #dessert #side #drink #traditional #recipe
+
+> [!INFO]
+> ...
+
+:::two-columns-plain
+
+### Details 
+**Ingredients**
+- ...
+
+**Method**
+1. ...
+
+
+### Quick View
+| Traditional      |                                                |
+| ---------------- | ---------------------------------------------- |
+| Serve            | x                                              |
+| Preparation Time | x mn                                           |
+| Cooking Time     | x mn                                           |
+| Temperature      | x °C / x° F                                    |
+| Authors          | [Pascal Crausaz](mailto:pascal@askpascal.com ) |
+| Special          |                                                |
+
+:::
+
+
+
+
 - 1-2 Laurel leaves
 - Some Gruyere cheese
 - Salt & pepper
@@ -33,7 +62,7 @@
 10. Once the plate is cool down, place a board on the top of the foil and add some weight. The idea is to compress the potatoes slightly while they are in the refrigerator. Place the plate into the fridge.
 11. The day after, about 20 mn before serving, pre-heat a pan
 12. Take the gratin out of the fridge, turn over a board to un-mold it (it helps to use a knife on the sides), then slice 1-2 inches sections of the gratin, cleaning up the ends with the knife.
-13. Add 50 g of buter (or more) into the pan, until it starts to foam
+13. Add 50 g of butter (or more) into the pan, until it starts to foam
 14. Place the gratin into the foaming butter, then baste, do this for about 2 mn per sides, turning your gratin rectangles every 2 minutes
 15. Take out onto a paper towel to absorb the excess butter, then plate to serve.
 

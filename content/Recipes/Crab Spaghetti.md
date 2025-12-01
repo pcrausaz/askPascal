@@ -25,7 +25,7 @@
 3. Grate the cheese
 4. When the pasta water boils, add salt
 5. Add the pasta and cook (usually 1 mn less than cooking time, so if the pasta requires 10 mn, cook the pasta 9 mn
-6. In a pan, on medium-low eat, melt and foam the buter
+6. In a pan, on medium-low eat, melt and foam the butter
 7. Add the flour , salt and pepper and cayenne, stirs the roux well. Takes about 90 s or 2 minute
 8. Do not let the roux turn brown, reduce the heat if necessary
 9. Add some pasta water to the roux, mix again well until you get something smooth and not too thick, add pasta water as necessary then add the minced garlic
