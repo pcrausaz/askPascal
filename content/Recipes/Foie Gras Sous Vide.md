@@ -22,14 +22,18 @@
 4. De-vein the foie, [this video](https://www.youtube.com/watch?v=0CuuOehPBVQ) or [this shorter video](https://www.youtube.com/watch?v=seoMhU6cDy0) shows how to do it quite well, it is in french but audio is not necessary
 5. Keep track of the skin side
 6. Separate the spice mix in two equal part, use the first part to sprinkle the inside (no skin), turn your foie over, and sprinkle the other side. I use a small tea strainer to do so, makes it easier to distribute nicely
-7. Now take your terrine, layout the big lobe, skin down in the terrine, then add the rest, always trying to get the skin on the outside
-8. Place the little weight on top (if you have one, my first try I did not have one and it was not an issue)
-9. Place the terrine into a large heat-seal bag (make one if necessary) and sous-vide
-10. If you have time, place the terrine for a night into the fridge
-11. Get your water bath up to temperature (59 C)
-12. Cook the terrine for 1 hour
-13. Take the terrine out, let it cool just a tad then place into into an ice bath to get it ready for your fridge.
-14. Store in the fridge for a night.  
+7. Alternative 1:
+	1. Now take your terrine, layout the big lobe, skin down in the terrine, then add the rest, always trying to get the skin on the outside
+	2. Place the little weight on top (if you have one, my first try I did not have one and it was not an issue)
+	3. Place the terrine into a large heat-seal bag (make one if necessary) and sous-vide
+8. Alternative 2 (preferred)
+	1. Place a large sheet of plastic shrink wrap on your workspace
+	2. Lay the 
+9. If you have time, place the terrine for a night into the fridge
+10. Get your water bath up to temperature (59 C)
+11. Cook the terrine for 1 hour
+12. Take the terrine out, let it cool just a tad then place into into an ice bath to get it ready for your fridge.
+13. Store in the fridge for a night.  
   
   
 
@@ -60,7 +64,7 @@ Later:
 | Authors                    | [Pascal Crausaz](mailto:pascal@askpascal.com)  |
 | Special                    | [Heat-Seal Storage bag](http://www.amazon.com/gp/product/B001T6LT0O/ref=oh_details_o02_s00_i00?ie=UTF8&psc=1)  <br>[Vacuum Sealer](http://www.amazon.com/gp/product/B0044XDA3S/ref=oh_details_o02_s00_i02?ie=UTF8&psc=1)  <br>[Circulator](https://www.cuisinetechnology.com/sousvide-professional-comparison.php)<br><br>[Terrine](http://www.lecreuset.com/heritage-pate-terrine-with-press) |
 
-![[Clafoutis_Updated.jpg|200]]
+![[foie-gras2022-12-18_13-55-26.png|200]]
 
 :::
 
