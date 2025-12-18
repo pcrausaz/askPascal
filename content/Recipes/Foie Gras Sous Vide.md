@@ -27,15 +27,15 @@
 	2. Place the little weight on top (if you have one, my first try I did not have one and it was not an issue)
 	3. Place the terrine into a large heat-seal bag (make one if necessary) and sous-vide
 8. Alternative 2 (preferred)
-	1. Place a large sheet of plastic shrink wrap on your workspace
-	2. Lay the 
-9. If you have time, place the terrine for a night into the fridge
+	1. Place a large sheet of plastic wrap (cling wrap) on your workspace
+	2. Lay the lobes on the plastic warp, skin side against the plastic, and roll it into a tight cylinder, twist the ends like a candy wrapper 
+9. Preferably, place the terrine for a night into the fridge (optional)
 10. Get your water bath up to temperature (59 C)
 11. Cook the terrine for 1 hour
 12. Take the terrine out, let it cool just a tad then place into into an ice bath to get it ready for your fridge.
 13. Store in the fridge for a night.  
   
-  
+  At this stage it will freeze very well, I usually slice it and freeze some for later in the year.
 
 Notes:
 
@@ -43,8 +43,6 @@ Notes:
 - On my first try, I received the foie late afternoon on 12/30 and served my first foie gras on 12/31, so the resting period were stretch to the minimum, this was not an issue. The foie gras was a success.
 
   
-
-
 
 Note: This is my first, I did not have the proper terrine; the link I provided above will give you something a tad more compact.
 
@@ -54,15 +52,15 @@ Later:
 
 
 ### Quick View
-| Sous-Vide                  |                                                |
-| -------------------------- | ---------------------------------------------- |
-| Serve                      | 1                                              |
-| Preparation Time           | 30 mn                                          |
-| Cooking Time (sous-vide)   | 60 mn                                          |
-| Cooking Time (traditional) |                                                |
-| Temperature                | 59 °C                                          |
-| Authors                    | [Pascal Crausaz](mailto:pascal@askpascal.com)  |
-| Special                    | [Heat-Seal Storage bag](http://www.amazon.com/gp/product/B001T6LT0O/ref=oh_details_o02_s00_i00?ie=UTF8&psc=1)  <br>[Vacuum Sealer](http://www.amazon.com/gp/product/B0044XDA3S/ref=oh_details_o02_s00_i02?ie=UTF8&psc=1)  <br>[Circulator](https://www.cuisinetechnology.com/sousvide-professional-comparison.php)<br><br>[Terrine](http://www.lecreuset.com/heritage-pate-terrine-with-press) |
+| Sous-Vide                  |                                                                                                                                                                                                                                                                                                                                                                                                    |
+| -------------------------- | -------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
+| Serve                      | 1                                                                                                                                                                                                                                                                                                                                                                                                  |
+| Preparation Time           | 30 mn                                                                                                                                                                                                                                                                                                                                                                                              |
+| Cooking Time (sous-vide)   | 60 mn                                                                                                                                                                                                                                                                                                                                                                                              |
+| Cooking Time (traditional) |                                                                                                                                                                                                                                                                                                                                                                                                    |
+| Temperature                | 59 °C                                                                                                                                                                                                                                                                                                                                                                                              |
+| Authors                    | [Pascal Crausaz](mailto:pascal@askpascal.com)                                                                                                                                                                                                                                                                                                                                                      |
+| Special                    | [Heat-Seal Storage bag](http://www.amazon.com/gp/product/B001T6LT0O/ref=oh_details_o02_s00_i00?ie=UTF8&psc=1)  <br>[Vacuum Sealer](http://www.amazon.com/gp/product/B0044XDA3S/ref=oh_details_o02_s00_i02?ie=UTF8&psc=1)  <br>[Circulator](https://www.cuisinetechnology.com/sousvide-professional-comparison.php)<br><br>[Terrine](http://www.lecreuset.com/heritage-pate-terrine-with-press) or  |
 
 ![[foie-gras2022-12-18_13-55-26.png|200]]
 
