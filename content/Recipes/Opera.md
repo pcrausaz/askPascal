@@ -6,8 +6,28 @@
 :::two-columns-plain
 
 ### Details
-**Ingredients**
-- ...
+**Ingredients - Coffee Syrup**
+- 1/3 cups (400 ml) warm coffee
+- 3/4 cup (5 oz., 150g) superfine sugar 
+- 3 tbsp. (10 g) instant coffee powder
+
+**Ingredients - Biscuit Joconde**
+- 8 eggs, 4 whole, 4 separated
+- 2½ cups (8 oz., 220 g) ground almonds
+- 1½ cups (10 oz., 275 g) sugar
+- ¾ cup plus 2 tbsp. (3 oz., 100g) all-purpose flour
+
+**Ingredients - **
+- 6 oz. (170 g) bittersweet chocolate (70% )
+
+**Ingredients - **
+- xxx
+
+**Ingredients - **
+- xxx
+
+
+
 
 **Method Icing**
 
@@ -19,7 +39,7 @@
 6. Now place your cake ring on top of the icing, pressing firmly, then reserve in the refrigerator so that the icing harden
 
 
-**Method Coffee Sirup**
+**Method Coffee Syrup**
 
 1. Boil the water, sugar and expresso cup until the sugar is melted properly, set aside 
 

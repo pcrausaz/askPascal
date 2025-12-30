@@ -4,7 +4,7 @@ aliases:
   - index
   - home
 ---
-:::three-columns-plain
+:::two-columns-plain
 
 
 ## All Recipes by Categories
@@ -24,12 +24,12 @@ Here is a compendium of the recipes I like:
 - [The only cookbook you ever need: The Complete Robuchon](https://books.google.com/books?id=cnd4RE4LecoC)
 
 
-## Art by Margo
+
+## Just Awesome
+**Art by Margo**
 - [[Photo Album|Photo Album]]
 ![[Home_1.jpg|150]]
 
-
-## Just Awesome
 **My Stars:**
 - [[My Stars - Nan et Margo|Nan et Margo in the Sky]]
 - [Cirque Ephémère & Other Videos](https://www.youtube.com/@lacsapo)
