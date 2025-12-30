@@ -1,4 +1,4 @@
-#appetizer #meal #dessert #side #drink #traditional #recipe
+#dessert  #traditional #recipe
 
 > [!INFO]
 > Great recipe, quick & easy
@@ -35,6 +35,7 @@
 16. Bake for another 5 mn (past the 30 mn mark), watching the bake so that it brown a bit
 17. Take out of the oven, let it cool down, then place into the refrigerator for 3 h
 
+Similar to [[Flan Patissier]] but better balanced.
 
 ### Quick View
 | Traditional      |                                                |
@@ -45,7 +46,8 @@
 | Temperature      | 180 °C / 350° F -   225 °C / 450° F            |
 | Authors          | [Pascal Crausaz](mailto:pascal@askpascal.com ) |
 | Special          |  non-stick springform round cake pan           |
-
+![[Flan-piece.png|250]]
+![[Flan.png|250]]
 :::
 
 
