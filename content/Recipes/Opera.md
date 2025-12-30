@@ -17,16 +17,20 @@
 - 1½ cups (10 oz., 275 g) sugar
 - ¾ cup plus 2 tbsp. (3 oz., 100g) all-purpose flour
 
-**Ingredients - **
-- 6 oz. (170 g) bittersweet chocolate (70% )
+**Ingredients - Ganache**
+- 6 oz. (170 g) bittersweet chocolate (70% chocolate)
+- ½ cup (120 ml) milk
+- 3 tbsp. (40 ml) heavy cream
+- 1 tbsp. plus 1 tsp. butter, softened
 
-**Ingredients - **
-- xxx
+**Ingredients - Coffee Buttercream **
+- ½ recipe Buttercream (see [[Buche de Noel Moka]])
+- 1 tbsp. (20 ml) espresso or strong coffee, at room temperature
 
-**Ingredients - **
-- xxx
-
-
+**Ingredients - Chocolate Glaze**
+- 14 oz. (400 g) bittersweet chocolate (I used 70% cocoa)
+- 3 tbsp. (50 g) vegetable shortening (did not have any, used butter)
+- 3 tbsp. (50 g)  oil (grapeseed or other neutral oil)
 
 
 **Method Icing**
@@ -41,12 +45,12 @@
 
 **Method Coffee Syrup**
 
-1. Boil the water, sugar and expresso cup until the sugar is melted properly, set aside 
+1. Boil the water, sugar and espresso cup until the sugar is melted properly, set aside 
 
 
 **Method Biscuit Joconde**
 
-1. Pre-heat the oven at 220 °C/425°F
+1. Pre-heat the oven at 220 °C / 425°F
 2. Melt the butter and let it cool
 3. In a bowl, using a whisk, mix the whole eggs, a pinch of salt, almond flour, and confection sugar.
 4. Add the butter
