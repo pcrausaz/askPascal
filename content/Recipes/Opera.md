@@ -28,9 +28,9 @@
 - 1 tbsp. (20 ml) espresso or strong coffee, at room temperature
 
 **Ingredients - Chocolate Glaze**
-- 14 oz. (400 g) bittersweet chocolate (I used 70% cocoa)
-- 3 tbsp. (50 g) vegetable shortening (did not have any, used butter)
-- 3 tbsp. (50 g)  oil (grapeseed or other neutral oil)
+- 50 g bittersweet chocolate (I used 70% cocoa)
+- 8 g grapeseed oil
+
 
 
 **Method Icing**
