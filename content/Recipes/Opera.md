@@ -10,6 +10,8 @@
 - 1/3 cups (400 ml) warm coffee
 - 3/4 cup (5 oz., 150g) superfine sugar 
 - 3 tbsp. (10 g) instant coffee powder
+  
+  Note: could use a bit more depending on the size and thickness of you biscuit.
 
 **Ingredients - Biscuit Joconde**
 - 8 eggs, 4 whole, 4 separated
@@ -24,8 +26,7 @@
 - 1 tbsp. plus 1 tsp. butter, softened
 
 **Ingredients - Coffee Buttercream **
-- ½ recipe Buttercream (see [[Buche de Noel Moka]])
-- 1 tbsp. (20 ml) espresso or strong coffee, at room temperature
+- 1 recipe Buttercream (see [[Buche de Noel Moka]])
 
 **Ingredients - Chocolate Glaze**
 - 50 g bittersweet chocolate (I used 70% cocoa)
@@ -74,6 +75,7 @@
 2. Let the sugar cool a bit, then incorporate with the egg yolks (start with just a tiny bit into the egg, mix then add more slowl)
 3. Now mix the butter (to obtain a cream/pommade), pour into the butter the egg/sugar mixture
 4. Mix until it is smooth
+see [[Buche de Noel Moka]]
 
 
 **Method Assembly**
@@ -109,7 +111,7 @@ I had a few challenges with this one, not having the right hardware, made it a b
 | Cooking Time     | 8 mn for the biscuit/cake                      |
 | Temperature      |                                                |
 | Authors          | [Pascal Crausaz](mailto:pascal@askpascal.com) / [https://mapatisserie.fr/recette/dessert/recette-opera/](https://mapatisserie.fr/recette/dessert/recette-opera/) |
-| Special          | 'Guitar' sheet (acetate sheet)<br><br>Pastry bags & 6 mm tip (2x)<br><br>Normally: rectangular cake ring 12x24 cm....did not have any so used a round circle one.<br><br>My sheets were too small, so I used two, turned out just fine. I made sure to tape them to a board before pouring the chocolate. |
+| Special          | 'Guitar' sheet (acetate sheet)<br>Pastry bags & 6 mm tip (2x)<br>Normally: rectangular cake ring 12x24 cm....did not have any so used a round circle one.<br>My sheets were too small, so I used two, turned out just fine. I made sure to tape them to a board before pouring the chocolate. |
 
 ![[Opera_1.png|200]]
 ![[Opera_2.png|200]]
