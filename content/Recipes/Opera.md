@@ -115,6 +115,7 @@ I had a few challenges with this one, not having the right hardware, made it a b
 
 ![[Opera_1.png|200]]
 ![[Opera_2.png|200]]
-![[Opera - Second Try.png]]
+ *Second try:* 
+ ![[Opera - Second Try.png|200]] 
 :::
 
