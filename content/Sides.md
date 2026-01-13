@@ -5,7 +5,7 @@ Back to [[[Home](https://askpascal.com/)]]
 
 <br><br><br><br><br><br><br><br>
 
-> [!cite] Viewing in Obsidian?
+> [!cite] Viewing in Obsidian? **Sides**
 > The dynamic list below works in Obsidian. On the web, browse by above.
 > ```dataview
 > LIST FROM #side 
