@@ -1,7 +1,7 @@
 
 ### View all [[tags/traditional|Traditional Recipes]]
 
-Back to [[Home]]
+Back to [[[Home](https://askpascal.com/)]]
 
 <br><br><br><br><br><br><br><br>
 
