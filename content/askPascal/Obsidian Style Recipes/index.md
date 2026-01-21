@@ -6,13 +6,13 @@ Welcome to askPascal!
 
 ## All Recipes by Categories
 Here is a compendium of the recipes I like:
-- [[tags/Appetizer|Appetizer]]
-- [[tags/Dessert|Dessert]]
-- [[tags/Meal|Meal]]
-- [[tags/Side|Side]]
-- [[tags/Drink|Drink]]
-- [[tags/Sous-Vide|Sous-Vide]]
-- [[tags/Traditional|Traditional]]
+- [[tags/appetizer|Appetizer]]
+- [[tags/dessert|Dessert]]
+- [[tags/meal|Meal]]
+- [[tags/side|Side]]
+- [[tags/drink|Drink]]
+- [[tags/sous-vide|Sous-Vide]]
+- [[tags/traditional|Traditional]]
 
 ## Some Good Articles
 **Cooking Sous-Vide:**

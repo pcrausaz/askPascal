@@ -16,16 +16,16 @@ SORT file.name DESC
 
 **For web visitors**: Click any category to see all recipes in that group:
 
-- [[tags/Appetizer|Appetizers]]
-- [[tags/Meal|Main Courses]]
-- [[tags/Side|Sides]]
-- [[tags/Dessert|Desserts]]
-- [[tags/Drink|Drinks]]
+- [[tags/appetizer|Appetizers]]
+- [[tags/meal|Main Courses]]
+- [[tags/side|Sides]]
+- [[tags/dessert|Desserts]]
+- [[tags/drink|Drinks]]
 
 ## Browse by Method
 
-- [[tags/Sous-Vide|Sous-Vide Recipes]]
-- [[tags/Traditional|Traditional Recipes]]
+- [[tags/sous-vide|Sous-Vide Recipes]]
+- [[tags/traditional|Traditional Recipes]]
 
 ## View All Recipes
 
