@@ -37,7 +37,7 @@
 
 **Method Mushroom Stock**
 
-1. Clean the mushroon
+1. Clean the mushroom
 2. Add 1 litter of water to a pan
 3. Cut the mushroom and add to the water
 4. Cook until reduced to about half a cup or so (even a quarter)
@@ -67,7 +67,7 @@
 
 1. In a large cast iron, on medium hear
 2. Add some of the garlic
-3. The mushroon stock
+3. The mushroom stock
 4. Add the diced tomatoes
 5. Salt & Pepper
 6. Cook for about 1 hour
