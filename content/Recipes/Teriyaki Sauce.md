@@ -1,4 +1,4 @@
-#appetizer #meal #dessert #side #drink #traditional #recipe
+#appetizer #meal  #side  #traditional #recipe
 
 > [!INFO]
 > Way better than store bought sauce
@@ -17,15 +17,16 @@
 
 You can use it on Salmon, chicken and likes, usually after applying the sauce you cook it 2-3 more minutes.
 
+![[Teriyaki Sauce with Salmon.png]]
 
 ### Quick View
 | Traditional      |                                                |
 | ---------------- | ---------------------------------------------- |
-| Serve            | x                                              |
+| Serve            | 2-4                                              |
 | Preparation Time | 2 mn                                           |
 | Cooking Time     | 10 mn                                          |
 | Authors          | [Pascal Crausaz](mailto:pascal@askpascal.com ) |
-| Special          |                                                |
+
 
 :::
 
