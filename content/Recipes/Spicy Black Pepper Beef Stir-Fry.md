@@ -28,7 +28,9 @@
 - 1 Tsp of Sugar
 - 2 Tsp of cornstarch
 - 1/4 cup of chicken or beef broth (or water)
-  
+
+**Ingredients Finish**
+  - 2-3 stalk of Green onion
 
 **Method**
 1. Cut the beef in bite-size chunks
@@ -39,19 +41,23 @@
 6. Peel & Slice the ginger (finely)
 7. Set aside the veggies
 8. In a bow, mix all the ingredient for the black pepper sauce
-9. 
+9. Cut the green onions, set aside
+10. In a hot wok or skillet, place some oil, bring to high heat, then sear the beef until brown, set the beef aside
+11. Bring down the heat to medium or medium high
+12. Add some oil to the wok if necessary, toss in the veggies, stir-fry until tender, should take a few minutes
+13. Add the beef back to the pan
+14. Add the black pepper sauce, mix until it thickens, about 2 or 3 minutes
 
 
 ### Quick View
 | Traditional      |                                                |
 | ---------------- | ---------------------------------------------- |
-| Serve            | x                                              |
-| Preparation Time | x mn                                           |
-| Cooking Time     | x mn                                           |
-| Temperature      | x °C / x° F                                    |
+| Serve            | 2                                              |
+| Preparation Time | 15 mn                                           |
+| Cooking Time     | 10-15 mn                                           |
 | Authors          | [Pascal Crausaz](mailto:pascal@askpascal.com ) |
-| Special          |                                                |
 
+![[Spicy Black Pepper Beef Stir-Fry.png | 350]]
 :::
 
 
