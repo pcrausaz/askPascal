@@ -43,6 +43,7 @@
 | Authors          | [Pascal Crausaz](mailto:pascal@askpascal.com)  <br>Bocuse |
 | Special          |                                                |
 
+![[Piemontaise Risotto 3.png]]
 ![[Piemontaise_Risotto_1.jpg|200]]
 ![[Piemontaise_Risotto_2.jpg|200]]
 
