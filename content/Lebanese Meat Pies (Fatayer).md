@@ -20,26 +20,27 @@
 - 1 tsp Lebanese 7-spice
 - Salt & Pepper to taste
 - Optional: 1 tbsp pomegranate molasses, 
-- Optional: 1/4 cup o
+- Optional: 1/4 cup toasted pine nuts
 
-**Method**
+**Method Dough**
+1. Mix the dough ingredients, knead until smooth, and let rise for 1-2 hours until doubled
+
+**Method Pie/Filling**
 1. Pre-heat oven to 400° F
+2. ﻿﻿﻿Sauté onions
+3. Add ground meat, and cook until browned. 
+4. Stir in spices (pine nuts, and pomegranate molasses - if using). 
+5. Let it cool completely. 
+   I place the meat in a strainer over a cup to drain the fat, this ensure the dough does not get soggy
 
-Ingredients
-
-- ﻿﻿Dough: 
-- ﻿﻿Filling: 1 lb ground beef or lamb, 1 finely diced onion, 1/4 cup toasted pine nuts, 1 tbsp pomegranate molasses, 1 tsp Lebanese 7-spice, 1/2 tsp cinnamon, salt, and black pepper to taste.
-
-M Maureen Abood +4
-
-Instructions
-
-1. ﻿﻿﻿Dough Preparation: Mix dough ingredients, knead until smooth, and let rise for 1-2 hours until doubled.
-2. ﻿﻿﻿Filling Preparation: Sauté onions, add ground meat, and cook until browned. Stir in spices, pine nuts, and pomegranate molasses. Let it cool completely.
-3. ﻿﻿﻿Assembly: Divide dough into small balls, roll into 4-5 inch circles, and place 1-2 tablespoons of filling in the center.
-4. ﻿﻿﻿Shaping: Fold three sides up to form a triangle, pinching the edges tightly to seal.
-5. ﻿﻿﻿Baking: Place on baking sheets, brush with olive oil or egg wash, and bake at 375-  
-    400°F for 12-20 minutes until golden brown. Maureen Abood +7
+**Method Assembly**
+1. ﻿﻿﻿Divide dough into small balls
+2. Roll into 4-5 inch circles
+3. Place 1-1.5 tablespoons of filling in the center.
+4. ﻿﻿﻿Fold three sides up to form a triangle, pinching the edges tightly to seal - meat will be expose in the center, this is fine (likely need to roll this if using filo dough)
+5. ﻿﻿﻿Place on a baking sheets
+6. Brush with olive oil or egg wash
+7. Bake at 375°F- 400°F for 12-20 minutes until golden brown. Maureen Abood +7
 
 Tips
 
