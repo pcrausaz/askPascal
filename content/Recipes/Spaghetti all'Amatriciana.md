@@ -21,20 +21,15 @@
 
 1. Bring some water to a boil
 2. Grate the cheese
-3. 
-4. Generously salt the water once it boils
-5. Add the pasta, you will cook it 70% of the time in boiling water (for me, my pasta requires 10 m for al dente, cook it for 7 m in the water)
-6. In a skillet, crack some fresh pepper, be generous
-7. Roast the pepper to medium heat
-8. Add a ladle of pasta water to the pan
-9. Add 1.4 of the ladle of pasta water to the grated cheese, just enough to bring the cheese into some sort of ball
-10. After 7 minute bring the pasta to the skillet, make sure to set aside the pasta water
-11. Bring the heat to medium high, you will likely need to add some more pasta water (1 or 2 ladle) to the paste, mixed well to ensure the pepper mix with the pasta and cook like this until the pasta is cooked, ensure there is still enough water
-12. Once the pasta is cooked, turn of the heat
-13. Add the bowl of cheese and mix carefully to ensure the cheese melt well an cream
-  14. If the cheese strings, sorry, you did it wrong, likely not enough water or too much heat
-15. Once the cheese is creamy, serve directly.
-
+3. 'Clean' the guanciale, then cut into 1 cm slices
+4. Cut the cherry tomatoes, halves
+5. In a pan, or small cast iron, on medium heat, add the guanciale until the fat render and the meat is crispy, about 5 mn
+6. Set aside the guanciale, separate from the fat, leave some fat (about 1 or 2 tbsp) in the pan
+7. Add the fresh cut cherry tomatoes, cook for 5 mn (lower the heat a bit), mix from time to time, add some salt
+8. Add the can of peeled cherry tomatoes, add some salt
+9. Cook for -10 mn, then using a hand-mixer, crush the tomato sauce
+10. The sauce should cook for a minimum of 20-30 minutes
+11. In the last 10 mn, cook the pasta, then drain the pasta
   
 
 Proportions are for 1 portion, just multiply to serve more people.
