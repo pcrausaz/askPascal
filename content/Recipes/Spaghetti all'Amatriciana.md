@@ -29,25 +29,27 @@
 8. Add the can of peeled cherry tomatoes, add some salt
 9. Cook for -10 mn, then using a hand-mixer, crush the tomato sauce
 10. The sauce should cook for a minimum of 20-30 minutes
-11. In the last 10 mn, cook the pasta, then drain the pasta
+11. In the last 10 mn, cook the pasta, then drain the pasta (reserve some pasta water in case the sauce is too thick), then return the pasta to the pan (no heat)
+12. Add the crispy guancale to the sauce to quickly warm it back
+13. Add 75% of the grated cheese to the sauce, mix, then pour over the pasta
+14. Mix the pasta, serve, adding the remaining cheese to the plate
   
 
-Proportions are for 1 portion, just multiply to serve more people.
+Proportions are for 1 portion, just multiply to serve more people. 
+Works also well with penne
 
 
 
 
 ### Quick View
-| Traditional      |                                                |
-| ---------------- | ---------------------------------------------- |
-| Serve            | 1                                              |
-| Preparation Time | 5 mn                                           |
-| Cooking Time     | 10 mn                                          |
-| Temperature      |                                                |
-| Authors          | [Pascal Crausaz](mailto:pascal@askpascal.com)  |
-| Special          |                                                |
+| Traditional      |                                               |
+| ---------------- | --------------------------------------------- |
+| Serve            | 1                                             |
+| Preparation Time | 10 mn                                         |
+| Cooking Time     | 30 mn                                         |
+| Authors          | [Pascal Crausaz](mailto:pascal@askpascal.com) |
+| Special          |                                               |
 
-![[Spaghetti_Peppe_E_Caccio.png|200]]
 
 :::
 
