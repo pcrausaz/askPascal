@@ -8,7 +8,7 @@
 ### Details
 **Ingredients**
 
-- 200 gr of Mascapone (1 pack)
+- 200 gr of Mascarpone (1 pack)
 - 1 egg 
 - 50 gr of sugar
 - 1 Orange Zest
@@ -30,8 +30,8 @@ Multiply quantities as you need...usual x4 when we have people over.
 6. Incorporate carefully the white(s) to the yolk-sugar mix
 7. Pour 1 espresso, add some sugar and a splash of Amaretto (like 1/4 Tbsp)
 8. Place the biscuit at the bottom of a plate (with high sides)
-9. Pour the espresso onto the biscuits (get them wet...but not too much)
-10. Pour the mix onto the biscuits
+9. Dip the biscuits into espresso (get them wet...but not too much)
+10. Pour the mascarpone mix onto the biscuits
 11. Place in the fridge
 12. Before serving, lightly sprinkle some cocoa powder onto the top of the dessert. I do this using a small mesh strainer.
 13. An couple of hours in the fridge is fine....but 8-12 hours is better and a full day just perfect.
