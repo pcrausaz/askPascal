@@ -26,12 +26,8 @@ jobs:
         with:
           node-version: 22
 
-      - name: Cache Quartz plugins
-        uses: actions/cache@v6
-        with:
-          path: .quartz/plugins
-          key: ${{ runner.os }}-plugins-${{ hashFiles('quartz.lock.json') }}
-
+      # No .quartz/plugins cache: a cache hit makes the installer skip the
+      # local plugin's own npm install, which then fails to load at build time.
       - run: npm ci
 
       - name: Install Quartz plugins
