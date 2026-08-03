@@ -11,7 +11,7 @@
 - 415 g Bread Flour or All Purpose Flour
 - 9 g Salt
 - 270 g of Water (18°C/ 65°F
-- Either: 115 g of [Sourdough Levain](/wiki/pages/createpage.action?spaceKey=miam&title=Sourdough%20Levain&linkCreation=true&fromPageId=3342345) or 1.5 g of cake yeast of 1 g of dry yeast
+- Either: 115 g of Sourdough Levain or 1.5 g of cake yeast of 1 g of dry yeast
 - Olive Oil as needed
 
 

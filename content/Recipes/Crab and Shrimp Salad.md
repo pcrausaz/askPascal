@@ -15,7 +15,7 @@
 - A few leaves of lettuce
 - Fresh scallion
 - 1 Avocado
-- [Mayonnaise](/wiki/pages/createpage.action?spaceKey=miam&title=Mayonnaise&linkCreation=true&fromPageId=430048)
+- Mayonnaise
 - Salt & Pepper
 - Olive Oil
 - Balsamic vinegar
@@ -31,7 +31,7 @@
 4. Add salt & pepper, add the garlic
 5. Turn over the shrimps, and roast for another 90 seconds
 6. Take the shrimps out (with the garlic), let it cool a bit
-7. While it cools, prepare the [Mayonnaise](/wiki/pages/createpage.action?spaceKey=miam&title=Mayonnaise&linkCreation=true&fromPageId=430048)
+7. While it cools, prepare the Mayonnaise
 8. Peel the avocado, slice 8 fine long slices, then cut the rest in cibe
 9. Slice the lettuce
 10. Slice the scallion finely
@@ -41,7 +41,7 @@
 14. Cut the shrimps, about 7 mm (1/4 of a inch)
 15. Prepare the vinaigrette: 2 tbsp of balsamic vinegar, 1 tbsp of red wine vinegar, salt & pepper, 3 tbsp of olive oil
 16. Mix the shrimps, the garlic from the shrimps, the crab meat and the rest of the ingredients, including salt & pepper, but for the endive leaves, the avocado slices and the vinaigrette
-17. Salt and pepper, add the [Mayonnaise](/wiki/pages/createpage.action?spaceKey=miam&title=Mayonnaise&linkCreation=true&fromPageId=430048)
+17. Salt and pepper, add the Mayonnaise
 18. In each plate, layout 4 endive leaves with a avocado slice in each
 19. Place a serving ring onto the endives leaves, fill with the crab mix
 20. Remove the ring, add a few spoons of the vinaigrette on top of it

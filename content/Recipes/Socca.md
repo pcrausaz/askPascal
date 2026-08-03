@@ -10,7 +10,7 @@
 
 - 125g Chickpeas Flour
 - ~250ml of water
-  - Play it by feel here, the socca should be of the consistency of a pate a [Crepe](/wiki/pages/createpage.action?spaceKey=miam&title=Crepe&linkCreation=true&fromPageId=359137343).
+  - Play it by feel here, the socca should be of the consistency of a pate a [[Crepes|Crepe]].
 - Olive Oil (3-4 Tbsp + 3-4 Tbsp for the pan)
 - 1 Tsp Salt 
 - Black Pepper

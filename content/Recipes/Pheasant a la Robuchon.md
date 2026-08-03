@@ -22,7 +22,7 @@
 - 3-4 egg white (keep the yolk for the egg wash)
 
 **Note**: Usually I make 2 servings of dough since I use 2 birds. The left-over yolk are perfect for a [[Lemon Pie]]  
-**Warning**: imho it needs another side, like [Roasted Potatoes](/wiki/pages/createpage.action?spaceKey=miam&title=Roasted%20Potatoes&linkCreation=true&fromPageId=430172) or [Braised Green Beans](/wiki/pages/createpage.action?spaceKey=miam&title=Braised%20Green%20Beans&linkCreation=true&fromPageId=430172)
+**Warning**: imho it needs another side, like Roasted Potatoes or Braised Green Beans
 
 
 **Method**

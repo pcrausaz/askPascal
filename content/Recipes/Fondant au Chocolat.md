@@ -28,7 +28,7 @@
 7. Add 2 choc. cube in the bottom of each ramequin
 8. Cover with the rest of the melted choc. mix
 9. Insert into the oven for about 8-10 minutes, check after 8. Usually the top is cracked when ready
-10. Best served with a spinkle of confection sugar and a few rasberries (strawberries). Also goes very well with a little [Creme Anglaise](/wiki/pages/createpage.action?spaceKey=miam&title=Creme%20Anglaise&linkCreation=true&fromPageId=430112)
+10. Best served with a spinkle of confection sugar and a few rasberries (strawberries). Also goes very well with a little Creme Anglaise
 
 
 
