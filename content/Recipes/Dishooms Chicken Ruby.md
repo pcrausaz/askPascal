@@ -62,7 +62,7 @@
 | Traditional      |                                                |
 | ---------------- | ---------------------------------------------- |
 | Serve            | X                                              |
-| Preparation Time | 6-24h for the marinade  <br>5 mn<br><br>[[Dishooms Makhani Sauce|Dishoom's Makhani Sauce]] |
+| Preparation Time | 6-24h for the marinade  <br>5 mn<br><br>[[Dishooms Makhani Sauce\|Dishoom's Makhani Sauce]] |
 | Cooking Time     | 20-30  mn                                      |
 | Temperature      |                                                |
 | Authors          | [Pascal Crausaz](mailto:pascal@askpascal.com) / [Dishoom](https://www.amazon.com/Dishoom-Bombay-Love-Shamil-Thakrar/dp/1408890674) |

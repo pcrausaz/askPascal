@@ -45,7 +45,7 @@
 | Serve                      | 8                                              |
 | Preparation Time           | 20 mn                                          |
 | Cooking Time (sous-vide)   |                                                |
-| Cooking Time (traditional) | 45 mn + [[Poached Pears Sous Vide|Poached Pears (Sous-Vide)]] |
+| Cooking Time (traditional) | 45 mn + [[Poached Pears Sous Vide\|Poached Pears (Sous-Vide)]] |
 | Temperature                |                                                |
 | Authors                    | [Pascal Crausaz](mailto:pascal@askpascal.com) / Inspiration [Journal des femmes](http://cuisine.journaldesfemmes.com/recette/350387-tarte-bourdaloue) |
 | Special                    |                                                |

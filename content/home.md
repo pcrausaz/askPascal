@@ -2,7 +2,6 @@
 title: Home
 aliases:
   - index
-  - home
 cssclasses:
   - landing
 ---
