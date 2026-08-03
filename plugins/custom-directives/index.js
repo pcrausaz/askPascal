@@ -79,6 +79,25 @@ const CustomDirectives = () => ({
           }
         })
       },
+      // Tag every page with a section class derived from its folder so each
+      // content type (recipes vs. articles) can be styled distinctly. Classes
+      // land on <article> via the standard cssclasses frontmatter mechanism.
+      () => (_tree, file) => {
+        const d = file.data ?? (file.data = {})
+        const fm = d.frontmatter ?? (d.frontmatter = {})
+        const p = String(d.relativePath ?? d.slug ?? file.path ?? "")
+        let section = null
+        if (/(^|\/)recipes\//i.test(p)) section = "section-recipes"
+        else if (/(^|\/)askpascal\//i.test(p)) section = "section-articles"
+        if (section) {
+          const existing = Array.isArray(fm.cssclasses)
+            ? fm.cssclasses
+            : fm.cssclasses
+              ? [fm.cssclasses]
+              : []
+          if (!existing.includes(section)) fm.cssclasses = [...existing, section]
+        }
+      },
     ]
   },
 })

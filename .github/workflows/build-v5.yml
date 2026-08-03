@@ -1,0 +1,81 @@
+name: Build and verify Quartz 5
+
+# Verification build for the quartz5 branch. Does NOT deploy — production
+# still deploys from main. Content is overlaid from main (the vault sync
+# target), so this validates the real site on a case-sensitive filesystem.
+# Note: overlaid content is uncommitted here, so git-based dates fall back
+# to the checkout time; at cutover the sync will commit content to this
+# branch and dates become accurate again.
+
+on:
+  push:
+    branches: [quartz5]
+  workflow_dispatch:
+
+jobs:
+  build:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+
+      - name: Overlay content from main
+        run: |
+          git fetch origin main --depth=1
+          rm -rf content
+          git checkout origin/main -- content
+
+      - uses: actions/setup-node@v4
+        with:
+          node-version: 22
+
+      - name: Cache Quartz plugins
+        uses: actions/cache@v4
+        with:
+          path: .quartz/plugins
+          key: ${{ runner.os }}-plugins-${{ hashFiles('quartz.lock.json') }}
+
+      - run: npm ci
+
+      - name: Install Quartz plugins
+        run: npx quartz plugin install --from-config
+
+      - name: Build
+        run: npx quartz build
+
+      - name: Optimize images
+        run: node scripts/optimize-images.mjs public
+
+      - name: Verify build
+        run: |
+          set -e
+          fail() { echo "::error::$1"; exit 1; }
+
+          # New lowercase page exists and is a real page
+          test -f public/recipes/apricot-sous-vide.html || fail "missing lowercase recipe page"
+          grep -q 'class="popover-hint' public/recipes/apricot-sous-vide.html || fail "recipe page is not a full page"
+
+          # Old-case URL gets a redirect stub (only verifiable on case-sensitive FS)
+          test -f public/Recipes/Apricot-Sous-Vide.html || fail "missing case-redirect for old URL"
+          grep -q 'http-equiv="refresh"' public/Recipes/Apricot-Sous-Vide.html || fail "old-case file is not a redirect"
+
+          # Root redirects to home
+          test -f public/index.html || fail "missing root index.html"
+
+          # Columns and gallery render
+          count=$(grep -rl "column-content" public/recipes/ | wc -l)
+          [ "$count" -gt 200 ] || fail "only $count recipe pages have columns (expected >200)"
+          imgs=$(grep -o '<img' public/askpascal/photo-album.html | wc -l)
+          [ "$imgs" -gt 50 ] || fail "photo album has only $imgs images (expected >50)"
+
+          # Tag pages exist
+          test -f public/tags/recipe.html || fail "missing tag page"
+
+          echo "All verification checks passed."
+          du -sh public
+
+      - name: Upload site artifact
+        uses: actions/upload-artifact@v4
+        with:
+          name: site-preview
+          path: public
+          retention-days: 7

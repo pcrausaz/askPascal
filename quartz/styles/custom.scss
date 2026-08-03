@@ -99,6 +99,143 @@
   }
 }
 
+// ---------------------------------------------------------------------------
+// Landing page (Home.md, cssclasses: landing)
+// ---------------------------------------------------------------------------
+article.landing {
+  // Hero: center the intro block
+  & > .markdown-preview-sizer > h1:first-child,
+  & h1:first-of-type {
+    text-align: center;
+    font-size: 2.4rem;
+    margin-bottom: 0.5rem;
+  }
+
+  & h1:first-of-type + p {
+    text-align: center;
+    font-size: 1.15rem;
+    color: var(--darkgray);
+    max-width: 34rem;
+    margin: 0 auto 2rem;
+  }
+
+  // The three columns become cards
+  & .column-content-plain {
+    background-color: var(--light);
+    border: 1px solid var(--lightgray);
+    border-radius: 12px;
+    padding: 1.5rem;
+    transition:
+      transform 0.15s ease,
+      box-shadow 0.15s ease;
+
+    &:hover {
+      transform: translateY(-2px);
+      box-shadow: 0 6px 18px rgba(0, 0, 0, 0.07);
+    }
+
+    & h2 {
+      font-size: 1.35rem;
+      border-bottom: 2px solid var(--tertiary);
+      padding-bottom: 0.5rem;
+    }
+
+    & img {
+      border-radius: 8px;
+      max-width: 100%;
+    }
+  }
+}
+
+// Hide the redundant "Home" article title and reading time on the landing page
+.page:has(article.landing) {
+  & .article-title,
+  & .content-meta,
+  & .breadcrumb-container {
+    display: none;
+  }
+}
+
+// ---------------------------------------------------------------------------
+// Per-section accents (classes injected by the custom-directives plugin)
+// ---------------------------------------------------------------------------
+article.section-recipes {
+  // Recipes: warm terracotta accent, food-friendly tables
+  --section-accent: #b5563c;
+
+  & .column-content-plain h2,
+  & .column-content h2,
+  & .column-content-white h2 {
+    color: var(--section-accent);
+  }
+
+  & table {
+    width: 100%;
+
+    & th {
+      background-color: var(--lightgray);
+    }
+  }
+}
+
+article.section-articles {
+  // Articles/references: cooler slate accent, comfortable reading measure
+  --section-accent: #3d6b8f;
+
+  & h2,
+  & h3 {
+    color: var(--section-accent);
+  }
+}
+
+// ---------------------------------------------------------------------------
+// Photo gallery (cssclasses: gallery) — flattens markdown image tables into a
+// responsive grid: 4-up desktop, fluidly down to 1-up on phones.
+// ---------------------------------------------------------------------------
+article.gallery {
+  & table,
+  & tr {
+    display: contents;
+  }
+
+  & table {
+    border: none;
+  }
+
+  & thead {
+    display: none; // the "Margo's Art" pseudo-header row
+  }
+
+  & tbody {
+    display: grid;
+    grid-template-columns: repeat(auto-fill, minmax(min(200px, 100%), 1fr));
+    gap: 1rem;
+    align-items: start;
+  }
+
+  & td {
+    display: block;
+    border: none;
+    padding: 0;
+
+    // caption-only or empty cells
+    font-size: 0.85rem;
+    color: var(--gray);
+    text-align: center;
+
+    &:empty {
+      display: none;
+    }
+
+    & img {
+      width: 100%;
+      height: auto;
+      border-radius: 8px;
+      display: block;
+    }
+  }
+}
+
 // Legacy three-columns class (HTML-based)
 .three-columns {
   display: grid;
