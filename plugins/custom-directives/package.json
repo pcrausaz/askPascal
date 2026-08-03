@@ -1,0 +1,16 @@
+{
+  "name": "custom-directives",
+  "version": "1.0.0",
+  "description": "askPascal multi-column layout directives (:::two-columns, :::three-columns, variants)",
+  "type": "module",
+  "main": "index.js",
+  "scripts": {
+    "build": "echo 'plain JS plugin, no build needed'"
+  },
+  "exports": {
+    ".": "./index.js"
+  },
+  "dependencies": {
+    "remark-directive": "^3.0.1"
+  }
+}

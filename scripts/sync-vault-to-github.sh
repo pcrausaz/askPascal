@@ -60,19 +60,6 @@ fi
 
 log "Sync completed successfully"
 
-# Also mirror content into the Quartz 5 worktree (if present) so its local
-# preview stays fresh. Content there is untracked; nothing is committed.
-V5_CONTENT_PATH="/Users/pascal/Documents/Sources/askPascal-v5/content"
-if [ -d "$V5_CONTENT_PATH" ]; then
-    log "Mirroring content into Quartz 5 worktree..."
-    rsync -a --delete \
-        --exclude='.obsidian' \
-        --exclude='.DS_Store' \
-        --exclude='.git' \
-        --exclude='.gitkeep' \
-        "$VAULT_PATH/" "$V5_CONTENT_PATH/" >> "$LOG_FILE" 2>&1 || log "WARNING: v5 worktree mirror failed (non-fatal)"
-fi
-
 # Change to repo directory
 cd "$REPO_PATH" || error_exit "Failed to change to repo directory"
 
