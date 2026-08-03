@@ -1,3 +1,7 @@
+---
+cssclasses:
+  - gallery
+---
 
 ### All drawings and paintings are by Margo
 
