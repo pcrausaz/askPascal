@@ -54,8 +54,8 @@ Note: You can serve as-is or with some [[Raspberry Coulis]].
 | Special          |                                                |
 
 #### Pictures of Frozen Nougat - no churn:
-![[Nougat Ice Cream Frozen Nougat - noChurn.jpeg]]
-
+![[Nougat Ice Cream Frozen Nougat - noChurn.jpeg|200]]
+![[Nougat Ice Cream Frozen Nougat - noChurn2.jpeg|200]]
 #### Pictures of Ice Cream machine Frozen Nougat:
 ![[Nougat_Ice_Cream_Frozen_Nougat_1.jpg|200]]
 ![[Nougat_Ice_Cream_Frozen_Nougat_2.jpg|200]]
