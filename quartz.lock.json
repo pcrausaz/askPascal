@@ -1,0 +1,11 @@
+{
+  "version": "1.0.0",
+  "plugins": {
+    "custom-directives": {
+      "source": "./plugins/custom-directives",
+      "resolved": "/Users/pascal/Documents/Sources/askPascal-v5/plugins/custom-directives",
+      "commit": "local",
+      "installedAt": "2026-08-03T03:33:20.658Z"
+    }
+  }
+}
