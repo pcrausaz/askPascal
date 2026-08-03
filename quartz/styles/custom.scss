@@ -2,25 +2,20 @@
 
 // put your custom CSS here!
 
-// Three-column layout using directive syntax
+// Three-column layout using directive syntax.
+// Columns are sized by the space actually available (auto-fit), not the
+// viewport, so they degrade 3 -> 2 -> 1 as the content area narrows
+// (sidebars and page width eat into it long before 1024px viewport).
 .three-columns-page {
   display: grid;
-  grid-template-columns: repeat(3, 1fr);
-  gap: 2rem;
+  grid-template-columns: repeat(auto-fit, minmax(min(220px, 100%), 1fr));
+  gap: clamp(1rem, 2vw, 2rem);
   margin: 2rem 0;
 
   // Ensure child divs stretch to full height
   & > div {
     display: flex;
     flex-direction: column;
-  }
-}
-
-// Responsive: stack on tablets
-@media (max-width: 1024px) {
-  .three-columns-page {
-    grid-template-columns: 1fr;
-    gap: 1.5rem;
   }
 }
 
@@ -121,11 +116,12 @@
   }
 }
 
-// Two-column layout (equal width)
+// Two-column layout (equal width) — same auto-fit approach: side by side
+// whenever each column can get ~280px, stacked otherwise.
 .two-columns-page {
   display: grid;
-  grid-template-columns: repeat(2, 1fr);
-  gap: 2rem;
+  grid-template-columns: repeat(auto-fit, minmax(min(280px, 100%), 1fr));
+  gap: clamp(1rem, 2vw, 2rem);
   margin: 2rem 0;
 
   & > div {
@@ -134,41 +130,33 @@
   }
 }
 
-// Two-column layout (2/3 and 1/3 split)
+// Two-column layout (2/3 and 1/3 split). Asymmetric ratios can't use
+// auto-fit, so flex with basis-driven wrapping: the pair sits side by side
+// while both fit, and wraps to stacked as the container narrows.
 .two-columns-split-page {
-  display: grid;
-  grid-template-columns: 2fr 1fr;  // First column gets 2/3, second gets 1/3
-  gap: 2rem;
+  display: flex;
+  flex-wrap: wrap;
+  gap: clamp(1rem, 2vw, 2rem);
   margin: 2rem 0;
 
   & > div {
     display: flex;
     flex-direction: column;
+    flex: 2 1 340px; // main column: 2/3 share
+    min-width: 0;
   }
-}
 
-// Responsive: stack both two-column layouts on tablets
-@media (max-width: 1024px) {
-  .two-columns-page,
-  .two-columns-split-page {
-    grid-template-columns: 1fr;
-    gap: 1.5rem;
+  & > div:last-child {
+    flex: 1 1 200px; // side column: 1/3 share
   }
 }
 
 // Legacy three-columns class (HTML-based)
 .three-columns {
   display: grid;
-  grid-template-columns: repeat(3, 1fr);
-  gap: 2rem;
+  grid-template-columns: repeat(auto-fit, minmax(min(220px, 100%), 1fr));
+  gap: clamp(1rem, 2vw, 2rem);
   margin: 2rem 0;
-}
-
-@media (max-width: 1024px) {
-  .three-columns {
-    grid-template-columns: 1fr;
-    gap: 1.5rem;
-  }
 }
 
 .column {
