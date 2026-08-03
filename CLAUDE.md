@@ -61,4 +61,6 @@ Unchanged from v4. `scripts/sync-vault-to-github.sh` rsyncs the iCloud Obsidian 
 - Large pushes may need `git -c http.postBuffer=524288000 push`.
 - `git ls-files` tracks `content/home.md` lowercase while the filesystem shows `Home.md` (historical case rename; harmless).
 - `upstream` remote = `jackyzha0/quartz`; update Quartz by merging `upstream/v5`. Pass `-R pcrausaz/askPascal` to `gh` (it otherwise resolves the upstream repo).
+- **Dependabot**: do NOT merge major-version bumps of Quartz's own npm dependencies (typescript, esbuild, sharp, remark/rehype, etc.) — they break the build; those arrive safely via `git merge upstream/v5`. Patch/minor and GitHub Actions bumps are fine. The deploy verification gate blocks a broken build from reaching production (PR #3 was reverted for exactly this).
+- **Do not cache `.quartz/plugins` in CI**: a cache hit makes `quartz plugin install` skip the local plugin's own `npm install`, the plugin then fails to load, and recipes silently lose their column layout.
 - Known-intentional dead links: `[[spring rolls]]`, chocolate-sorbet, and the `test-*` scratch pages under `askPascal/Obsidian Style Recipes/`.
