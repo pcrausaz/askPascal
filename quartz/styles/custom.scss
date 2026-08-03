@@ -160,31 +160,13 @@ article.landing {
 // Per-section accents (classes injected by the custom-directives plugin)
 // ---------------------------------------------------------------------------
 article.section-recipes {
-  // Recipes: warm terracotta accent, food-friendly tables
-  --section-accent: #b5563c;
-
-  & .column-content-plain h2,
-  & .column-content h2,
-  & .column-content-white h2 {
-    color: var(--section-accent);
-  }
-
+  // Recipes: food-friendly full-width tables
   & table {
     width: 100%;
 
     & th {
       background-color: var(--lightgray);
     }
-  }
-}
-
-article.section-articles {
-  // Articles/references: cooler slate accent, comfortable reading measure
-  --section-accent: #3d6b8f;
-
-  & h2,
-  & h3 {
-    color: var(--section-accent);
   }
 }
 
