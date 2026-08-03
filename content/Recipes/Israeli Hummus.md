@@ -39,7 +39,7 @@
 
   
 
-Serve with Pita bread or [Grilled Flat Bread](Grilled Flat Bread.md) or [Falafel](Falafel.md)
+Serve with Pita bread or [[Grilled Flat Bread]] or [[Falafel]]
 
   
 

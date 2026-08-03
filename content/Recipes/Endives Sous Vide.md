@@ -15,7 +15,7 @@
 - Saffron water (a few strands in water, or replace with paella spice mix)
 - Fresh Orange Juice & Orange Zest
 - 0.5 Tsp of butter
-- 0.5 Tbsp of [Clarified Butter](Clarified Butter.md)
+- 0.5 Tbsp of [[Clarified Butter]]
 
 
 **Method**
@@ -27,7 +27,7 @@
 5. Add the orange juice mixed with the saffron water (~1/2 Tbsp)
 6. Add the butter
 7. Seal the bag and place in water for 45 mn
-8. Once cooked, heat the [Clarified Butter](Clarified Butter.md) in a pan, then roast the endive a couple of minutes on each side, reserve in a warm place.
+8. Once cooked, heat the [[Clarified Butter]] in a pan, then roast the endive a couple of minutes on each side, reserve in a warm place.
 9. Add the remaining juices from the bag into the pan, reduce and pour on top of the endive
 
 

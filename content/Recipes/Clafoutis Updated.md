@@ -1,7 +1,7 @@
 #dessert #traditional #recipe
 
 > [!INFO]
-> Clafoutis, is a custard-like dessert that is made with cherries and a batter. There is a lighter version [Clafoutis Framboise /  Raspberry Clafoutis](Clafoutis Framboise Raspberry Clafoutis.md) but these day, the original recipe (this pages) is what we go to.
+> Clafoutis, is a custard-like dessert that is made with cherries and a batter. There is a lighter version [[Clafoutis Framboise - Raspberry Clafoutis|Clafoutis Framboise /  Raspberry Clafoutis]] but these day, the original recipe (this pages) is what we go to.
 
 :::two-columns-plain
 

@@ -2,7 +2,7 @@
 
 > [!INFO]
 > This one surprised me, first time I tried it, I got some store bought flatbread as a backup...it went to waste. This bread is surprisingly tasty.
-> \[Update\] As good if not better and much fast: check [Soft Flatbread (No Yeast)](Soft Flatbread No Yeast.md)
+> \[Update\] As good if not better and much fast: check [[Soft Flatbread No Yeast|Soft Flatbread (No Yeast)]]
 
 :::two-columns-plain
 

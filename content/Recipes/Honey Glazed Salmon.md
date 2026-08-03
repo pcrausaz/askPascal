@@ -1,7 +1,7 @@
 #meal #traditional #recipe
 
 > [!INFO]
-> Derived this from the [Salmon with Soy and Ginger](Salmon with Soy and Ginger.md)
+> Derived this from the [[Salmon with Soy and Ginger]]
 
 :::two-columns-plain
 

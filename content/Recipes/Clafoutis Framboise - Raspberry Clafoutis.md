@@ -1,7 +1,7 @@
 #dessert #traditional #recipe
 
 > [!INFO]
-> An alternative but a few years later, i prefer the [Clafoutis (Updated)](Clafoutis Updated.md),
+> An alternative but a few years later, i prefer the [[Clafoutis Updated|Clafoutis (Updated)]],
 
 :::two-columns-plain
 

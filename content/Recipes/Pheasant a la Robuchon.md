@@ -8,8 +8,8 @@
 ### Details
 **Ingredients**
 
-- [Clarified Butter](Clarified Butter.md)
-- [Braised Endives](Braised Endives.md)
+- [[Clarified Butter]]
+- [[Braised Endives]]
 - 1 Pheasant (I actually prefer it with duck)
 - 3oz of Foie Gras
 - 1 Carrot
@@ -21,7 +21,7 @@
 - 1 cup of all-purpose flour
 - 3-4 egg white (keep the yolk for the egg wash)
 
-**Note**: Usually I make 2 servings of dough since I use 2 birds. The left-over yolk are perfect for a [Lemon Pie](Lemon Pie.md)  
+**Note**: Usually I make 2 servings of dough since I use 2 birds. The left-over yolk are perfect for a [[Lemon Pie]]  
 **Warning**: imho it needs another side, like [Roasted Potatoes](/wiki/pages/createpage.action?spaceKey=miam&title=Roasted%20Potatoes&linkCreation=true&fromPageId=430172) or [Braised Green Beans](/wiki/pages/createpage.action?spaceKey=miam&title=Braised%20Green%20Beans&linkCreation=true&fromPageId=430172)
 
 
@@ -40,7 +40,7 @@
 3. Set the bird gibblets aside
 4. Season the bird inside with salt and pepper, then add the foie gras inside the cavity
 5. Season the outside of the bird
-6. In an oven proof skillet, melt [Clarified Butter](Clarified Butter.md) over medium-high heat
+6. In an oven proof skillet, melt [[Clarified Butter]] over medium-high heat
 7. Brown bird on each side for about 3 min per side then brown back of bird for about 4 min. (Tot 10 min)
 8. Slice coarsly the onion and the carrot add to the skillet
 9. Add the un-peeled garlic cloves to the skillet
@@ -55,7 +55,7 @@
 18. Reduce for about 5 minutes
 19. Strain and set the liquid aside, you should have about 1 cup. Make sure to press the gibblet to extract the juices.
 20. Reduce oven to 425F
-21. Place the [Braised Endives](Braised Endives.md) at the bottom of the oven proof casserole, try to extrac some of the water from the endives
+21. Place the [[Braised Endives]] at the bottom of the oven proof casserole, try to extrac some of the water from the endives
 22. Add the bird on top of the endives
 23. Pour the juices over the bird
 24. Prepare a glaze with one egg yolk and a teaspoon of water

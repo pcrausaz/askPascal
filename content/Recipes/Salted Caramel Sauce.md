@@ -1,7 +1,7 @@
 #side #sauce #traditional #recipe
 
 > [!INFO]
-> Perfect companion for [Vanilla Ice Cream](Vanilla Ice Cream.md) and [Banana Scallops](Banana Scallops.md)
+> Perfect companion for [[Vanilla Ice Cream]] and [[Banana Scallops]]
 
 :::two-columns-plain
 

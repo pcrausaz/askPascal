@@ -1,7 +1,7 @@
 #dessert #traditional #recipe
 
 > [!INFO]
-> My take on vanilla ice cream. Goes awesome with [Banana Scallops](Banana Scallops.md) and [Salted Caramel Sauce](Salted Caramel Sauce.md)
+> My take on vanilla ice cream. Goes awesome with [[Banana Scallops]] and [[Salted Caramel Sauce]]
 
 :::two-columns-plain
 

@@ -1,7 +1,7 @@
 #side #traditional #recipe
 
 > [!INFO]
-> Goes well with Vanilla ice cream or with [Poached Pears (Sous-Vide)](Poached Pears Sous Vide.md)
+> Goes well with Vanilla ice cream or with [[Poached Pears Sous Vide|Poached Pears (Sous-Vide)]]
 
 :::two-columns-plain
 

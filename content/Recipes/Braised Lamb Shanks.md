@@ -1,7 +1,7 @@
 #meal #sous-vide #recipe
 
 > [!INFO]
-> Slow cook at his best (before Sous-Vide), perfect with [Baked Beans](Baked Beans.md)
+> Slow cook at his best (before Sous-Vide), perfect with [[Baked Beans]]
 
 :::two-columns-plain
 

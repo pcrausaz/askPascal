@@ -1,7 +1,7 @@
 #meal #traditional #recipe
 
 > [!INFO]
-> A nice variation, same technic as for the [carbonara](Spaghetti Carbonara Originalroman No Cream.md) but no eggs, no guancale
+> A nice variation, same technic as for the [[Spaghetti Carbonara -  Original roman - No Cream|carbonara]] but no eggs, no guancale
 
 :::two-columns-plain
 

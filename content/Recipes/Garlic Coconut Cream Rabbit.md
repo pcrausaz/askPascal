@@ -27,7 +27,7 @@
 6. Set the rabbit aside
 7. Finish cooking the liver and enjoy it as a snack
 8. Deglaze the pan with some white wine, set aside
-9. Bag them and cook sous-vide according to  [Sous-Vide Temperature Charts](Sous Vide Temperature Charts.md) minus 1 hour (so ~11 hours) making sure to add the deglazed juices from the pan
+9. Bag them and cook sous-vide according to  [[Sous Vide Temperature Charts|Sous-Vide Temperature Charts]] minus 1 hour (so ~11 hours) making sure to add the deglazed juices from the pan
   1. You can prep this the previous day, let them cool, refrigerate till the next day
 10. Once the rabbit is cooked
 11. Break the head of garlic into cloves, do not peel them

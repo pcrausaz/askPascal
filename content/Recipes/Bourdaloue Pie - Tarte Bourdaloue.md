@@ -8,8 +8,8 @@
 ### Details
 **Ingredients**
 
-- 250 g of [Sugar Dough / Pâte Sucrée](Sugar Dough Pate Sucree.md)
-- 2 [Poached Pears (Sous-Vide)](Poached Pears Sous Vide.md)
+- 250 g of [[Sugar Dough Pate Sucree|Sugar Dough / Pâte Sucrée]]
+- 2 [[Poached Pears Sous Vide|Poached Pears (Sous-Vide)]]
 - Almond Cream
   - 60 gr of unslated butter
   - 1 Egg
@@ -45,7 +45,7 @@
 | Serve                      | 8                                              |
 | Preparation Time           | 20 mn                                          |
 | Cooking Time (sous-vide)   |                                                |
-| Cooking Time (traditional) | 45 mn + [Poached Pears (Sous-Vide)](Poached Pears Sous Vide.md) |
+| Cooking Time (traditional) | 45 mn + [[Poached Pears Sous Vide|Poached Pears (Sous-Vide)]] |
 | Temperature                |                                                |
 | Authors                    | [Pascal Crausaz](mailto:pascal@askpascal.com) / Inspiration [Journal des femmes](http://cuisine.journaldesfemmes.com/recette/350387-tarte-bourdaloue) |
 | Special                    |                                                |

@@ -47,7 +47,7 @@
 1. Open the pear bag, lay each half on a place
 2. Coat each half with a little bit of the chocolate sauce
 
- Also works extremely well with [Raspberry Coulis](Raspberry Coulis.md). You can also substitute peaches for the pears.  
+ Also works extremely well with [[Raspberry Coulis]]. You can also substitute peaches for the pears.  
   
 
 

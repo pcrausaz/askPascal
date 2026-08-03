@@ -9,7 +9,7 @@
 **Ingredients**
 
 - 3 [Merguez](http://en.wikipedia.org/wiki/Merguez)
-- Optional: [Harissa](Harissa.md)
+- Optional: [[Harissa]]
 
 
 **Method**

@@ -8,7 +8,7 @@
 ### Details
 **Ingredients**
 
-- 250 g of [Sugar Dough / Pâte Sucrée](Sugar Dough Pate Sucree.md)
+- 250 g of [[Sugar Dough Pate Sucree|Sugar Dough / Pâte Sucrée]]
 - Flan/Custard
   - 3 eggs
   - 1 yolk

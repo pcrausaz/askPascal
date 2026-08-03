@@ -1,7 +1,7 @@
 #dessert #sous-vide #recipe
 
 > [!INFO]
-> Also goes well with [Beef Tenderloin (Sous-Vide)](Beef Tenderloin Sous Vide.md)
+> Also goes well with [[Beef Tenderloin Sous Vide|Beef Tenderloin (Sous-Vide)]]
 
 :::two-columns-plain
 

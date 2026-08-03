@@ -1,7 +1,7 @@
 #meal #sous-vide #recipe
 
 > [!INFO]
-> Very nice way to do duck breast, goes well with [Butter Carrots (Sous-Vide)](Butter Carrots Sous Vide.md) or [Sweet Potatoe (Sous-Vide)](Sweet Potatoe Sous Vide.md)
+> Very nice way to do duck breast, goes well with [[Butter Carrots Sous Vide|Butter Carrots (Sous-Vide)]] or [[Sweet Potatoe Sous Vide|Sweet Potatoe (Sous-Vide)]]
 
 :::two-columns-plain
 

@@ -1,7 +1,7 @@
 #meal #traditional #recipe
 
 > [!INFO]
-> Perfect with the [Braised Lamb Shanks](Braised Lamb Shanks.md)
+> Perfect with the [[Braised Lamb Shanks]]
 
 :::two-columns-plain
 

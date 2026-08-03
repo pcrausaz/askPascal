@@ -1,7 +1,7 @@
 #side #traditional #recipe
 
 > [!INFO]
-> Mandatory companion for the [Couscous](Couscous.md) and for Merguez
+> Mandatory companion for the [[Couscous]] and for Merguez
 
 :::two-columns-plain
 

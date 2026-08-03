@@ -1,7 +1,7 @@
 #meal #traditional #recipe
 
 > [!INFO]
-> Perfect with [Klusky](Klusky.md).
+> Perfect with [[Klusky]].
 
 :::two-columns-plain
 

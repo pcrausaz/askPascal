@@ -1,7 +1,7 @@
 #meal #sous-vide #recipe
 
 > [!INFO]
-> Perfect for [Apricot Pastry - Feuilletés aux abricots](Apricot Pastry Feuilletes aux Abricots.md)
+> Perfect for [[Apricot Pastry - Feuilletes aux Abricots|Apricot Pastry - Feuilletés aux abricots]]
 
 :::two-columns-plain
 

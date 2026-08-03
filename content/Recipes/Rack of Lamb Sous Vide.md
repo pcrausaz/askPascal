@@ -12,7 +12,7 @@
 - 1 Tsp of Garlic Powder
 - Salt & Pepper
 - Olive Oil
-- 1 Tsp of [Clarified Butter](Clarified Butter.md)
+- 1 Tsp of [[Clarified Butter]]
 
 
 **Method**
@@ -28,7 +28,7 @@
 8. Remove the meat from the water
 9. Slice the meat from the bone
 10. Dry out the meat
-11. Place a pan on medium heat with the [Clarified Butter](Clarified Butter.md)
+11. Place a pan on medium heat with the [[Clarified Butter]]
 12.  Sear the meat on all side
 13. If you have time, let the meat rest for 5 minutes under a piece of aluminum foil
 

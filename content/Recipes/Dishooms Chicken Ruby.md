@@ -10,7 +10,7 @@
 
 - 700g of skinless boneless chicken thighs
 - 20g of unsalted butter melted
-- 1 quantity of [Dishoom's Makhani Sauce](Dishooms Makhani Sauce.md) (with the cream)
+- 1 quantity of [[Dishooms Makhani Sauce|Dishoom's Makhani Sauce]] (with the cream)
 
 
 **Ingredients Garnish**
@@ -62,7 +62,7 @@
 | Traditional      |                                                |
 | ---------------- | ---------------------------------------------- |
 | Serve            | X                                              |
-| Preparation Time | 6-24h for the marinade  <br>5 mn<br><br>[Dishoom's Makhani Sauce](Dishooms Makhani Sauce.md) |
+| Preparation Time | 6-24h for the marinade  <br>5 mn<br><br>[[Dishooms Makhani Sauce|Dishoom's Makhani Sauce]] |
 | Cooking Time     | 20-30  mn                                      |
 | Temperature      |                                                |
 | Authors          | [Pascal Crausaz](mailto:pascal@askpascal.com) / [Dishoom](https://www.amazon.com/Dishoom-Bombay-Love-Shamil-Thakrar/dp/1408890674) |

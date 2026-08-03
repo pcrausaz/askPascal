@@ -1,7 +1,7 @@
 #dessert #sous-vide #recipe
 
 > [!INFO]
-> Start with a recipe of [Apricot (Sous-Vide)](Apricot Sous Vide.md)
+> Start with a recipe of [[Apricot Sous Vide|Apricot (Sous-Vide)]]
 
 :::two-columns-plain
 
@@ -17,7 +17,7 @@
 
 **Ingredients Pastry**
 
-- 8 Apricot cooked as in [Apricot (Sous-Vide)](Apricot Sous Vide.md)
+- 8 Apricot cooked as in [[Apricot Sous Vide|Apricot (Sous-Vide)]]
 - 1 Sheet of Puff Pastry
 - 1 egg (egg wash)
 
@@ -37,7 +37,7 @@ Method
 2. Cut the pastry in 10 cm squares
 3. In each corner of the square, slide about 2/3 toward the center
 4. Place a little bit of cream at the center
-5. Place 1 [Apricot (Sous-Vide)](Apricot Sous Vide.md) halh slice om top of it
+5. Place 1 [[Apricot Sous Vide|Apricot (Sous-Vide)]] halh slice om top of it
 6. Then fold 4 of the corners over the Apricot half, pinch to ensure they stick
 7. In a small bowl, break the egg, add a tiny bit of water (0.5-1 tsp), mix well, then brush the pastry.
 8. Place on a baking pan

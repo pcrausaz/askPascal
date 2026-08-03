@@ -29,7 +29,7 @@
 **Ingredients for the Banh Mi sandwich**
 
 - Baguette
-- Pickled carrots and daikon, [recipe here](Vietnamese Pickled Carrots Daikon Chua.md)
+- Pickled carrots and daikon, [[Vietnamese Pickled Carrots Daikon Chua|recipe here]]
 - Mayonnaise
 - Cilantro
 - Sliced cucumber 

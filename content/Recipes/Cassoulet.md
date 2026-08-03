@@ -20,7 +20,7 @@
 - 400 gr of pork (back is just fine/echine)
 - 400 gr. Ham Hock
 - 1 or 2 Ham bone(s)
-- 1 can of Duck Confit (usually holds 4-5 duck legs) or [homemade](Duck Confit Sous Vide.md)
+- 1 can of Duck Confit (usually holds 4-5 duck legs) or [[Duck Confit Sous Vide|homemade]]
 - 50 gr. of Goose or Duck grease (from the can above) or worst case pork
 - 3 Tomatoes
 - 2-3 types of saussages (kebasha, pork etc..)

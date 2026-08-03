@@ -36,7 +36,7 @@ Serve as you would serve any burgers.
 
   
 
-An alternative is to prep small meat balls, about 1.5, 2 cm balls and cook then in oil like you would with the [Palpites](Palpites.md)
+An alternative is to prep small meat balls, about 1.5, 2 cm balls and cook then in oil like you would with the [[Palpites]]
 
   
 

@@ -52,7 +52,7 @@ The first time I did this recipe, we had plenty of mussels and broth left over. 
 4. 30 minutes before serving place the mussels and broth into the freezer
 5. At the time of serving, place some cold mussels into a bowl, add the cold broth, then add some shredded basil leaves. Serve.
 
-This last one is perfect for hot summer days, sort of a mussels based [Gazpacho](Gazpacho.md).
+This last one is perfect for hot summer days, sort of a mussels based [[Gazpacho]].
 
 
 

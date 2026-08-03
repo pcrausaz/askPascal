@@ -35,7 +35,7 @@
   1. If you have an ice cream machine, you can churn it for 10-15 minutes. The resulting Ice Nougat will be a tad stronger in flavor and get a much darker shade. After 10 minutes, transfer to a recipient and place into the freezer.
   2. Alternatively, you can transfer the batter directly into a recipient you can cover and place into the freezer. Using this method, you may need to wait about 24 h for the batter to set properly. The Ice Nougat will then be much lighter and the flavor a tad more subtle.
 
-Note: You can serve as-is or with some [Raspberry Coulis](Raspberry Coulis.md).
+Note: You can serve as-is or with some [[Raspberry Coulis]].
 
 
 #### Pictures of Ice Cream machine Frozen Nougat:

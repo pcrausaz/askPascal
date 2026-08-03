@@ -1,7 +1,7 @@
 #drink #traditional #recipe
 
 > [!INFO]
-> Original recipe I found when searching the web. I recommend trying [Wallaby Darned](Wallaby Darned.md) instead.
+> Original recipe I found when searching the web. I recommend trying [[Wallaby Darned]] instead.
 
 :::two-columns-plain
 

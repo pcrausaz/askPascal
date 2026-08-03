@@ -14,7 +14,7 @@
 - 9 g Vanilla sugar (1 pack)
 - 50 g Powdered sugar
 - Bordeau cookie
-- [Raspberry Coulis](Raspberry Coulis.md)
+- [[Raspberry Coulis]]
 
 
 **Method**
@@ -28,7 +28,7 @@
 7. Screw on 1 iSi cream charger and shake vigorously. Refrigerate for 1-2 hours.
 8. Double the recipe (and charger)
 
-To serve, I insert a [Bordeau Cookie](http://www.amazon.com/Pepperidge-Farm-Bordeaux-Cookies-6-75-ounce/dp/B0005YXXTG) into a small glass, add a few drops of [Raspberry Coulis](Raspberry Coulis.md) then add the cream.
+To serve, I insert a [Bordeau Cookie](http://www.amazon.com/Pepperidge-Farm-Bordeaux-Cookies-6-75-ounce/dp/B0005YXXTG) into a small glass, add a few drops of [[Raspberry Coulis]] then add the cream.
 
 Inspired by  [http://www.isi.com/en/culinary/home-edition/recipes/?tx\_isirecipes\_recipes[recipe]=69&tx\_isirecipes\_recipes[action]=show&tx\_isirecipes\_recipes[controller]=Recipe&cHash=2b9b6b5633c5014d7216ae188654b7b6](http://www.isi.com/en/culinary/home-edition/recipes/?tx_isirecipes_recipes%5Brecipe%5D=69&tx_isirecipes_recipes%5Baction%5D=show&tx_isirecipes_recipes%5Bcontroller%5D=Recipe&cHash=2b9b6b5633c5014d7216ae188654b7b6)
 

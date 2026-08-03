@@ -6,23 +6,23 @@
 
 | Item | Temperature | Time | Max | Recipe |
 | --- | --- | --- | --- | --- |
-| Pear  <br>Peaches | 83°C / 181.4°F | 35 mn |     | [Poached Pears (Sous-Vide)](Poached Pears Sous Vide.md) |
+| Pear  <br>Peaches | 83°C / 181.4°F | 35 mn |     | [[Poached Pears Sous Vide|Poached Pears (Sous-Vide)]] |
 |     |     |     |     |     |
 
 ### Veggies
 
 | Item | Temperature | Time | Max | Recipe |
 | --- | --- | --- | --- | --- |
-| Carrots | 85 °C | 45 mn |     | [Butter Carrots (Sous-Vide)](Butter Carrots Sous Vide.md) |
-| Brussel Sprouts | 85 °C | 45 mn |     | [Butter Brussel Sprouts (Sous-Vide)](Butter Brussel Sprouts Sous Vide.md) |
+| Carrots | 85 °C | 45 mn |     | [[Butter Carrots Sous Vide|Butter Carrots (Sous-Vide)]] |
+| Brussel Sprouts | 85 °C | 45 mn |     | [[Butter Brussel Sprouts Sous Vide|Butter Brussel Sprouts (Sous-Vide)]] |
 | Endives | 85 °C | 30 mn |     |     |
 
 ### Fish and Shellfish
 
 | Item | Temperature | Time | Max | Recipe |
 | --- | --- | --- | --- | --- |
-| Schrimp | 67 °C | 20 mn |     | [Shrimp (Sous-Vide)](Shrimp Sous Vide.md) |
-| Scallops | 60 °C | 20 mn |     | [Scallops (Sous-Vide)](Scallops Sous Vide.md) |
+| Schrimp | 67 °C | 20 mn |     | [[Shrimp Sous Vide|Shrimp (Sous-Vide)]] |
+| Scallops | 60 °C | 20 mn |     | [[Scallops Sous Vide|Scallops (Sous-Vide)]] |
 | Lobster | 54 °C | 20 mn |     | Just add butter |
 | Salmon | 55 °C | 20 mn |     |     |
 
@@ -40,7 +40,7 @@
 
 | Item | Temperature | Time | Max | Recipe |
 | --- | --- | --- | --- | --- |
-| Rack of Lamb | 57°C / 135°F | 120 mn | 240 mn | [Rack of Lamb (Sous-Vide)](Rack of Lamb Sous Vide.md) |
+| Rack of Lamb | 57°C / 135°F | 120 mn | 240 mn | [[Rack of Lamb Sous Vide|Rack of Lamb (Sous-Vide)]] |
 |     |     |     |     |     |
 
 ### Eggs
@@ -54,9 +54,9 @@
 
 | Item | Temperature | Time | Max | Recipe |
 | --- | --- | --- | --- | --- |
-| Duck Breast | 67 °C | 35 mn |     | [Duck Breast (Sous-Vide)](Duck Breast Sous Vide.md) |
+| Duck Breast | 67 °C | 35 mn |     | [[Duck Breast Sous Vide|Duck Breast (Sous-Vide)]] |
 | Chicken Tender | 65 °C | 35 mn |     |     |
-| Chicken Liver | 62.5 °C | 20 mn |     | [Chicken Liver (Sous-Vide)](Chicken Liver Sous Vide.md) |
+| Chicken Liver | 62.5 °C | 20 mn |     | [[Chicken Liver Sous Vide|Chicken Liver (Sous-Vide)]] |
 | Quail | 56.7  °C | 120 mn |     |     |
 | Foie Gras | 55  °C | 20 mn |     | 500 gr = 10gr salt + 2gr pepper |
 

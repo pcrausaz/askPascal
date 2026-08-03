@@ -1,7 +1,7 @@
 #side #sous-vide #recipe
 
 > [!INFO]
-> My first try into Sous-Vide cooking, excellent, awesome with [Beef Tenderloin (Sous-Vide)](Beef Tenderloin Sous Vide.md) and [Butter Brussel Sprouts (Sous-Vide)](https://askpascal.atlassian.net/wiki/spaces/miam/pages/430084/Butter+Brussel+Sprouts+Sous-Vide) and [Butter Carrots (Sous-Vide)](Butter Carrots Sous Vide.md)
+> My first try into Sous-Vide cooking, excellent, awesome with [[Beef Tenderloin Sous Vide|Beef Tenderloin (Sous-Vide)]] and [Butter Brussel Sprouts (Sous-Vide)](https://askpascal.atlassian.net/wiki/spaces/miam/pages/430084/Butter+Brussel+Sprouts+Sous-Vide) and [[Butter Carrots Sous Vide|Butter Carrots (Sous-Vide)]]
 
 :::two-columns-plain
 

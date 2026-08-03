@@ -1,7 +1,7 @@
 #side #sauce #traditional #recipe
 
 > [!INFO]
-> The secret to the [Chicken Ruby](Dishooms Chicken Ruby.md) recipe. I do it without the cinnamon and without the dill fronts and only the green cardamon pods (no black pods).
+> The secret to the [[Dishooms Chicken Ruby|Chicken Ruby]] recipe. I do it without the cinnamon and without the dill fronts and only the green cardamon pods (no black pods).
 
 :::two-columns-plain
 

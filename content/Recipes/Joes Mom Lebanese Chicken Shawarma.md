@@ -36,7 +36,7 @@
 - I cucumber
 - 1 tomato
 - Some lettuce or like
-- Flat Bread (check this [recipe](Soft Flatbread No Yeast.md))
+- Flat Bread (check this [[Soft Flatbread No Yeast|recipe]])
 
 
 **Method Marinade**

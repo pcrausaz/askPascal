@@ -18,7 +18,7 @@
 
 **Method**
 
-1. Pre-heat the over and bake the shell or [Sugar Dough / Pâte Sucrée](Sugar Dough Pate Sucree.md)
+1. Pre-heat the over and bake the shell or [[Sugar Dough Pate Sucree|Sugar Dough / Pâte Sucrée]]
 2. Mix the yoks with the sugar and lemon juice
 3. On medium heat cook the mix for 10-12 minutes, stirring constantly
 4. Keep stirring until the mix thicken

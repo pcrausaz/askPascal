@@ -1,7 +1,7 @@
 #meal #traditional #recipe
 
 > [!INFO]
-> Polish dumpling. Miam. Perfect with the [Beef Roulade](Beef Roulade.md)
+> Polish dumpling. Miam. Perfect with the [[Beef Roulade]]
 
 :::two-columns-plain
 
