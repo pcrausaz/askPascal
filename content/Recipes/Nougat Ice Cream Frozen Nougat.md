@@ -38,7 +38,7 @@
 Note: You can serve as-is or with some [[Raspberry Coulis]].
 
 
-#### Pictures of Ice Cream machine Frozen Nougat:
+
 
 
 
@@ -53,6 +53,10 @@ Note: You can serve as-is or with some [[Raspberry Coulis]].
 | Authors          | [Pascal Crausaz](mailto:pascal@askpascal.com) / Original recipe from [Virginie](http://www.lesrecettesdevirginie.com/2015/12/nougat-glace-coulis-de-fruits-de-la-passion.html) |
 | Special          |                                                |
 
+#### Pictures of Frozen Nougat - no churn:
+![[Nougat Ice Cream Frozen Nougat - noChurn.jpeg]]
+
+#### Pictures of Ice Cream machine Frozen Nougat:
 ![[Nougat_Ice_Cream_Frozen_Nougat_1.jpg|200]]
 ![[Nougat_Ice_Cream_Frozen_Nougat_2.jpg|200]]
 
