@@ -1,0 +1,19 @@
+# Build output
+public/
+.quartz-cache/
+
+# Dependencies
+node_modules/
+
+# Backup folders
+content_ori/
+content_bck/
+content_bck_after_templating/
+content_bck_before_templating/
+
+# IDE
+.claude/
+.DS_Store
+
+# Personal prompts/notes
+Prompt-Columns.md
