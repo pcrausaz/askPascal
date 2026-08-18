@@ -34,7 +34,6 @@ Here is a compendium of the recipes I like:
 - [Aldebert et ses potes au Cirque Ephémère](http://www.youtube.com/watch?v=eybmTgsBohE)
 - [Pascal crosses the street in Saigon....](http://www.youtube.com/watch?v=6NknzVmXnBY)
 
-**Toys:**
 ![[Affiliates]]
 
 :::
