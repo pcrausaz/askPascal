@@ -35,10 +35,7 @@ Here is a compendium of the recipes I like:
 - [Pascal crosses the street in Saigon....](http://www.youtube.com/watch?v=6NknzVmXnBY)
 
 **Toys:**
-- [Pet Check AI](http://petcheckai.com)
-- [Tap Map App](http://tapmapapp.org)
-- [liqpil](http://www.liqpil.com)
-- [Twitch TV](https://www.twitch.tv/lacsapo)
+![[Affiliates]]
 
 :::
 
