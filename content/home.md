@@ -72,7 +72,9 @@ Browse by category:
 - [Play Pagoda](https://playpagoda.com)
   - Play Tichu Online
 - [TermWidget](https://github.com/pcrausaz/TermWidget)   
+  - Customize your desktop
 - [Follow My Gnome](https://followmygnome.com) - *Upcoming*...
+  - Garden gnome addiction...
 - [Twitch TV](https://www.twitch.tv/lacsapo)
 
 :::
