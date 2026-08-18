@@ -64,9 +64,14 @@ Browse by category:
 
 - [liqpil](https://www.liqpil.com)
 - [Pet Check AI](https://petcheckai.com)
+  - AI powered pet-health assessments
 - [Tap Map App](https://tapmapapp.org)
-- [InkedMark](https://inkedmark.com
+  - Find beer and pubs w/ community driven price sharing
+- [InkedMark](https://inkedmark.com)
+   - Handwriting recognition inside [Obsidian](https://obsidian.md) 
 - [Play Pagoda](https://playpagoda.com)
+  - Play Tichu Online
+- [TermWidget](https://github.com/pcrausaz/TermWidget)   
 - [Follow My Gnome](https://followmygnome.com) - *Upcoming*...
 - [Twitch TV](https://www.twitch.tv/lacsapo)
 
