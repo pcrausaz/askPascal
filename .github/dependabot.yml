@@ -4,11 +4,20 @@ updates:
     directory: "/"
     schedule:
       interval: "weekly"
+    # Major bumps of Quartz's own toolchain (typescript, esbuild, sharp,
+    # remark/rehype, ...) break the build; they arrive safely via
+    # `git merge upstream/v5`. Only take minor/patch here.
+    ignore:
+      - dependency-name: "*"
+        update-types: ["version-update:semver-major"]
     groups:
       production-dependencies:
         applies-to: "version-updates"
         patterns:
           - "*"
+        update-types:
+          - "minor"
+          - "patch"
   - package-ecosystem: "github-actions"
     directory: "/"
     schedule:
