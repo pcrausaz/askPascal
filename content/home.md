@@ -62,10 +62,12 @@ Browse by category:
 
 **Toys:**
 
-- [Follow My Gnome](http://followmygnome.com) - *Upcoming*...
-- [Pet Check AI](http://petcheckai.com)
-- [Tap Map App](http://tapmapapp.org)
-- [liqpil](http://www.liqpil.com)
+- [liqpil](https://www.liqpil.com)
+- [Pet Check AI](https://petcheckai.com)
+- [Tap Map App](https://tapmapapp.org)
+- [InkedMark](https://inkedmark.com
+- [Play Pagoda](https://playpagoda.com)
+- [Follow My Gnome](https://followmygnome.com) - *Upcoming*...
 - [Twitch TV](https://www.twitch.tv/lacsapo)
 
 :::
