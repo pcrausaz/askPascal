@@ -19,3 +19,5 @@ content_bck_after_templating/
 content_bck_before_templating/
 .claude/
 Prompt-Columns.md
+
+.proj
